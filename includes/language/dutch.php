@@ -1,0 +1,171 @@
+<?php
+/*
+  $Id$
+
+  osCommerce, Open Source E-Commerce Solutions
+  http://www.oscommerce.com
+
+  Copyright (c) 2020 osCommerce
+
+  Released under the GNU General Public License
+  Vertaald door Fiber - osCommerce Phoenix CE 1.0.6.1
+*/
+
+// look in your $PATH_LOCALE/locale directory for available locales
+// or type locale -a on the server.
+// Array examples which should work on all servers:
+// 'en_US.UTF-8', 'en_US.UTF8', 'enu_usa'
+// 'en_GB.UTF-8', 'en_GB.UTF8', 'eng_gb'
+// 'en_AU.UTF-8', 'en_AU.UTF8', 'ena_au'
+@setlocale(LC_ALL, ['nl_NL.UTF-8', 'nl_NL.UTF8', 'nld_NLD']);
+
+const DATE_FORMAT_SHORT = '%d/%m/%Y';  // this is used for strftime()
+const DATE_FORMAT_LONG = '%A %d %B, %Y'; // this is used for strftime()
+const DATE_FORMAT = 'd/m/Y'; // this is used for date()
+const DATE_TIME_FORMAT = DATE_FORMAT_SHORT . ' %H:%M:%S';
+const JQUERY_DATEPICKER_FORMAT = 'dd/mm/yyyy'; // see http://docs.jquery.com/UI/Datepicker/formatDate
+//define('JQUERY_DATEPICKER_I18N_CODE', 'nl-BE'); // leave empty for en_US; see http://bootstrap-datepicker.readthedocs.org/en/release/options.html#language
+const JQUERY_DATEPICKER_I18N_CODE = 'nl';
+
+// if USE_DEFAULT_LANGUAGE_CURRENCY is true, use the following currency, instead of the application's default currency (used when changing language)
+const LANGUAGE_CURRENCY = 'EUR';
+
+// Global entries for the <html> tag
+const HTML_PARAMS = 'dir="ltr" lang="nl"';
+
+// charset for web pages and emails
+const CHARSET = 'utf-8';
+
+// page title
+const TITLE = STORE_NAME;
+
+// text in includes/modules/downloads.php
+const HEADER_TITLE_MY_ACCOUNT = 'Mijn Account';
+
+// text in includes/application_top.php
+const HEADER_TITLE_TOP = '<i class="fas fa-home"></i><span class="sr-only"> Home</span>';
+const HEADER_TITLE_CATALOG = 'Shop';
+
+// checkout procedure text
+const CHECKOUT_BAR_DELIVERY = 'Verzend informatie';
+const CHECKOUT_BAR_PAYMENT = 'Betalings informatie';
+const CHECKOUT_BAR_CONFIRMATION = 'Bevestiging';
+
+// pull down default text
+const PULL_DOWN_DEFAULT = 'Selecteer';
+
+// javascript messages
+const JS_ERROR = 'Er zijn fouten opgetreden tijdens het proces van uw formulier.nnVul de volgende correcties aan:nn';
+
+const JS_ERROR_NO_PAYMENT_MODULE_SELECTED = '* Selecteer een betalingsmethode voor uw bestelling.n';
+
+const ERROR_NO_PAYMENT_MODULE_SELECTED = 'Selecteer een betalingsmethode voor uw bestelling.';
+
+// constants for use in tep_prev_next_display function
+const TEXT_RESULT_PAGE = 'Resultaatpaginas';
+const TEXT_DISPLAY_NUMBER_OF_PRODUCTS = 'Weergeven <strong>%d</strong> van <strong>%d</strong> (of <strong>%d</strong> producten)';
+
+const PREVNEXT_TITLE_FIRST_PAGE = 'Eerste pagina';
+const PREVNEXT_TITLE_PREVIOUS_PAGE = 'Vorige pagina';
+const PREVNEXT_TITLE_NEXT_PAGE = 'Volgende pagina';
+const PREVNEXT_TITLE_LAST_PAGE = 'Laatste pagina';
+const PREVNEXT_TITLE_PAGE_NO = 'Pagina %d';
+const PREVNEXT_TITLE_PREV_SET_OF_NO_PAGE = 'Vorige Set van %d Paginas';
+const PREVNEXT_TITLE_NEXT_SET_OF_NO_PAGE = 'Volgende Set van %d Paginas';
+const PREVNEXT_BUTTON_FIRST = '&lt;&lt;Eerste';
+const PREVNEXT_BUTTON_PREV = '[&lt;&lt;&nbsp;Vorige]';
+const PREVNEXT_BUTTON_NEXT = '[Volgende&nbsp;&gt;&gt;]';
+const PREVNEXT_BUTTON_LAST = 'Laatste&gt;&gt;';
+
+const IMAGE_BUTTON_ADD_ADDRESS = 'Voeg adres toe';
+const IMAGE_BUTTON_BACK = 'Terug';
+const IMAGE_BUTTON_BUY_NOW = 'Koop nu';
+const IMAGE_BUTTON_CHANGE_ADDRESS = 'Verander adres';
+const IMAGE_BUTTON_CHECKOUT = 'Afrekenen';
+const IMAGE_BUTTON_CONFIRM_ORDER = 'Bevestig bestelling';
+const IMAGE_BUTTON_CONTINUE = 'Doorgaan';
+const IMAGE_BUTTON_DELETE = 'Verwijder';
+const IMAGE_BUTTON_LOGIN = 'Log In';
+const IMAGE_BUTTON_IN_CART = 'Voeg toe aan de winkelwagen';
+const IMAGE_BUTTON_SEARCH = 'Zoeken';
+const IMAGE_BUTTON_UPDATE = 'Update';
+const IMAGE_BUTTON_UPDATE_PREFERENCES = 'Voorkeuren bijwerken';
+
+const SMALL_IMAGE_BUTTON_DELETE = 'Verwijder';
+const SMALL_IMAGE_BUTTON_EDIT = 'Bewerk';
+const SMALL_IMAGE_BUTTON_VIEW = 'bekijk';
+const SMALL_IMAGE_BUTTON_BUY = 'Koop';
+
+const ICON_ARROW_RIGHT = 'meer';
+
+const TEXT_SORT_PRODUCTS = 'Sorteer artikelen ';
+const TEXT_DESCENDINGLY = 'aflopend';
+const TEXT_ASCENDINGLY = 'oplopend';
+const TEXT_BY = ' door ';
+
+const TEXT_UNKNOWN_TAX_RATE = 'Onbekend belastingtarief';
+
+const TEXT_CCVAL_ERROR_INVALID_DATE = 'De opgegeven vervaldatum voor de creditcard is ongeldig. Controleer de datum en probeer het opnieuw.';
+const TEXT_CCVAL_ERROR_INVALID_NUMBER = 'Het opgegeven creditcardnummer is ongeldig. Controleer het nummer en probeer het opnieuw.';
+const TEXT_CCVAL_ERROR_UNKNOWN_CARD = 'De eerste vier cijfers van het ingevoerde nummer zijn: %s. Als dat nummer correct is, accepteren we dat type creditcard niet. Probeer het opnieuw als het fout is.';
+
+// category views
+const TEXT_VIEW = 'Bekijk: ';
+const TEXT_VIEW_LIST = ' Lijst';
+const TEXT_VIEW_GRID = ' Raster';
+
+// search placeholder
+const TEXT_SEARCH_PLACEHOLDER = 'Zoeken';
+
+// message for required inputs
+const FORM_REQUIRED_INFORMATION = '<i class="fas fa-asterisk text-danger"></i> Verplichte Informatie';
+const FORM_REQUIRED_INPUT = '<span class="form-control-feedback text-danger"><i class="fas fa-asterisk"></i></span>';
+
+// grid/list
+const TEXT_SORT_BY = 'Sorteer op ';
+// moved from index
+const TABLE_HEADING_IMAGE = '';
+const TABLE_HEADING_MODEL = 'Model';
+const TABLE_HEADING_PRODUCTS = 'Artikel Naam';
+const TABLE_HEADING_MANUFACTURER = 'Fabrikant';
+const TABLE_HEADING_QUANTITY = 'Voorraad';
+const TABLE_HEADING_PRICE = 'Prijs';
+const TABLE_HEADING_WEIGHT = 'Gewicht';
+const TABLE_HEADING_BUY_NOW = 'Koop Nu';
+const TABLE_HEADING_LATEST_ADDED = 'Datum toegevoegd';
+const TABLE_HEADING_ORDERED = 'Meest populair';
+
+// product notifications
+const PRODUCT_SUBSCRIBED = '%s is toegevoegd aan uw lijst met meldingen';
+const PRODUCT_UNSUBSCRIBED = '%s is verwijderd uit uw lijst met meldingen';
+const PRODUCT_ADDED = '%s is toegevoegd aan uw winkelwagen';
+const PRODUCT_REMOVED = '%s is verwijderd uit uw winkelwagen';
+
+// bootstrap helper
+const MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION = '';
+
+// noscript helper
+const TEXT_NOSCRIPT = <<<'EOT'
+<p><strong>JavaScript lijkt te zijn uitgeschakeld in uw browser.</strong></p>
+<p>U moet JavaScript in uw browser hebben ingeschakeld om de functionaliteit van de website te gebruiken.<br>
+<a class="alert-link" href="https://www.enable-javascript.com/" target="_blank" rel="nofollow">Klik hier voor instructies over het inschakelen van javascript in uw browser</a>.</p>
+EOT;
+
+// sitewide is-product
+const IS_PRODUCT_SHOW_PRICE = '%s';
+const IS_PRODUCT_SHOW_PRICE_SPECIAL = '<del>%s</del> <span class="text-danger">nu %s</span>';
+const IS_PRODUCT_BUTTON_BUY = '<i class="fas fa-shopping-cart"></i>';
+const IS_PRODUCT_BUTTON_VIEW = '<i class="fas fa-eye"></i> Bekijk';
+
+// sitewide product listing
+const LISTING_SORT_DOWN = '<i class="fas fa-level-down-alt text-primary"></i>';
+const LISTING_SORT_UP = '<i class="fas fa-level-up-alt text-primary"></i>';
+const LISTING_SORT_UNSELECTED = '<i class="fas fa-level-up-alt text-black-50"></i>';
+// for new style internal pages
+const LINK_TEXT_EDIT = '<small><a class="%s" href="%s">Bewerk</a></small>';
+const SHIPPING_FA_ICON = '<i class="fas fa-shipping-fast fa-fw fa-3x float-right text-black-50"></i>';
+const PAYMENT_FA_ICON = '<i class="fas fa-file-invoice-dollar fa-fw fa-3x float-right text-black-50"></i>';
+
+const ENTRY_COMMENTS = 'Nog iets wat we moeten weten?';
+const ENTRY_COMMENTS_PLACEHOLDER = 'Reageer hier...';
+const TABLE_HEADING_OR = '-of-';
