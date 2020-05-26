@@ -29,7 +29,6 @@ define('TEXT_INFO_DELETE_REVIEW_INTRO', 'Weet u het zeker dat u deze recensie wi
 
 define('TEXT_INFO_DATE_ADDED', 'Datum toegevoegd: %s');
 define('TEXT_INFO_LAST_MODIFIED', 'Laatst gewijzigd: %s');
-define('TEXT_INFO_IMAGE_NONEXISTENT', 'PLAATJE BESTAAT NIET');
 define('TEXT_INFO_REVIEW_AUTHOR', 'Auteur: %s');
 define('TEXT_INFO_REVIEW_RATING', 'Beoordeling: %s');
 define('TEXT_INFO_REVIEW_READ', 'Lezen: %s');
