@@ -32,4 +32,5 @@ define('TEXT_WARNING_OF_DELETE', 'Aan deze optie zijn artikelen en opties gekopp
 define('TEXT_OK_TO_DELETE', 'Aan deze optie zijn geen artikelen en opties gekoppeld - het is veilig om deze te verwijderen.');
 define('TEXT_OPTION_ID', 'Optie ID');
 define('TEXT_OPTION_NAME', 'Optie Naam');
-?>
+
+const PLEASE_SELECT_OPTION = '--- Selecteer---';
