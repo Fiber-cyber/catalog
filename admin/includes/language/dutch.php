@@ -160,3 +160,5 @@ const PLACEHOLDER_COMMA_SEPARATION = 'Moet, zijn, komma, gescheiden';
 // message for required inputs
 const FORM_REQUIRED_INPUT = '<span class="form-control-feedback text-danger"><i class="fas fa-asterisk"></i></span>';
 
+const TEXT_IMAGE_NON_EXISTENT = 'PLAATJE BESTAAT NIET';
+
