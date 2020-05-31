@@ -14,4 +14,3 @@ define('NAVBAR_TITLE', 'Verzenden &amp; Retourneren');
 define('HEADING_TITLE', 'Verzenden &amp; Retourneren');
 
 define('TEXT_INFORMATION', 'Plaats hier uw Verzenden &amp; Retourneren informatie.');
-?>

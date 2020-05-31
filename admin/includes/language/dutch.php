@@ -134,8 +134,8 @@ const TEXT_DISPLAY_NUMBER_OF_TAX_ZONES = 'Weergeven <strong>%d</strong> van <str
 const TEXT_DISPLAY_NUMBER_OF_TAX_RATES = 'Weergeven <strong>%d</strong> van <strong>%d</strong> (of <strong>%d</strong> btw tarieven)';
 const TEXT_DISPLAY_NUMBER_OF_ZONES = 'Weergeven <strong>%d</strong> van <strong>%d</strong> (of <strong>%d</strong> zones)';
 
-const PREVNEXT_BUTvanN_PREV = '&lt;&lt;';
-const PREVNEXT_BUTvanN_NEXT = '&gt;&gt;';
+const PREVNEXT_BUTTON_PREV = '&lt;&lt;';
+const PREVNEXT_BUTTON_NEXT = '&gt;&gt;';
 
 const TEXT_DEFAULT = 'standaard';
 const TEXT_SET_DEFAULT = 'Stel in als standaard';
