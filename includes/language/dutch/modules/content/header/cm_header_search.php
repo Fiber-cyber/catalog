@@ -15,4 +15,4 @@
 */
 
   define('MODULE_CONTENT_HEADER_SEARCH_TITLE', 'Zoekveld');
-  define('MODULE_CONTENT_HEADER_SEARCH_DESCRIPTION', 'Voeg een zoekveld toe aan de hader van uw shop.');
+  define('MODULE_CONTENT_HEADER_SEARCH_DESCRIPTION', 'Voeg een zoekveld toe aan de header van uw shop.');
