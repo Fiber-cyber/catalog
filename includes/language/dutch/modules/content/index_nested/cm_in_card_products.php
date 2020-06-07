@@ -15,7 +15,7 @@
 */
 
   const MODULE_CONTENT_IN_CARD_PRODUCTS_TITLE       = 'Nieuwe Artikelen';
-  const MODULE_CONTENT_IN_CARD_PRODUCTS_DESCRIPTION = 'Toon nieuwe artieklen op uw index pagina.';
+  const MODULE_CONTENT_IN_CARD_PRODUCTS_DESCRIPTION = 'Toon nieuwe artikelen op uw index pagina.';
   
   const MODULE_CONTENT_IN_CARD_PRODUCTS_HEADING     = 'Nieuwe artikelen voor %s';
   
