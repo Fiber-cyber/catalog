@@ -1,6 +1,7 @@
 # osCommerce-Phoenix-Dutch
-Taalpakket voor Phoenix 1.0.6.2
+Taalpakket voor Phoenix 1.0.7.4
 Inclusief vertaling voor de PayPal app
+Vertaling door Fiber
 
 Login in de Admin van je Shop.
 - Ga naar Localization 

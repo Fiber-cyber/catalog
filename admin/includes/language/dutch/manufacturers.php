@@ -45,8 +45,6 @@ define('TEXT_EDIT_MANUFACTURERS_DESCRIPTION', 'Bewerk de beschrijving van de Fab
 
 define('TEXT_MANUFACTURERS_SEO_DESCRIPTION', 'Fabrikant Meta beschijving voor SEO:<br><small>Voeg een&lt;beschrijving&gt; toe aan het Meta Element.</small>');
 define('TEXT_EDIT_MANUFACTURERS_SEO_DESCRIPTION', 'Fabrikant Meta beschijving voor SEO:<br><small>bewerk de &lt;bechrijving&gt; van het Meta Element.</small>');
-define('TEXT_MANUFACTURERS_SEO_KEYWORDS', 'Fabrikant Meta Zoekwoorden voor SEO:<br><small>Voeg &lt;zoekwoorden&gt;toe aan het Meta Element.<br>Moet komma gescheiden zijn.</small>');
-define('TEXT_EDIT_MANUFACTURERS_SEO_KEYWORDS', 'Fabrikant Meta Zoekwoorden voor SEO:<br><small>Bewerk de &lt;zoekwoorden&gt; van het Meta Element.<br>Moet komma gescheiden zijn.</small>');
 
 const TEXT_MANUFACTURERS_SEO_TITLE = 'Fabrikant Titel voor SEO:<br><small>Vervang optioneel de naam van de Fabrikant in de &lt;titel&gt; van het Meta Element en de Breadcrumb.<br>Laat blanco voor de standaardnaam van de Fabrikant.</small>';
 const TEXT_EDIT_MANUFACTURERS_SEO_TITLE = 'Bewerk de Fabrikant Titel voor SEO:<br><small>Vervang optioneel de naam van de Fabrikant in de &lt;titel&gt; van het Meta Element en de Breadcrumb.<br>Laat blanco voor de standaardnaam van de Fabrikant.</small>';

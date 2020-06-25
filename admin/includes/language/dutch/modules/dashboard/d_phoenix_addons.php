@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-define('MODULE_ADMIN_DASHBOARD_PHOENIX_ADDONS_TITLE', 'gecertiificeerde Addons & Services');
+define('MODULE_ADMIN_DASHBOARD_PHOENIX_ADDONS_TITLE', 'Gecertiificeerde Addons & Services');
 define('MODULE_ADMIN_DASHBOARD_PHOENIX_ADDONS_DESCRIPTION', 'Toon de nieuwste add-ons voor Phoenix Club-leden');
 
 define('MODULE_ADMIN_DASHBOARD_PHOENIX_ADDONS_OWNER', 'Van');
