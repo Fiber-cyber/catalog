@@ -108,16 +108,14 @@ const TEXT_EDIT_CATEGORIES_DESCRIPTION = 'Bewerk de Categorie Beschrijving';
 
 const TEXT_CATEGORIES_SEO_DESCRIPTION = 'Categorie Meta Beschrijving voor SEO:<br><small>Voeg een &lt;beschrijving&gt;voor het Meta Element toe.</small>';
 const TEXT_EDIT_CATEGORIES_SEO_DESCRIPTION = 'Bewerk de Categorie Meta Beschrijving voor SEO:<br><small>Verander de &lt;beschrijving&gt; van het Meta Element.</small>';
-const TEXT_CATEGORIES_SEO_KEYWORDS = 'Categorie Meta Zoekwoorden voor SEO:<br><small>Voeg &lt;zoekwoorden&gt; toe aan het Meta Element.<br>Moet gescheiden zijn door komma\'s.</small>';
-const TEXT_EDIT_CATEGORIES_SEO_KEYWORDS = 'Bewerk de Categorie Meta Zoekwoorden voor SEO:<br><small>verander de &lt;zoekwoorden&gt; voor het Meta Element.<br>Moet gescheiden zijn door komma\'s.</small>';
- 
+
 const TEXT_PRODUCTS_GTIN = 'Artikelen GTIN';
 const TEXT_PRODUCTS_GTIN_HELP = 'GTIN moet worden opgeslagen als 14 cijfers. Elke GTIN kleiner dan dit wordt met nul opgevuld volgens de GTIN-specificaties.';
 
 const TEXT_PRODUCTS_SEO_DESCRIPTION = 'Artikel Meta Beschrijving voor SEO';
 const TEXT_PRODUCTS_SEO_DESCRIPTION_HELP = 'Voeg een &lt;beschrijving&gt; toe aan het Meta Element.  HTML is niet toegestaan.';
-const TEXT_PRODUCTS_SEO_KEYWORDS = 'Artikel Meta Zoekwoorden voor SEO';
-const TEXT_PRODUCTS_SEO_KEYWORDS_HELP = 'Voeg &lt;zoekwoorden&gt; toe aan het Meta Element of Zoekmachine. Moet gescheiden zijn door komma\'s. HTML is niet toegestaan.';
+const TEXT_PRODUCTS_SEO_KEYWORDS = 'Artikel Zoekwoorden';
+const TEXT_PRODUCTS_SEO_KEYWORDS_HELP = 'Helpt de trefwoordenzoekmachine. Moet gescheiden zijn door komma\'s. HTML is niet toegestaan.';
 const TEXT_PRODUCTS_SEO_TITLE = 'Artikel Titel voor SEO';
 const TEXT_PRODUCTS_SEO_TITLE_HELP = 'Vervangt de Artikelnaam in het &lt;title&gt; Meta Element en optioneel in de Breadcrumb Trail.<br>Laat blanco voor de standaard Artikelnaam.';
 const TEXT_CATEGORIES_SEO_TITLE = 'Categorie Titel voor SEO:<br><small>Vervang de Categorienaam in het &lt;title&gt; Meta Element.<br>Laat blanco voor de standaard Categorienaam.</small>';

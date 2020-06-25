@@ -18,8 +18,3 @@ define('TEXT_NO_PRODUCTS', 'Er zijn geen aanbiedingen beschikbaar.');
 // seo
 define('META_SEO_TITLE', 'Aanbiedingen pagina');
 define('META_SEO_DESCRIPTION', 'Aanbiedingen beschrijving');
-/*
-keywords are USELESS unless you are selling into China and want to be listed in Baidu Search Engine
-*/
-define('META_SEO_KEYWORDS', 'aanbieding, aanbiedingen, gereduceerde prijzen, korting, sales');
-

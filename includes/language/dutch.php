@@ -42,10 +42,6 @@ const TITLE = STORE_NAME;
 // text in includes/modules/downloads.php
 const HEADER_TITLE_MY_ACCOUNT = 'Mijn Account';
 
-// text in includes/application_top.php
-const HEADER_TITLE_TOP = '<i class="fas fa-home"></i><span class="sr-only"> Home</span>';
-const HEADER_TITLE_CATALOG = 'Shop';
-
 // checkout procedure text
 const CHECKOUT_BAR_DELIVERY = 'Verzend informatie';
 const CHECKOUT_BAR_PAYMENT = 'Betalings informatie';

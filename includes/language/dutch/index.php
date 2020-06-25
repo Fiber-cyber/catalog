@@ -24,9 +24,5 @@ define('TEXT_ALL_MANUFACTURERS', 'Alle Fabrikanten');
 if ( ($category_depth == 'top') && (!isset($_GET['manufacturers_id'])) ) {
   define('META_SEO_TITLE', 'Index Pagina Titel');
   define('META_SEO_DESCRIPTION', 'Dit is de beschrijving van uw site die in het META-beschrijvingselement kan worden gebruikt');
-  /*
-  keywords are USELESS unless you are selling into China and want to be listed in Baidu Search Engine
-  */
-  define('META_SEO_KEYWORDS', 'dit, zijn, de, door, komma\'s gescheiden, sleutelwoorden, die worden gebruikt in het META-sleutelwoordenelement');
 }
 
