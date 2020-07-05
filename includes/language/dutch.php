@@ -8,7 +8,7 @@
   Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
-  Vertaald door Fiber - osCommerce Phoenix CE 1.0.6.1
+  Vertaald door Fiber - osCommerce Phoenix CE 1.0.7.5
 */
 
 // look in your $PATH_LOCALE/locale directory for available locales
@@ -23,7 +23,7 @@ const DATE_FORMAT_SHORT = '%d/%m/%Y';  // this is used for strftime()
 const DATE_FORMAT_LONG = '%A %d %B, %Y'; // this is used for strftime()
 const DATE_FORMAT = 'd/m/Y'; // this is used for date()
 const DATE_TIME_FORMAT = DATE_FORMAT_SHORT . ' %H:%M:%S';
-const JQUERY_DATEPICKER_FORMAT = 'dd/mm/yyyy'; // see http://docs.jquery.com/UI/Datepicker/formatDate
+const JQUERY_DATEPICKER_FORMAT = 'dd/mm/yy'; // see http://docs.jquery.com/UI/Datepicker/formatDate
 //define('JQUERY_DATEPICKER_I18N_CODE', 'nl-BE'); // leave empty for en_US; see http://bootstrap-datepicker.readthedocs.org/en/release/options.html#language
 const JQUERY_DATEPICKER_I18N_CODE = 'nl';
 

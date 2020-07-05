@@ -1,5 +1,5 @@
 # osCommerce-Phoenix-Dutch
-Taalpakket voor Phoenix 1.0.7.4
+Taalpakket voor Phoenix 1.0.7.5
 Inclusief vertaling voor de PayPal app
 Vertaling door Fiber
 
@@ -14,5 +14,9 @@ Login in de Admin van je Shop.
   Directory: dutch
   Sorteervolgorde: (bepaal zelf).
 - Klik op Save
+
+========
+Github >>> https://github.com/Fiber-cyber/catalog
+========
 
  
