@@ -15,8 +15,7 @@ Login in de Admin van je Shop.
   Sorteervolgorde: (bepaal zelf).
 - Klik op Save
 
+
 ========
 Github >>> https://github.com/Fiber-cyber/catalog
 ========
-
- 
