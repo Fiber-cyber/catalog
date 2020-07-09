@@ -24,8 +24,7 @@ const DATE_FORMAT_LONG = '%A %d %B, %Y'; // this is used for strftime()
 const DATE_FORMAT = 'd/m/Y'; // this is used for date()
 const DATE_TIME_FORMAT = DATE_FORMAT_SHORT . ' %H:%M:%S';
 const JQUERY_DATEPICKER_FORMAT = 'dd/mm/yy'; // see http://docs.jquery.com/UI/Datepicker/formatDate
-//define('JQUERY_DATEPICKER_I18N_CODE', 'nl-BE'); // leave empty for en_US; see http://bootstrap-datepicker.readthedocs.org/en/release/options.html#language
-const JQUERY_DATEPICKER_I18N_CODE = 'nl';
+const JQUERY_DATEPICKER_I18N_CODE = 'nl'; // leave empty for en_US; see http://bootstrap-datepicker.readthedocs.org/en/release/options.html#language
 
 // if USE_DEFAULT_LANGUAGE_CURRENCY is true, use the following currency, instead of the application's default currency (used when changing language)
 const LANGUAGE_CURRENCY = 'EUR';
