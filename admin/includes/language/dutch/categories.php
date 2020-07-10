@@ -23,7 +23,7 @@ const TABLE_HEADING_CATEGORIES_PRODUCTS = 'Categorie&euml;n / Artikelen';
 const TABLE_HEADING_ACTION = 'Actie';
 const TABLE_HEADING_STATUS = 'Status';
 
-const TEXT_NEW_PRODUCT = 'Artikle toevoegen <small>in %s</small>';
+const TEXT_NEW_PRODUCT = 'Artikel toevoegen <small>in %s</small>';
 const TEXT_EXISTING_PRODUCT = 'Bewerk artikel <small>in %s</small>';
 
 const TEXT_CATEGORIES = 'Categorie&euml;n';
@@ -79,7 +79,7 @@ const TEXT_PRODUCT_NOT_AVAILABLE = 'Niet op voorraad';
 const TEXT_PRODUCTS_MANUFACTURER = 'Artikel Fabrikant';
 const TEXT_PRODUCTS_NAME = 'Artikel Naam';
 const TEXT_PRODUCTS_DESCRIPTION = 'Artikel Beschrijving';
-const TEXT_PRODUCTS_QUANTITY = 'Artikle hoeveelheid';
+const TEXT_PRODUCTS_QUANTITY = 'Artikel hoeveelheid';
 const TEXT_PRODUCTS_MODEL = 'Artikel Model';
 const TEXT_PRODUCTS_IMAGE = 'Artikel Plaatje';
 const TEXT_PRODUCTS_MAIN_IMAGE = 'Hoofd Plaatje';
