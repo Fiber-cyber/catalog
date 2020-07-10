@@ -24,6 +24,6 @@ define('MY_ACCOUNT_PASSWORD', 'Account wachtwoord');
 define('MY_ORDERS_TITLE', 'Orders');
 define('MY_ORDERS_VIEW', 'Bekijk orders');
 
-define('EMAIL_NOTIFICATIONS_TITLE', 'Notificatioes');
+define('EMAIL_NOTIFICATIONS_TITLE', 'Notificaties');
 define('EMAIL_NOTIFICATIONS_NEWSLETTERS', 'Nieuwsbrieven');
 define('EMAIL_NOTIFICATIONS_PRODUCTS', 'Artikel notificaties');
