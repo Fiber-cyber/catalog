@@ -13,7 +13,7 @@
 define('NAVBAR_TITLE_1', 'Log in');
 define('NAVBAR_TITLE_2', 'Wachtwoord vergeten');
 
-define('HEADING_TITLE', 'Ik ben mijn wachtworod vergeten!');
+define('HEADING_TITLE', 'Ik ben mijn wachtwoord vergeten!');
 
 define('TEXT_MAIN', 'Als u uw wachtwoord bent vergeten, vul hieronder uw e-mailadres in en we sturen u instructies over hoe u uw wachtwoord veilig kunt wijzigen.');
 
