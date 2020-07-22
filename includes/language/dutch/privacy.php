@@ -11,7 +11,7 @@
 */
 
 define('NAVBAR_TITLE', 'Privacy verklaring');
-define('HEADING_TITLE', 'Privacyv verklaring');
+define('HEADING_TITLE', 'Privacy verklaring');
 
 define('TEXT_INFORMATION', 'plaats hier uw Privacy verklaring.');
 ?>
