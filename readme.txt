@@ -1,4 +1,4 @@
-OSCOM CE Phoenix 1.0.7.5
+OSCOM CE Phoenix 1.0.7.6
 Vertaald door Fiber inclusief vertaling van de PayPal app
 
 Login in de Admin van je Shop.
@@ -12,7 +12,3 @@ Login in de Admin van je Shop.
   Directory: dutch
   Sorteervolgorde: (bepaal zelf).
 - Klik op Save
-
-========
-Github >>> https://github.com/Fiber-cyber/catalog
-========
