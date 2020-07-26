@@ -34,7 +34,7 @@ define('TEXT_PAGE_PUBLISHED', 'Geplubiceerd');
 define('TEXT_PAGE_NOT_PUBLISHED', 'Niet geplubiceerd');
 
 define('PAGE_TITLE', 'Titel');
-define('PAGE_TEXT', 'Volgende pagina');
+define('PAGE_TEXT', 'Pagina tekst');
 define('PAGE_AUTHOR', 'Auteur');
 define('PAGE_SLUG', 'Slug');
 define('NAVBAR_TITLE', 'Navbar Titel');
