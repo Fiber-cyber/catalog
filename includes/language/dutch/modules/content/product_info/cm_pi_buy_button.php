@@ -15,6 +15,6 @@
 */
 
   const MODULE_CONTENT_PI_BUY_TITLE       = 'Koop button';
-  const MODULE_CONTENT_PI_BUY_DESCRIPTION = 'AToon de Koop nu button op de product_info Pagina.';
+  const MODULE_CONTENT_PI_BUY_DESCRIPTION = 'Toon de Koop nu button op de Artikel Pagina.';
   
   const MODULE_CONTENT_PI_BUY_BUTTON_TEXT = 'Voeg toe aan de winkelwagen';
