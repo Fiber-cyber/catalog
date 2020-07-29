@@ -29,7 +29,7 @@ define('HEADING_ORDER_COMMENTS', 'Opmerkingen over uw bestelling');
 
 define('TEXT_EDIT', 'Bewerk');
 
-define('IMAGE_BUTTON_FINALISE_ORDER', 'Mijn bestelling afronden en betalen');
+define('IMAGE_BUTTON_FINALISE_ORDER', 'Mijn bestelling afronden en %s betalen');
 
 define('HEADING_QTY', 'Hoeveelheid');
 
