@@ -16,9 +16,3 @@ const ENTRY_MATC_TEXT = 'Door de box aan te klikken, gaat u akkoord met onze <a 
 
 // for the modal popup
 const MATC_BUTTON_CLOSE = 'Sluiten';
-
-const MATC_PRIVACY_MODAL_TITLE = 'Privacy';
-const MATC_PRIVACY_MODAL_TEXT = '<p>Plaats hier uw privacytekst...</p>';
-
-const MATC_TERMS_MODAL_TITLE = 'Algemene Voorwaarden';
-const MATC_TERMS_MODAL_TEXT = '<p>Plaats hier uw Algemene Voorwaarden...</p>';

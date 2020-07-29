@@ -24,3 +24,4 @@ const TEXT_NEWSLETTER_CUSTOMERS = 'Aan alle nieuwsbrief abonnees';
 
 const NOTICE_EMAIL_SENT_TO = '<strong>Note:</strong> Email verzonden naar: %s';
 const ERROR_NO_CUSTOMER_SELECTED = '<strong>FOUT:</strong> Er is geen klant geselecteerd.';
+const ERROR_INVALID_EMAIL = '<strong>Error:</strong> "%s" is geen geldig e-mailadres.';
