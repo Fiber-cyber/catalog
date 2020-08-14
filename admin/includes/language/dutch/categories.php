@@ -99,8 +99,8 @@ const TEXT_COPY_AS_LINK = 'Link artikel';
 const TEXT_COPY_AS_DUPLICATE = 'Dupliceer artikel';
 
 const ERROR_CANNOT_LINK_TO_SAME_CATEGORY = '<strong>FOUT:</strong> Kan geen artikelen in dezelfde categorie linken.';
-const ERROR_CATALOG_IMAGE_DIRECTORY_NOT_WRITEABLE = '<strong>FOUT:</strong> De map met catalogus afbeeldingen is niet beschrijfbaar: ' . DIR_FS_CATALOG_IMAGES;
-const ERROR_CATALOG_IMAGE_DIRECTORY_DOES_NOT_EXIST = '<strong>FOUT:</strong> De map met catalogus afbeeldingen bestaat niet: ' . DIR_FS_CATALOG_IMAGES;
+const ERROR_CATALOG_IMAGE_DIRECTORY_NOT_WRITEABLE = '<strong>FOUT:</strong> De map met catalogus afbeeldingen is niet beschrijfbaar:  %s';
+const ERROR_CATALOG_IMAGE_DIRECTORY_DOES_NOT_EXIST = '<strong>FOUT:</strong> De map met catalogus afbeeldingen bestaat niet:  %s';
 const ERROR_CANNOT_MOVE_CATEGORY_TO_PARENT = '<strong>FOUT:</strong> Categorie kan niet worden verplaatst naar onderliggende categorie.';
 
 const TEXT_CATEGORIES_DESCRIPTION = 'Categorie beschrijving:<br><small>wordt getoond in de pagina</small>';
