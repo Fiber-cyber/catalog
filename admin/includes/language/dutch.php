@@ -9,7 +9,7 @@
 
   Released under the GNU General Public License
   
-  Vertaald door Fiber - osCommerce Phoenix CE 1.0.7.6
+  Vertaald door Fiber - osCommerce Phoenix CE 1.0.7.7
 */
 
 // look in your $PATH_LOCALE/locale direcvanry for available locales..
