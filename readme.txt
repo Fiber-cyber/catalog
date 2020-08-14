@@ -1,4 +1,4 @@
-OSCOM CE Phoenix 1.0.7.6
+OSCOM CE Phoenix 1.0.7.7
 Vertaald door Fiber inclusief vertaling van de PayPal app
 
 Login in de Admin van je Shop.
