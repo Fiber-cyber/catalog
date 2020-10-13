@@ -2,7 +2,7 @@ onboarding_intro_title = API-referenties ophalen
 
 onboarding_intro_body = <p>Begin sneller te verkopen en te verdienen door osCommerce toe te staan uw online winkel automatisch en veilig te configureren met uw PayPal API-inloggegevens.</p>
 <p>Heeft u geen PayPal-account? We kunnen dit doen voor nieuwe en bestaande PayPal-verkopers.</p>
-<p style="text-align: center;">:button_retrieve_live_credentials :button_retrieve_sandbox_credentials</p>
+<p class="text-center">:button_retrieve_live_credentials :button_retrieve_sandbox_credentials</p>
 <p>Live PayPal-accounts zijn voor live winkels die klaar zijn om betalingen te accepteren. Sandbox PayPal-accounts worden gebruikt voor testdoeleinden waarbij bestellingen worden verwerkt maar er geen daadwerkelijke betalingen worden gedaan.</p>
 
 manage_credentials_title = Beheer API Referenties
