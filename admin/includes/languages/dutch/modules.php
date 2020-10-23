@@ -22,4 +22,4 @@ const TEXT_MODULE_DIRECTORY = 'Module Directory:';
 
 const ERROR_MODULE_UNMET_REQUIREMENT = 'Deze Module is onafhankelijk.';
 const ERROR_MODULE_HAS_DEPENDENTS = 'Andere modules zijn afhankelijk van deze module.';
-
+const WARNING_INVALID_USE_FUNCTION = 'De gebruiksfunctie (%s) voor "%s" is ongeldig.';
