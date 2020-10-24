@@ -11,7 +11,7 @@
 */
 
   const PI_OA_TITLE         = 'Opties & Attributen';
-  const PI_OA_DESCRIPTION   = 'Toon de Opties/Attributen op de  product_info Pagina.<div class="alert alert-info">Dit is een child module voor gebruik met het &Pi; systeem.</div>';
+  const PI_OA_DESCRIPTION   = 'Toon de Opties/Attributen op de  product_info pagina.<div class="alert alert-info">Dit is een child module voor gebruik met het &Pi; systeem.</div>';
   
   const PI_OA_HEADING_TITLE = 'Beschikbare Opties';
   
