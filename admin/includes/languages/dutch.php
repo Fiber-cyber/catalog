@@ -9,7 +9,7 @@
 
   Released under the GNU General Public License
   
-  Vertaald door Fiber - osCommerce Phoenix CE 1.0.7.1.0
+  Vertaald door Fiber - osCommerce Phoenix CE 1.0.7.10
 */
 
 // look in your $PATH_LOCALE/locale direcvanry for available locales..
@@ -24,7 +24,6 @@ const DATE_FORMAT_LONG = '%A %d %B, %Y'; // this is used for strftime()
 const DATE_FORMAT = 'd/m/Y'; // this is used for date()
 const PHP_DATE_TIME_FORMAT = 'd/m/Y H:i:s'; // this is used for date()
 const DATE_TIME_FORMAT = DATE_FORMAT_SHORT . ' %H:%M:%S';
-const JQUERY_DATEPICKER_I18N_CODE = 'nl'; // leave empty for en_US; see http://jqueryui.com/demos/datepicker/#localization
 const JQUERY_DATEPICKER_FORMAT = 'dd/mm/yy'; // see http://docs.jquery.com/UI/Datepicker/formatDate
 
 // Global entries for the <html> tag
