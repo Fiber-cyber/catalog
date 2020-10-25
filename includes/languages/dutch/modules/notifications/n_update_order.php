@@ -17,7 +17,10 @@ const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_INVOICE_URL = 'Gedetailleerde factu
 const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_DATE_ORDERED = 'Datum besteld:  %s';
 const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_STATUS_UPDATE = <<<'EOT'
 Uw bestelling is bijgewerkt naar de volgende status.
+
 Nieuwe status: %s
+
 U kunt dit e-mailadres gebruiken om vragen te stellen, mochten die er zijn.
+
 EOT;
 const MODULE_NOTIFICATIONS_UPDATE_ORDER_TEXT_COMMENTS_UPDATE = 'De opmerkingen bij uw bestelling zijn' . "\n\n%s\n\n";
