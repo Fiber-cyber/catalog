@@ -68,7 +68,7 @@ const TEXT_DATE_ORDER_CREATED = 'Datum gecree&euml;rd: %s';
 const TEXT_DATE_ORDER_LAST_MODIFIED = 'Laatst gewijzigd: %s';
 const TEXT_INFO_PAYMENT_METHOD = 'Betaalmethode: %s';
 
-const TEXT_ALL_ORDERS = 'All Orders';
+const TEXT_ALL_ORDERS = 'Alle Orders';
 const TEXT_NO_ORDER_HISTORY = 'Geen Order Historie beschikbaar';
 
 const ERROR_ORDER_DOES_NOT_EXIST = '<strong>Error:</strong> Order <strong>%s</strong> bestaat niet.';
