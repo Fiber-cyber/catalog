@@ -1,7 +1,7 @@
-OSCOM CE Phoenix 1.0.7.9
-Vertaald door Fiber inclusief vertaling van de PayPal app
+OSCOM CE Phoenix 1.0.7.10
+Vertaald door Fiber inclusief bijgewerkte vertaling van de PayPal app
 
-Login in de Admin van je Shop.
+Login in de Admin van je Shop..
 - Ga naar Localization 
 - Klik op Languages
 - Klik op New Language
