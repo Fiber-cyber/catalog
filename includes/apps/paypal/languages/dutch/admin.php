@@ -18,3 +18,6 @@ button_view_update = Bekijk Update
 
 update_available_body = <p>Een update is beschikbaar voor deze App!</p>
 <p><small>:button_view_update</small></p>
+
+paypal_installed = Apps die momenteel zijn geïnstalleerd
+paypal_not_installed = Apps beschikbaar om te installeren

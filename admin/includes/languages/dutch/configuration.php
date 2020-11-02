@@ -10,11 +10,12 @@
   Released under the GNU General Public License
 */
 
-define('TABLE_HEADING_CONFIGURATION_TITLE', 'Titel');
-define('TABLE_HEADING_CONFIGURATION_VALUE', 'Waarde');
-define('TABLE_HEADING_ACTION', 'Actie');
+const TABLE_HEADING_CONFIGURATION_TITLE = 'Titel';
+const TABLE_HEADING_CONFIGURATION_VALUE = 'Waarde';
+const TABLE_HEADING_ACTION = 'Actie';
 
-define('TEXT_INFO_EDIT_INTRO', 'Breng de nodige wijzigingen aan');
-define('TEXT_INFO_DATE_ADDED', 'Datum toegevoegd:');
-define('TEXT_INFO_LAST_MODIFIED', 'Laatst gewijzigd:');
-?>
+const TEXT_INFO_EDIT_INTRO = 'Breng de nodige wijzigingen aan';
+const TEXT_INFO_DATE_ADDED = 'Datum toegevoegd::';
+const TEXT_INFO_LAST_MODIFIED = 'Laatst gewijzigd::';
+
+const WARNING_INVALID_USE_FUNCTION = 'De gebruiksfunctie (%s) voor "%s" is ongeldig.';

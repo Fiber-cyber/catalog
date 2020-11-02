@@ -9,7 +9,7 @@
 
   Released under the GNU General Public License
   
-  Vertaald door Fiber - osCommerce Phoenix CE 1.0.7.9
+  Vertaald door Fiber - osCommerce Phoenix CE 1.0.7.11
 */
 
 // look in your $PATH_LOCALE/locale direcvanry for available locales..
@@ -34,7 +34,7 @@ const HTML_PARAMS = 'dir="ltr" lang="nl"';
 const CHARSET = 'utf-8';
 
 // page title
-const TITLE = 'Demo Shop Beheer';
+const TITLE = 'Shop Beheer';
 
 // header text in includes/header.php
 const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart text-primary"></i> <span class="border-botvanm border-primary">Uw Shop</span>';
