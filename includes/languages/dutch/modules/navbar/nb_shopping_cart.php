@@ -21,4 +21,5 @@ const MODULE_NAVBAR_SHOPPING_CART_CHECKOUT = '<i class="fas fa-angle-right fa-fw
 
 const MODULE_NAVBAR_SHOPPING_CART_PRODUCT = '%s x %s';
 
+
   
