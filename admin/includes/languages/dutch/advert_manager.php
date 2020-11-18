@@ -30,7 +30,7 @@ const TEXT_ADVERT_IMAGE_TARGET = 'Opslaan in map';
 const TEXT_ADVERT_HTML_TEXT = 'HTML Tekst';
 
 const TEXT_ADVERT_TITLE_HELP = 'Dit wordt alleen gebruikt in de lijst met advertenties als herinnering voor u.';
-const TEXT_ADVERT_URL_HELP = 'Inclusief https:// voor externe links of alleen een paginanaam voor interne links (eg product_info.php of advanced_search_result.php)');
+const TEXT_ADVERT_URL_HELP = 'Inclusief https:// voor externe links of alleen een paginanaam voor interne links (eg product_info.php of advanced_search_result.php)';
 const TEXT_ADVERT_FRAGMENT_HELP = 'Alleen gebruikt in combinatie met interne links in uw shop!  Fragment URL is (voorbeeld) products_id=3 of zoekwoorden=xyz';
 const TEXT_ADVERT_SORT_HELP = 'Dit bepaalt de advertentie sorteervolgorde * binnen * de groep.';
 
@@ -46,7 +46,7 @@ const TEXT_INSERT_NOTE = '
   <li>Upload-mappen moeten gebruikersmachtigingen (schrijven) hebben ingesteld!</li>
   <li>Vul het veld "Opslaan in map" niet in als u geen afbeelding uploadt naar de webserver (ie, u gebruikt een lokale (serverside) afbeelding).</li>
   <li>Het veld "Opslaan in map" moet een bestaande map zijn met een backslash (eg, adverts/ or carousels/).</li>
-</ul>');
+</ul>';
 
 const TEXT_IMAGE_NONEXISTENT = 'Afbeelding is er NIET!';
 
