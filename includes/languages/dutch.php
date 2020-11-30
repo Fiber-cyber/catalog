@@ -8,6 +8,7 @@
   Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
+
   Vertaald door Fiber - osCommerce Phoenix CE 1.0.7.11
 */
 
