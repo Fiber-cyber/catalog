@@ -11,5 +11,5 @@
 */
 
   define('MODULE_BOXES_MANUFACTURERS_TITLE', 'Fabrikanten');
-  define('MODULE_BOXES_MANUFACTURERS_DESCRIPTION', 'Toon een lijst va nde Fabrikanten');
+  define('MODULE_BOXES_MANUFACTURERS_DESCRIPTION', 'Toon een lijst van de Fabrikanten');
   define('MODULE_BOXES_MANUFACTURERS_BOX_TITLE', 'Fabrikanten');

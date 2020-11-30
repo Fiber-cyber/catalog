@@ -5,21 +5,18 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2019 osCommerce
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Bestaand logo');
+const HEADING_TITLE = 'Bestaand logo';
 
-define('TABLE_HEADING_LOGO', 'Logo');
-define('TABLE_HEADING_LOCATION', 'Locatie');
+const HEADING_NEW_LOGO = 'Upload een nieuw logo';
 
-define('HEADING_NEW_LOGO', 'Upload een nieuw Logo');
+const TEXT_LOGO_IMAGE = 'Nieuw logo';
+const TEXT_FORMAT_AND_LOCATION = 'De shop logo moet het volgende formaat zijn png/gif/jpg/svg/webp en OVERSCHRIJFT het bestaande Logo';
 
-define('TEXT_LOGO_IMAGE', 'Nieuw Logo');
-define('TEXT_FORMAT_AND_LOCATION', 'De shop logo moet in .png of .jpg of .gif of .svg formaat zijn en overschrijft het bestaande Logo');
+const SUCCESS_LOGO_UPDATED = '<strong>Succes:</strong> De shop logo is succesvol bijgewerkt!';
 
-define('SUCCESS_LOGO_UPDATED', '<strong>Succes:</strong> De Shop Logo is bijgewerkt!');
-
-define('ERROR_IMAGES_DIRECTORY_NOT_WRITEABLE', '<strong>FOUT:</strong> De afbeeldingenmap is niet schrijfbaar. (<a href="%s">klik hier om de rechten te bekijken</a>)');
+const ERROR_IMAGES_DIRECTORY_NOT_WRITEABLE = '<strong>Error:</strong> De afbeeldingenmap is niet niet beschrijfbaar. (<a href="%s">klik hier om de rechten te bekijken</a>)';

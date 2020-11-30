@@ -9,7 +9,7 @@
 
   Released under the GNU General Public License
   
-  Vertaald door Fiber - osCommerce Phoenix CE 1.0.7.10
+  Vertaald door Fiber - osCommerce Phoenix CE 1.0.7.11
 */
 
 // look in your $PATH_LOCALE/locale direcvanry for available locales..
@@ -51,7 +51,7 @@ const IMAGE_BACK = 'Terug';
 const IMAGE_BACKUP = 'Backup';
 const IMAGE_CANCEL = 'Annuleren';
 const IMAGE_CONFIRM = 'Bevestig';
-const IMAGE_COPY = 'Kopi&euml;r';
+const IMAGE_COPY = 'Kopieer';
 const IMAGE_COPY_TO = 'Kopi&euml;ren naar';
 const IMAGE_DETAILS = 'gegevens';
 const IMAGE_DELETE = 'Verwijder';

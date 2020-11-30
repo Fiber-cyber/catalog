@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Defineer Talen');
+define('HEADING_TITLE', 'Definieer Talen');
 
 define('TABLE_HEADING_FILES', 'Bestanden');
 define('TABLE_HEADING_WRITABLE', 'Schrijfbaar');
@@ -18,7 +18,7 @@ define('TABLE_HEADING_LAST_MODIFIED', 'Laatst gewijzigd');
 
 define('TEXT_EDIT_NOTE', '<p class="lead">Bewerk Definities</p>
 
-<p>Elke taaldefinitie wordt ingesteld met behulp van de PHP <a href="http://www.php.net/define" target="_blank">define()</a> functie op de volgende manier:</p>
+<p>Elke taaldefinitie wordt ingesteld met behulp van de PHP <a href="http://www.php.net/define" target="_blank" rel="noreferrer">define()</a> functie op de volgende manier:</p>
 
 <p><pre>defineer(\'TEXT_MAIN\', \'<span style="background-color: #FFFF99;">Deze tekst kan bewerkt worden. Het is heel gemakkelijk te doen! Vergeet geen notitie\'s te maken!</span>\');</pre></p>
 

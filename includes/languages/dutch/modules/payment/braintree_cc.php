@@ -12,7 +12,7 @@
 
   define('MODULE_PAYMENT_BRAINTREE_CC_TEXT_TITLE', 'Braintree Payment Solutions');
   define('MODULE_PAYMENT_BRAINTREE_CC_TEXT_PUBLIC_TITLE', 'Krediet kaart');
-  define('MODULE_PAYMENT_BRAINTREE_CC_TEXT_DESCRIPTION', '<i class="fas fa-info-circle"></i>&nbsp;<a href="http://library.oscommerce.com/Package&en&braintree&oscom23&braintree_js" target="_blank" rel="noopener" style="text-decoration: underline; font-weight: bold;">Bekijk de online Documentatie</a><br><br><i class="fas fa-external-link-alt"></i>&nbsp;<a href="https://www.braintreepayments.com" target="_blank" rel="noopener" style="text-decoration: underline; font-weight: bold;">Bezoek de Braintree Payments Website</a>');
+  define('MODULE_PAYMENT_BRAINTREE_CC_TEXT_DESCRIPTION', '<i class="fas fa-info-circle"></i>&nbsp;<a href="http://library.oscommerce.com/Package&en&braintree&oscom23&braintree_js" target="_blank" rel="noreferrer" style="text-decoration: underline; font-weight: bold;">Bekijk de online Documentatie</a><br><br><i class="fas fa-external-link-alt"></i>&nbsp;<a href="https://www.braintreepayments.com" target="_blank" rel="noopener" style="text-decoration: underline; font-weight: bold;">Bezoek de Braintree Payments Website</a>');
 
   define('MODULE_PAYMENT_BRAINTREE_CC_ERROR_ADMIN_PHP', 'De minimale PHP-versie die deze module ondersteunt, is %s en wordt pas geladen als de webserver is geïnstalleerd met een nieuwere versie.');
   define('MODULE_PAYMENT_BRAINTREE_CC_ERROR_ADMIN_PHP_EXTENSIONS', 'Deze module vereist de volgende PHP-extensies en zal en zal niet laden totdat PHP is bijgewerkt:<br><br>%s');
