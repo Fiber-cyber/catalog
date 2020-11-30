@@ -17,4 +17,3 @@ define('TEXT_INFORMATION', 'We hebben vastgesteld dat uw browser een andere SSL-
 
 define('BOX_INFORMATION_HEADING', 'Privacy en Veiligheid');
 define('BOX_INFORMATION', 'We valideren de SSL-sessie-ID die automatisch door uw browser wordt gegenereerd op elk beveiligd paginabezoek aan deze server.<br><br>Deze validatie zorgt ervoor dat u met uw account op deze site navigeert en niet iemand anders.');
-
