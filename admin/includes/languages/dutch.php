@@ -42,15 +42,10 @@ const HEADER_TITLE_PHOENIX_CLUB = '<span class="border-botvanm border-primary">P
 const HEADER_TITLE_CERTIFIED_ADDONS = '<span class="border-botvanm border-primary">Gecertificeerde Addons & Services</span>';
 const HEADER_TITLE_LOGOFF = '<i class="fas fa-lock"></i> <span class="border-botvanm border-danger"> %s, veilig uitloggen</span>';
 
-// javascript messages
-const JS_STATE_SELECT = '-- Selecteer hierboven --';
-
 // images
-const IMAGE_ANI_SEND_EMAIL = 'Email verzenden';
 const IMAGE_BACK = 'Terug';
 const IMAGE_BACKUP = 'Backup';
 const IMAGE_CANCEL = 'Annuleren';
-const IMAGE_CONFIRM = 'Bevestig';
 const IMAGE_COPY = 'Kopieer';
 const IMAGE_COPY_TO = 'Kopi&euml;ren naar';
 const IMAGE_DETAILS = 'gegevens';
@@ -58,11 +53,6 @@ const IMAGE_DELETE = 'Verwijder';
 const IMAGE_EDIT = 'Bewerk';
 const IMAGE_EMAIL = 'Email';
 const IMAGE_EXPORT = 'Exporteer';
-const IMAGE_ICON_STATUS_GREEN = 'Actief';
-const IMAGE_ICON_STATUS_GREEN_LIGHT = 'Activeren';
-const IMAGE_ICON_STATUS_RED = 'Inactief';
-const IMAGE_ICON_STATUS_RED_LIGHT = 'Stel Inactief in';
-const IMAGE_ICON_INFO = 'Info';
 const IMAGE_INSERT = 'Invoegen';
 const IMAGE_LOCK = 'Slot';
 const IMAGE_MODULE_INSTALL = 'Installeer Module';
@@ -72,14 +62,11 @@ const IMAGE_NEW_CATEGORY = 'Nieuwe Categorie';
 const IMAGE_NEW_COUNTRY = 'Nieuw Land';
 const IMAGE_NEW_CURRENCY = 'Nieuwe Valuta';
 const IMAGE_NEW_CUSTOMER_DATA_GROUP = 'Nieuwe klant gegevensgroep';
-const IMAGE_NEW_FILE = 'Nieuw bestand';
-const IMAGE_NEW_FOLDER = 'Nieuwe Folder';
 const IMAGE_NEW_LANGUAGE = 'Nieuwe Taal';
 const IMAGE_NEW_NEWSLETTER = 'Nieuwe Nieuwsbrief';
 const IMAGE_NEW_PRODUCT = 'Nieuw Artikel';
 const IMAGE_NEW_TAX_CLASS = 'Nieuwe BTW klas';
 const IMAGE_NEW_TAX_RATE = 'Nieuw BTW tarief';
-const IMAGE_NEW_TAX_ZONE = 'Nieuwe BTW Zone';
 const IMAGE_NEW_ZONE = 'Nieuwe Zone';
 const IMAGE_ORDERS = 'Orders';
 const IMAGE_ORDERS_INVOICE = 'Factuur';
@@ -88,7 +75,6 @@ const IMAGE_PREVIEW = 'Voorbeeld';
 const IMAGE_RESTORE = 'Herstellen';
 const IMAGE_RESET = 'Reset';
 const IMAGE_SAVE = 'opslaan';
-const IMAGE_SEARCH = 'Zoeken';
 const IMAGE_SELECT = 'Selecteer';
 const IMAGE_SEND = 'Verzenden';
 const IMAGE_SEND_EMAIL = 'Verzend e-mail';
@@ -97,21 +83,8 @@ const IMAGE_UPDATE = 'Update';
 const IMAGE_UPDATE_CURRENCIES = 'Wisselkoers bijwerken';
 const IMAGE_UPLOAD = 'Upload';
 
-const ICON_CROSS = 'False';
-const ICON_CURRENT_FOLDER = 'Huidige Folder';
-const ICON_DELETE = 'Verwijder';
-const ICON_ERROR = 'Fout';
 const ICON_FILE = 'Bestand';
 const ICON_FILE_DOWNLOAD = 'Download';
-const ICON_FOLDER = 'Folder';
-const ICON_LOCKED = 'Gesloten';
-const ICON_PREVIOUS_LEVEL = 'Vorig Level';
-const ICON_PREVIEW = 'Voorbeeld';
-const ICON_STATISTICS = 'Statistieken';
-const ICON_SUCCESS = 'Succes';
-const ICON_TICK = 'True';
-const ICON_UNLOCKED = 'Ontgrendelen';
-const ICON_WARNING = 'Waarschuwing';
 
 // constants for use in tep_prev_next_display function
 const TEXT_RESULT_PAGE = 'Pagina %s van %d';
