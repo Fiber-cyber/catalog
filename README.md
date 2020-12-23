@@ -1,4 +1,4 @@
-Taalpakket voor OSCOM CE Phoenix 1.0.7.11
+Taalpakket voor OSCOM CE Phoenix 1.0.7.12
 
 Inclusief vertaling voor de PayPal app
 

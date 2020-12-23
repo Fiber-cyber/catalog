@@ -5,13 +5,14 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2002 osCommerce
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE', 'Privacy verklaring');
-define('HEADING_TITLE', 'Privacy verklaring');
+const NAVBAR_TITLE = 'Privacy verklaring';
 
-define('TEXT_INFORMATION', 'plaats hier uw Privacy verklaring.');
-?>
+/*
+Define the Title and Text of this page using the Info Pages Manager.
+Admin > Tools > Info Pages
+*/

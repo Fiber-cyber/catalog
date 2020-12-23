@@ -44,8 +44,8 @@ const TEXT_INSERT_NOTE = '
 <strong>Belangrijke opmerkingen over afbeeldingen:</strong>
 <ul>
   <li>Upload-mappen moeten gebruikersmachtigingen (schrijven) hebben ingesteld!</li>
-  <li>Vul het veld "Opslaan in map" niet in als u geen afbeelding uploadt naar de webserver (ie, u gebruikt een lokale (serverside) afbeelding).</li>
-  <li>Het veld "Opslaan in map" moet een bestaande map zijn met een backslash (eg, adverts/ or carousels/).</li>
+  <li>Vul het veld "Opslaan in map" <span class="text-danger font-weight-bolder">niet in</span> als u geen afbeelding uploadt naar de webserver (ie, u gebruikt een lokale (serverside) afbeelding).</li>
+  <li>Het veld "Opslaan in map" moet een bestaande map zijn met een <span class="text-danger font-weight-bolder">backslash</span> (eg, adverts/ or carousels/).</li>
 </ul>';
 
 const TEXT_IMAGE_NONEXISTENT = 'Afbeelding is er NIET!';

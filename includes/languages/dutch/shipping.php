@@ -5,12 +5,14 @@
   osCommerce, Open Source E-Commerce Solutions
   http://www.oscommerce.com
 
-  Copyright (c) 2002 osCommerce
+  Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE', 'Verzenden &amp; Retourneren');
-define('HEADING_TITLE', 'Verzenden &amp; Retourneren');
+const NAVBAR_TITLE = 'Verzenden &amp; Retourneren';
 
-define('TEXT_INFORMATION', 'Plaats hier uw Verzenden &amp; Retourneren informatie.');
+/*
+Define the Title and Text of this page using the Info Pages Manager.
+Admin > Tools > Info Pages
+*/
