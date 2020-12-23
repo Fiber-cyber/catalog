@@ -8,8 +8,7 @@
   Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
-  
-  Vertaald door Fiber - osCommerce Phoenix CE 1.0.7.11
+  Vertaald door Fiber - osCommerce Phoenix CE 1.0.7.12
 */
 
 // look in your $PATH_LOCALE/locale direcvanry for available locales..
@@ -133,4 +132,3 @@ const PLACEHOLDER_COMMA_SEPARATION = 'Moet, zijn, komma, gescheiden';
 const FORM_REQUIRED_INPUT = '<span class="form-control-feedback text-danger"><i class="fas fa-asterisk"></i></span>';
 
 const TEXT_IMAGE_NON_EXISTENT = 'PLAATJE BESTAAT NIET';
-
