@@ -2,8 +2,6 @@ Taalpakket voor OSCOM CE Phoenix 1.0.7.13
 
 Inclusief vertaling voor de PayPal app
 
-Inclusief bijgewerkte vertaling voor de PayPal app
-
 Vertaling door Fiber
 
 Login in de Admin van je Shop.
