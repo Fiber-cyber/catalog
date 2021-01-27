@@ -8,7 +8,7 @@
   Copyright (c) 2020 osCommerce
 
   Released under the GNU General Public License
-  Vertaald door Fiber - osCommerce Phoenix CE 1.0.7.13
+  Vertaald door Fiber - osCommerce Phoenix CE 1.0.7.14
 */
 
 // look in your $PATH_LOCALE/locale direcvanry for available locales..
@@ -38,7 +38,7 @@ const TITLE = 'Shop Beheer';
 // header text in includes/header.php
 const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart text-primary"></i> <span class="border-bottom border-primary">Uw Shop</span>';
 const HEADER_TITLE_PHOENIX_CLUB = '<span class="border-botvanm border-primary">Phoenix Club</span>';
-const HEADER_TITLE_PHOENIX_WIKI = '<i class="fas fa-school mr-1 text-primary"></i><span class="border-bottom border-primary">Phoenix WIKI</span>';
+const HEADER_TITLE_PHOENIX_WIKI = '<i class="fas fa-school mr-1 text-primary"></i><span class="border-bottom border-primary">Handleiding</span>';
 const HEADER_TITLE_CERTIFIED_ADDONS = '<span class="border-botvanm border-primary">Gecertificeerde Addons & Services</span>';
 const HEADER_TITLE_LOGOFF = '<i class="fas fa-lock"></i> <span class="border-botvanm border-danger"> %s, veilig uitloggen</span>';
 
