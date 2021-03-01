@@ -10,7 +10,7 @@
   Released under the GNU General Public License
   
 
-  Vertaald door Fiber - osCommerce Phoenix CE 1.0.7.15
+  Vertaald door Fiber - osCommerce Phoenix CE 1.0.7.16
 
 */
 
