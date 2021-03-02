@@ -1,6 +1,7 @@
-Phoenix Cart 1.0.7.18
-Vertaald door Fiber inclusief vertaling van de PayPal app
 
+Phoenix Cart 1.0.7.18
+
+Vertaald door Fiber inclusief vertaling van de PayPal app
 
 Login in de Admin van je Shop..
 - Ga naar Localization 
