@@ -8,8 +8,11 @@
   Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
+
   
   Vertaald door Fiber - Phoenix 1.0.7.18
+
+
 */
 
 // look in your $PATH_LOCALE/locale direcvanry for available locales..
