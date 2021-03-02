@@ -15,9 +15,8 @@ Login in de Admin van je Shop.
 -  Image: icon.gif
 -  Directory: dutch
 -  Sorteervolgorde: (bepaal zelf).
-- Klik op Save
-- 
-====
+-  Klik op Save
+
 
 Phoenix Cart 1.0.7.18
 Translated by Fiber including translation of the PayPal app
@@ -33,6 +32,5 @@ Login to the Admin of your Shop ..
 -  Image: icon.gif
 -  Directory: dutch
 -  Sort order: (determine yourself).
-- Click on Save 
-- 
-===
+-  Click on Save 
+
