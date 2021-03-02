@@ -2,15 +2,15 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2020 osCommerce
+  Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
   
 
-  Vertaald door Fiber - osCommerce Phoenix CE 1.0.7.15
+  Vertaald door Fiber - Phoenix 1.0.7.18
 
 */
 

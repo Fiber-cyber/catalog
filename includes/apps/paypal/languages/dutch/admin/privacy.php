@@ -2,7 +2,7 @@ privacy_title = Privacy Beleid
 
 privacy_body = <h5>API Referenties</h5>
 
-<p>Met de PayPal-app voor OSCOM CE Phoenix kunnen winkeleigenaars de app automatisch instellen en configureren met hun PayPal API-inloggegevens zonder deze handmatig in te voeren. Dit wordt veilig uitgevoerd door osCommerce toegang te verlenen om de API-referenties op te halen van het PayPal-account van de winkeleigenaar.</p>
+<p>Met de PayPal-app voor CE Phoenix kunnen winkeleigenaars de app automatisch instellen en configureren met hun PayPal API-inloggegevens zonder deze handmatig in te voeren. Dit wordt veilig uitgevoerd door osCommerce toegang te verlenen om de API-referenties op te halen van het PayPal-account van de winkeleigenaar.</p>
 
 <p>Door osCommerce toegang te verlenen, kan de volgende beperkte informatie worden opgehaald van de PayPal-rekening van de winkeleigenaar:</p>
 
