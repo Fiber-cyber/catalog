@@ -2,17 +2,17 @@
 /*
   $Id$
 
-  osCommerce, Open Source E-Commerce Solutions
-  http://www.oscommerce.com
+  CE Phoenix, E-Commerce made Easy
+  https://phoenixcart.org
 
-  Copyright (c) 2014 osCommerce
+  Copyright (c) 2021 Phoenix Cart 
 
   Released under the GNU General Public License
 */
 
   define('MODULE_PAYMENT_PAYPAL_PRO_PAYFLOW_DP_TEXT_TITLE', 'PayPal Payments Pro (Payflow Edition)');
   define('MODULE_PAYMENT_PAYPAL_PRO_PAYFLOW_DP_TEXT_PUBLIC_TITLE', 'Kredietkaart of bankpas');
-  define('MODULE_PAYMENT_PAYPAL_PRO_PAYFLOW_DP_TEXT_DESCRIPTION', '<i class="fas fa-info-circle"></i>&nbsp;<a href="http://library.oscommerce.com/Package&en&paypal&oscom23&payments_pro_payflow" target="_blank" rel="noreferrer" style="text-decoration: underline; font-weight: bold;">Bekijk de online Documentatie</a><br><br><i class="fas fa-external-link-alt"></i>&nbsp;<a href="https://www.paypal.com" target="_blank" rel="noopener" style="text-decoration: underline; font-weight: bold;">Bezoek de PayPal Website</a>');
+  define('MODULE_PAYMENT_PAYPAL_PRO_PAYFLOW_DP_TEXT_DESCRIPTION', '<i class="fas fa-external-link-alt"></i>&nbsp;<a href="https://www.paypal.com" target="_blank" rel="noreferrer">PayPal Website</a>');
 
   define('MODULE_PAYMENT_PAYPAL_PRO_PAYFLOW_DP_ERROR_EXPRESS_MODULE', 'PayPal verplicht de betalingsmodule PayPal Express Checkout (Payflow Edition) in te schakelen als deze module moet worden geactiveerd. Deze module wordt pas geladen nadat de PayPal Express Checkout-module (Payflow Edition) is geïnstalleerd.');
   define('MODULE_PAYMENT_PAYPAL_PRO_PAYFLOW_DP_ERROR_ADMIN_CURL', 'Deze module vereist dat cURL is ingeschakeld in PHP en wordt pas geladen nadat deze is ingeschakeld op deze webserver.');

@@ -2,7 +2,7 @@
 /*
   $Id$
 
-  Copyright (c) 2016:
+    Copyright (c) 2016:
     Dan Cole - @Dan Cole
     James Keebaugh - @kymation
     Lambros - @Tsimi
