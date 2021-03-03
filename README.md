@@ -1,10 +1,10 @@
-Taalpakket voor CE Phoenix 1.0.7.18
+## Taalpakket voor CE Phoenix 1.0.7.18
 
-Inclusief vertaling voor de PayPal app
+* Inclusief vertaling voor de PayPal app
 
-Vertaling door Fiber
+ -  Vertaling door Fiber
 
-Login in de Admin van je Shop.
+##Login in de Admin van je Shop.
 
 - Ga naar Localization 
 - Klik op Languages
@@ -18,19 +18,19 @@ Login in de Admin van je Shop.
 -  Klik op Save
 
 
-Phoenix Cart 1.0.7.18
-Translated by Fiber including translation of the PayPal app
+## Phoenix Cart 1.0.7.18
+* Translated by Fiber including translation of the PayPal app
 
-Login to the Admin of your Shop ..
+* Login to the Admin of your Shop ..
 
-- Go to Localization
-- Click on Languages
-- Click on  New Languages
-- Enter the values:
--  Name Dutch or Netherlands just what you prefer yourself.
--  Code: nl
--  Image: icon.gif
--  Directory: dutch
--  Sort order: (determine yourself).
--  Click on Save 
+ - Go to Localization
+ - Click on Languages
+ - Click on  New Languages
+ - Enter the values:
+ -  Name Dutch or Netherlands just what you prefer yourself.
+ -  Code: nl
+ -  Image: icon.gif
+ -  Directory: dutch
+ -  Sort order: (determine yourself).
+ -  Click on Save 
 
