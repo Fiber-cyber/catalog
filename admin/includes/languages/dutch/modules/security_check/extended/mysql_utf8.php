@@ -10,6 +10,5 @@
   Released under the GNU General Public License
 */
 
-define('MODULE_SECURITY_CHECK_EXTENDED_MYSQL_UTF8_TITLE', 'MySQL UTF-8');
-define('MODULE_SECURITY_CHECK_EXTENDED_MYSQL_UTF8_ERROR', 'Sommige databasetabellen moeten worden geconverteerd naar UTF-8 (utf8_unicode_ci). Bekijk de tabellen onder Gereedschap -&gt; Database Tabellen.');
-?>
+const MODULE_SECURITY_CHECK_EXTENDED_MYSQL_UTF8_TITLE = 'De MySQL utf8mb4 Character Set (4-Byte UTF-8 Unicode Encoding)';
+const MODULE_SECURITY_CHECK_EXTENDED_MYSQL_UTF8_ERROR = 'Sommige databasetabellen moeten worden geconverteerd naar vier byte UTF-8 (utf8mb4_unicode_ci). Bekijk de tabellen onder Gereedschap &rarr; Database Tabellen.';

@@ -9,7 +9,7 @@
 
   Released under the GNU General Public License
   
-  Vertaald door Fiber - Phoenix 1.0.7.18
+  Vertaald door Fiber - Phoenix 1.0.8.1
 
 */
 
@@ -52,9 +52,9 @@ const CHECKOUT_BAR_CONFIRMATION = 'Bevestiging';
 const PULL_DOWN_DEFAULT = 'Selecteer';
 
 // javascript messages
-const JS_ERROR = 'Er zijn fouten opgetreden tijdens het proces van uw formulier.nnVul de volgende correcties aan:nn';
+const JS_ERROR = 'Er zijn fouten opgetreden tijdens het proces van uw formulier.\n\nVul de volgende correcties aan:\n\n';
 
-const JS_ERROR_NO_PAYMENT_MODULE_SELECTED = '* Selecteer een betalingsmethode voor uw bestelling.n';
+const JS_ERROR_NO_PAYMENT_MODULE_SELECTED = '* Selecteer een betalingsmethode voor uw bestelling.\n';
 
 const ERROR_NO_PAYMENT_MODULE_SELECTED = 'Selecteer een betalingsmethode voor uw bestelling.';
 
