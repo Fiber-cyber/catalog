@@ -18,7 +18,7 @@
   const MODULE_CONTENT_FOOTER_INFORMATION_DATA = array(
     'privacy.php' => 'Privacy &amp; Cookie beleid',
     'conditions.php' => 'Algemene voorwaarden',
-    'shipping.php' => 'Verzending &amp; Retouneren',
+    'shipping.php' => 'Verzending &amp; Retourneren',
     'contact_us.php' => 'Contact Ons'
   );
 

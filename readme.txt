@@ -1,5 +1,5 @@
 
-Phoenix Cart 1.0.7.18
+Phoenix Cart 1.0.8.2
 
 Vertaald door Fiber inclusief vertaling van de PayPal app
 
@@ -15,7 +15,7 @@ Login in de Admin van je Shop..
   Sorteervolgorde: (bepaal zelf).
 - Klik op Save
 ====
-Phoenix Cart 1.0.7.18
+Phoenix Cart 1.0.8.2
 Translated by Fiber including translation of the PayPal app
 
 Login to the Admin of your Shop ..

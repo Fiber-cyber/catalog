@@ -17,7 +17,7 @@
   const MODULE_BOXES_INFORMATION_BOX_DATA = array(
     'privacy.php' => 'Privacy Verklaring',
     'conditions.php' => 'Gebruikers Voorwaarden',
-    'shipping.php' => 'Verzending &amp; Retouneren',
+    'shipping.php' => 'Verzending &amp; Retourneren',
     'contact_us.php' => 'Contact Ons'
   );
   
