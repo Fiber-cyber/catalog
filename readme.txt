@@ -13,6 +13,7 @@ Login in de Admin van je Shop..
   Directory: dutch
   Sorteervolgorde: (bepaal zelf).
 - Klik op Save
+
 ====
 CE Phoenix Cart 1.0.8.2
 
@@ -23,7 +24,7 @@ Login to the Admin of your Shop ..
 - Click on Languages
 - Click on  New Languages
 - Enter the values:
- Name Dutch or Netherlands just what you prefer yourself.
+  Name Dutch or Netherlands just what you prefer yourself.
   Code: nl
   Image: icon.gif
   Directory: dutch
