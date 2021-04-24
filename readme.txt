@@ -1,6 +1,5 @@
 CE Phoenix Cart 1.0.8.2
 
-
 Vertaald door Fiber inclusief vertaling van de PayPal app
 
 Login in de Admin van je Shop..
@@ -16,8 +15,7 @@ Login in de Admin van je Shop..
 - Klik op Save
 
 ====
-
-Ce Phoenix Cart 1.0.8.2
+CE Phoenix Cart 1.0.8.2
 
 Translated by Fiber including translation of the PayPal app
 
@@ -26,7 +24,7 @@ Login to the Admin of your Shop ..
 - Click on Languages
 - Click on  New Languages
 - Enter the values:
- Name Dutch or Netherlands just what you prefer yourself.
+  Name Dutch or Netherlands just what you prefer yourself.
   Code: nl
   Image: icon.gif
   Directory: dutch
