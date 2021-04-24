@@ -1,4 +1,4 @@
-Taalpakket voor CE Phoenix 1.0.8.1
+Taalpakket voor CE Phoenix CArt 1.0.8.2
 
 Inclusief vertaling voor de PayPal app
 
@@ -18,7 +18,7 @@ Login in de Admin van je Shop.
 -  Klik op Save
 
 
-Phoenix Cart 1.0.8.1
+CE Phoenix Cart 1.0.8.2
 
 Translated by Fiber including translation of the PayPal app
 
