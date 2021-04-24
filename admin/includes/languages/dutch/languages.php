@@ -24,7 +24,7 @@ define('TEXT_INFO_LANGUAGE_IMAGE', 'Plaatje: %s');
 define('TEXT_INFO_LANGUAGE_DIRECTORY', 'Directory: %s<strong>%s</strong>');
 define('TEXT_INFO_LANGUAGE_SORT_ORDER', 'Sorteer Volgorde: %s');
 define('TEXT_INFO_INSERT_INTRO', 'Voer de nieuwe taal in met de bijbehorende gegevens');
-define('TEXT_INFO_DELETE_INTRO', 'Weet u het zeker dat u dze taal wilt verwijderen?');
+define('TEXT_INFO_DELETE_INTRO', 'Weet u het zeker dat u deze taal wilt verwijderen?');
 define('TEXT_INFO_HEADING_NEW_LANGUAGE', 'Nieuwe Taal');
 define('TEXT_INFO_HEADING_EDIT_LANGUAGE', 'Bewerk Taal');
 define('TEXT_INFO_HEADING_DELETE_LANGUAGE', 'Verwijder Taal');
