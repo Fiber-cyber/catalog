@@ -42,7 +42,7 @@ const HEADING_SEARCH_HELP = 'Zoek hulp';
 const TEXT_SEARCH_HELP = <<<'EOT'
 Sleutelwoorden kunnen worden gescheiden door  en/of instructies voor meer controle over de zoekresultaten.<br>
 <br>
-Als voorbeeld, <u>Fiacre EN peer</u> genereert bijvoorbeeld een resultatenset die beide woorden bevat, echter voor <u>sinaasappel OF citroen</u>, de resultaatset die dan wordt geretourneerd, bevat beide of één van beide woorden.<br>
+Als voorbeeld, <u>Fiacre EN Peer</u> genereert bijvoorbeeld een resultatenset die beide woorden bevat, echter voor <u>sinaasappel OF citroen</u>, de resultaatset die dan wordt geretourneerd, bevat beide of één van beide woorden.<br>
 <br>
 Naar exacte overeenkomsten kan worden gezocht door trefwoorden tussen dubbele aanhalingstekens te plaatsen.<br>
 <br>

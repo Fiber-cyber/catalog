@@ -30,7 +30,7 @@ const ERROR_ADMINISTRATOR_EXISTS = '<strong>Error:</strong> Beheerder bestaat al
 
 const HTPASSWD_INFO = <<<'EOT'
 <strong>Extra bescherming met htaccess / htpasswd</strong>
-<p>Deze installatie van de CE Phoenix Beheerders Tool is niet extra beveiligd via htaccess / htpasswd.</p>
+<p>Deze installatie van de CE Phoenix Beheerders Tool is <strong>niet</strong> extra beveiligd via htaccess / htpasswd.</p>
 <p>Door de htaccess / htpasswd-beveiligingslaag in te schakelen, worden de gebruikersnaam en wachtwoorden van de beheerder automatisch opgeslagen in een htpasswd-bestand bij het bijwerken van beheerderswachtwoordrecords.</p>
 <p><strong>Houd er rekening mee dat</strong>, als deze extra beveiligingslaag is ingeschakeld en u geen toegang meer hebt tot de Beheerders Tool,
 breng dan de volgende wijzigingen aan en raadpleeg uw hostingprovider om htaccess / htpasswd-bescherming in te schakelen:</p>
@@ -41,7 +41,7 @@ breng dan de volgende wijzigingen aan en raadpleeg uw hostingprovider om htacces
 EOT;
 const HTPASSWD_SECURED = <<<'EOT'
 <strong>Extra bescherming met htaccess / htpasswd</strong>
-<p>Deze CE Phoenix Beheerders Tool-installatie is bovendien beveiligd via htaccess / htpasswd-middelen.</p>
+<p>Deze CE Phoenix Beheerders Tool-installatie is beveiligd via htaccess / htpasswd-middelen.</p>
 EOT;
 const HTPASSWD_PERMISSIONS = <<<'EOT'
 <strong>Extra bescherming met htaccess / htpasswd</strong>
