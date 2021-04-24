@@ -1,4 +1,4 @@
-Taalpakket voor CE Phoenix CArt 1.0.8.2
+Taalpakket voor CE Phoenix Cart 1.0.8.2
 
 Inclusief vertaling voor de PayPal app
 
