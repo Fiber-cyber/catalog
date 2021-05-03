@@ -100,8 +100,6 @@ const TEXT_DESCENDINGLY = 'aflopend';
 const TEXT_ASCENDINGLY = 'oplopend';
 const TEXT_BY = ' door ';
 
-const TEXT_UNKNOWN_TAX_RATE = 'Onbekend belastingtarief';
-
 const TEXT_CCVAL_ERROR_INVALID_DATE = 'De opgegeven vervaldatum voor de creditcard is ongeldig. Controleer de datum en probeer het opnieuw.';
 const TEXT_CCVAL_ERROR_INVALID_NUMBER = 'Het opgegeven creditcardnummer is ongeldig. Controleer het nummer en probeer het opnieuw.';
 const TEXT_CCVAL_ERROR_UNKNOWN_CARD = 'De eerste vier cijfers van het ingevoerde nummer zijn: %s. Als dat nummer correct is, accepteren we dat type creditcard niet. Probeer het opnieuw als het fout is.';
