@@ -9,7 +9,7 @@
 
   Released under the GNU General Public License
   
-  Vertaald door Fiber - Phoenix 1.0.8.2
+  Vertaald door Fiber - Phoenix 1.0.8.3
 
 */
 
@@ -99,8 +99,6 @@ const TEXT_SORT_PRODUCTS = 'Sorteer artikelen ';
 const TEXT_DESCENDINGLY = 'aflopend';
 const TEXT_ASCENDINGLY = 'oplopend';
 const TEXT_BY = ' door ';
-
-const TEXT_UNKNOWN_TAX_RATE = 'Onbekend belastingtarief';
 
 const TEXT_CCVAL_ERROR_INVALID_DATE = 'De opgegeven vervaldatum voor de creditcard is ongeldig. Controleer de datum en probeer het opnieuw.';
 const TEXT_CCVAL_ERROR_INVALID_NUMBER = 'Het opgegeven creditcardnummer is ongeldig. Controleer het nummer en probeer het opnieuw.';
