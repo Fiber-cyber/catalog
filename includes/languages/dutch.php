@@ -1,7 +1,6 @@
 <?php
 /*
   $Id$
-
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
@@ -9,10 +8,8 @@
 
   Released under the GNU General Public License
   
-  Vertaald door Fiber - Phoenix 1.0.8.3
-
+  Vertaald door Fiber - Phoenix 1.0.8.4
 */
-
 // look in your $PATH_LOCALE/locale directory for available locales
 // or type locale -a on the server.
 // Array examples which should work on all servers:
@@ -25,8 +22,6 @@ const DATE_FORMAT_SHORT = '%d/%m/%Y';  // this is used for strftime()
 const DATE_FORMAT_LONG = '%A %d %B, %Y'; // this is used for strftime()
 const DATE_FORMAT = 'd/m/Y'; // this is used for date()
 const DATE_TIME_FORMAT = DATE_FORMAT_SHORT . ' %H:%M:%S';
-const JQUERY_DATEPICKER_FORMAT = 'dd/mm/yy'; // see http://docs.jquery.com/UI/Datepicker/formatDate
-
 
 // if USE_DEFAULT_LANGUAGE_CURRENCY is true, use the following currency, instead of the application's default currency (used when changing language)
 const LANGUAGE_CURRENCY = 'EUR';
@@ -58,22 +53,6 @@ const JS_ERROR_NO_PAYMENT_MODULE_SELECTED = '* Selecteer een betalingsmethode vo
 
 const ERROR_NO_PAYMENT_MODULE_SELECTED = 'Selecteer een betalingsmethode voor uw bestelling.';
 
-// constants for use in tep_prev_next_display function
-const TEXT_RESULT_PAGE = 'Resultaatpaginas';
-const TEXT_DISPLAY_NUMBER_OF_PRODUCTS = 'Weergeven <strong>%d</strong> van <strong>%d</strong> (of <strong>%d</strong> producten)';
-
-const PREVNEXT_TITLE_FIRST_PAGE = 'Eerste pagina';
-const PREVNEXT_TITLE_PREVIOUS_PAGE = 'Vorige pagina';
-const PREVNEXT_TITLE_NEXT_PAGE = 'Volgende pagina';
-const PREVNEXT_TITLE_LAST_PAGE = 'Laatste pagina';
-const PREVNEXT_TITLE_PAGE_NO = 'Pagina %d';
-const PREVNEXT_TITLE_PREV_SET_OF_NO_PAGE = 'Vorige Set van %d Paginas';
-const PREVNEXT_TITLE_NEXT_SET_OF_NO_PAGE = 'Volgende Set van %d Paginas';
-const PREVNEXT_BUTTON_FIRST = '&lt;&lt;Eerste';
-const PREVNEXT_BUTTON_PREV = '[&lt;&lt;&nbsp;Vorige]';
-const PREVNEXT_BUTTON_NEXT = '[Volgende&nbsp;&gt;&gt;]';
-const PREVNEXT_BUTTON_LAST = 'Laatste&gt;&gt;';
-
 const IMAGE_BUTTON_ADD_ADDRESS = 'Voeg adres toe';
 const IMAGE_BUTTON_BACK = 'Terug';
 const IMAGE_BUTTON_BUY_NOW = 'Koop nu';
@@ -93,42 +72,15 @@ const SMALL_IMAGE_BUTTON_EDIT = 'Bewerk';
 const SMALL_IMAGE_BUTTON_VIEW = 'bekijk';
 const SMALL_IMAGE_BUTTON_BUY = 'Koop';
 
-const ICON_ARROW_RIGHT = 'meer';
-
-const TEXT_SORT_PRODUCTS = 'Sorteer artikelen ';
-const TEXT_DESCENDINGLY = 'aflopend';
-const TEXT_ASCENDINGLY = 'oplopend';
-const TEXT_BY = ' door ';
-
 const TEXT_CCVAL_ERROR_INVALID_DATE = 'De opgegeven vervaldatum voor de creditcard is ongeldig. Controleer de datum en probeer het opnieuw.';
 const TEXT_CCVAL_ERROR_INVALID_NUMBER = 'Het opgegeven creditcardnummer is ongeldig. Controleer het nummer en probeer het opnieuw.';
 const TEXT_CCVAL_ERROR_UNKNOWN_CARD = 'De eerste vier cijfers van het ingevoerde nummer zijn: %s. Als dat nummer correct is, accepteren we dat type creditcard niet. Probeer het opnieuw als het fout is.';
 
-// category views
-const TEXT_VIEW = 'Bekijk: ';
-const TEXT_VIEW_LIST = ' Lijst';
-const TEXT_VIEW_GRID = ' Raster';
-
-// search placeholder
 const TEXT_SEARCH_PLACEHOLDER = 'Zoeken';
 
 // message for required inputs
 const FORM_REQUIRED_INFORMATION = '<i class="fas fa-asterisk text-danger"></i> Verplichte Informatie';
 const FORM_REQUIRED_INPUT = '<span class="form-control-feedback text-danger"><i class="fas fa-asterisk"></i></span>';
-
-// grid/list
-const TEXT_SORT_BY = 'Sorteer op ';
-// moved from index
-const TABLE_HEADING_IMAGE = '';
-const TABLE_HEADING_MODEL = 'Model';
-const TABLE_HEADING_PRODUCTS = 'Artikel Naam';
-const TABLE_HEADING_MANUFACTURER = 'Fabrikant';
-const TABLE_HEADING_QUANTITY = 'Voorraad';
-const TABLE_HEADING_PRICE = 'Prijs';
-const TABLE_HEADING_WEIGHT = 'Gewicht';
-const TABLE_HEADING_BUY_NOW = 'Koop Nu';
-const TABLE_HEADING_LATEST_ADDED = 'Datum toegevoegd';
-const TABLE_HEADING_ORDERED = 'Meest populair';
 
 // product notifications
 const PRODUCT_SUBSCRIBED = '%s is toegevoegd aan uw lijst met meldingen';
@@ -146,16 +98,6 @@ const TEXT_NOSCRIPT = <<<'EOT'
 <a class="alert-link" href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer">Klik hier voor instructies over het inschakelen van javascript in uw browser</a>.</p>
 EOT;
 
-// sitewide is-product
-const IS_PRODUCT_SHOW_PRICE = '%s';
-const IS_PRODUCT_SHOW_PRICE_SPECIAL = '<del>%s</del> <span class="text-danger">nu %s</span>';
-const IS_PRODUCT_BUTTON_BUY = '<i class="fas fa-shopping-cart"></i>';
-const IS_PRODUCT_BUTTON_VIEW = '<i class="fas fa-eye"></i> Bekijk';
-
-// sitewide product listing
-const LISTING_SORT_DOWN = '<i class="fas fa-level-down-alt text-primary"></i>';
-const LISTING_SORT_UP = '<i class="fas fa-level-up-alt text-primary"></i>';
-const LISTING_SORT_UNSELECTED = '<i class="fas fa-level-up-alt text-black-50"></i>';
 // for new style internal pages
 const LINK_TEXT_EDIT = '<small><a class="%s" href="%s">Bewerk</a></small>';
 const SHIPPING_FA_ICON = '<i class="fas fa-shipping-fast fa-fw fa-3x float-right text-black-50"></i>';
@@ -163,4 +105,3 @@ const PAYMENT_FA_ICON = '<i class="fas fa-file-invoice-dollar fa-fw fa-3x float-
 
 const ENTRY_COMMENTS = 'Nog iets wat we moeten weten?';
 const ENTRY_COMMENTS_PLACEHOLDER = 'Reageer hier...';
-const TABLE_HEADING_OR = '-of-';
