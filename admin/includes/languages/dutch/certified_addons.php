@@ -10,18 +10,17 @@
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Gecertificeerde Addons & Services');
+const HEADING_TITLE = 'Gecertificeerde Addons Makers';
 
-define('TABLE_CERTIFIED_ADDONS_TITLE', 'Addon/Service');
-define('TABLE_CERTIFIED_ADDONS_OWNER', 'Van');
-define('TABLE_CERTIFIED_ADDONS_RATING', 'Beoordeling');
-define('TABLE_CERTIFIED_ADDONS_REMARKS', 'Opmerkingen');
-define('TABLE_CERTIFIED_ADDONS_DATE', 'Datum');
+const TABLE_CERTIFIED_ADDONS_TITLE = 'URL';
+const TABLE_CERTIFIED_ADDONS_OWNER = 'Provider';
+const TABLE_CERTIFIED_ADDONS_REMARKS = 'Opmerkingen';
 
-define('TEXT_CERTIFIED_ADDONS', '<p class="m-0 lead">Alle Addons & Services in de lijst zijn <strong>gecertificeerd</strong> door een Phoenix Core Team Lid.</p>%s');
-define('NUM_CERTIFIED_ADDONS', 'Er zijn momenteel <b>%s</b> Gecertificeerde Addons/Services.');
+const TEXT_CERTIFIED_ADDONS = '<p class="m-0 lead">Alle Addons/Services die hier worden vermeld, zijn <strong>gecertificeerd</strong> door een lid van het Phoenix Core Team.</p>%s';
+const NUM_CERTIFIED_ADDONS = 'Er zijn momenteel <b>%d</b> Gecertificeerde Addons/Services.';
+/*
+const TEXT_CERTIFIED_SEARCH_LABEL = 'Zoeken:';
+const TEXT_CERTIFIED_SEARCH_PLACEHOLDER = 'start met typen...';
 
-define('TEXT_CERTIFIED_SEARCH_LABEL', 'Zoeken:');
-define('TEXT_CERTIFIED_SEARCH_PLACEHOLDER', 'start typing...');
-
-define('NUM_FILTERED_ADDONS', '<span class="filtered-result"><br>Gefilterd naar <b>{X}</b> Addon(s).</span>');
+const NUM_FILTERED_ADDONS = '<span class="filtered-result"><br>Gefilterd op <b>{X}</b> Addon(s).</span>';
+*/
