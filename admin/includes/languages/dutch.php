@@ -29,7 +29,7 @@ const JQUERY_DATEPICKER_I18N_CODE = 'nl'; // leave empty for en_US; see http://j
 const JQUERY_DATEPICKER_FORMAT = 'dd/mm/yy'; // see http://docs.jquery.com/UI/Datepicker/formatDate
 
 // Global entries for the <html> tag
-const HTML_PARAMS = 'dir="ltr" lang="nl"';
+const HTML_PARAMS = ' dir="ltr" lang="nl"';
 
 // charset for web pages and emails
 const CHARSET = 'utf-8';
