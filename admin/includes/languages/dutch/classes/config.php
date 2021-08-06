@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  define('MOULES_ADMIN_MENU_TAXES_TAX_RATES', 'BTW Tarieven');
+const CLASS_CONFIG_TEXT_INVALID_ZONE = 'Ongeldige zone voor het geselecteerde land';

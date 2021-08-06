@@ -8,7 +8,7 @@
 
   Released under the GNU General Public License
   
-  Vertaald door Fiber - Phoenix 1.0.8.4
+  Vertaald door Fiber - Phoenix 1.0.8.5
 */
 // look in your $PATH_LOCALE/locale directory for available locales
 // or type locale -a on the server.
@@ -27,7 +27,7 @@ const DATE_TIME_FORMAT = DATE_FORMAT_SHORT . ' %H:%M:%S';
 const LANGUAGE_CURRENCY = 'EUR';
 
 // Global entries for the <html> tag
-const HTML_PARAMS = 'dir="ltr" lang="nl"';
+const HTML_PARAMS = ' dir="ltr" lang="nl"';
 
 // charset for web pages and emails
 const CHARSET = 'utf-8';
