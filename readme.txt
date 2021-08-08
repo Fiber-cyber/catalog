@@ -1,4 +1,4 @@
-CE Phoenix Cart 1.0.8.5
+CE Phoenix Cart 1.0.8.6
 
 Vertaald door Fiber inclusief vertaling van de PayPal app
 
@@ -13,9 +13,10 @@ Login in de Admin van je Shop..
   Directory: dutch
   Sorteervolgorde: (bepaal zelf).
 - Klik op Save
-
-====
-CE Phoenix Cart 1.0.8.5
+===
+Toegevoegd zones_dutch.sql en zones_belgie.sql met alle zones van Nederland en België
+===
+CE Phoenix Cart 1.0.8.6
 
 Translated by Fiber including translation of the PayPal app
 
@@ -30,4 +31,6 @@ Login to the Admin of your Shop ..
   Directory: dutch
   Sort order: (determine yourself).
 - Click on Save 
+===
+Added zones_dutch.sql en zones_belgie.sql with all zones from Dutch and Belgium
 ===
