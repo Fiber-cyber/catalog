@@ -10,6 +10,5 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_ACTION_RECORDER_RESET_PASSWORD_TITLE', 'Klant wachtwoord opnieuw instellen');
-  define('MODULE_ACTION_RECORDER_RESET_PASSWORD_DESCRIPTION', 'Leg het gebruik van het resetten van het wachtwoord van de klant vast.');
-?>
+  const MODULE_ACTION_RECORDER_RESET_PASSWORD_TITLE = 'Klant wachtwoord opnieuw instellen';
+  const MODULE_ACTION_RECORDER_RESET_PASSWORD_DESCRIPTION = 'Leg het gebruik van het resetten van het wachtwoord van de klant vast.';
