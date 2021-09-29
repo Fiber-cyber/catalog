@@ -10,6 +10,5 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_ACTION_RECORDER_ADMIN_LOGIN_TITLE', 'Beheer Tool Login');
-  define('MODULE_ACTION_RECORDER_ADMIN_LOGIN_DESCRIPTION', 'Registreer het gebruik van de logins van het Beheerprogramma.');
-?>
+  const MODULE_ACTION_RECORDER_ADMIN_LOGIN_TITLE = 'Beheer Tool Login';
+  const MODULE_ACTION_RECORDER_ADMIN_LOGIN_DESCRIPTION = 'Registreer het gebruik van de logins van het Beheerprogramma.';

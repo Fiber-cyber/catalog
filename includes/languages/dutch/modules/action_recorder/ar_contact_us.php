@@ -9,7 +9,6 @@
 
   Released under the GNU General Public License
 */
-
-  define('MODULE_ACTION_RECORDER_CONTACT_US_TITLE', 'Contact Ons');
-  define('MODULE_ACTION_RECORDER_CONTACT_US_DESCRIPTION', 'Leg het gebruik van de pagina Contact Ons vast.');
-?>
+ 
+  const MODULE_ACTION_RECORDER_CONTACT_US_EMAIL_TITLE = 'Contact Ons';
+  const MODULE_ACTION_RECORDER_CONTACT_US_EMAIL_DESCRIPTION = 'Leg het gebruik van de pagina Contact Ons vast.';
