@@ -23,5 +23,5 @@ const TABLE_HEADING_ACTION = 'Actie';
 const TABLE_HEADING_SHOPPING_CART = 'Klant Winkelwagen';
 
 const TEXT_SHOPPING_CART_ITEM = '%s x %s';
-const TEXT_SHOPPING_CART_SUBTOTAL = 'Subtotaol: %s';
+const TEXT_SHOPPING_CART_SUBTOTAL = 'Subtotaal: %s';
 const TEXT_SHOPPING_CART_NA = 'N/A';
