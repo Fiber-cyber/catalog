@@ -10,11 +10,12 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_BOXES_SHOPPING_CART_TITLE', 'Winkelwagen');
-  define('MODULE_BOXES_SHOPPING_CART_DESCRIPTION', 'Toon winkelwagen inhoud');
-  
-  define('MODULE_BOXES_SHOPPING_CART_BOX_TITLE', 'Winkelwagen');
-  define('MODULE_BOXES_SHOPPING_CART_BOX_CART_EMPTY', '0 artikelen');
-  
-  define('MODULE_BOXES_SHOPPING_CART_BOX_CART_TOTAL', '<span class="cart-value">%s</span>');
+  const MODULE_BOXES_SHOPPING_CART_TITLE = 'Winkelwagen';
+  const MODULE_BOXES_SHOPPING_CART_DESCRIPTION = 'Toon winkelwagen inhoud';
+
+  const MODULE_BOXES_SHOPPING_CART_BOX_TITLE = 'Winkelwagen';
+  const MODULE_BOXES_SHOPPING_CART_BOX_CART_EMPTY = '0 artikelen';
+  const MODULE_BOXES_SHOPPING_CART_BOX_ITEM_QUANTITY = '%d x %s';
+
+  const MODULE_BOXES_SHOPPING_CART_BOX_CART_TOTAL = '<span class="cart-value">%s</span>';
   
