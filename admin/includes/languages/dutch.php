@@ -38,12 +38,12 @@ const CHARSET = 'utf-8';
 const TITLE = 'CE Phoenix Cart - Beheer';
 
 // header text in includes/hooks/admin/siteWide/hMenu.php
-const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart text-primary"></i> <span class="border-bottom border-primary">Uw Shop</span>';
-const HEADER_TITLE_PHOENIX_CLUB = '<span class="border-botvanm border-primary">help</span>';
-const HEADER_TITLE_PHOENIX_WIKI = '<i class="fas fa-school mr-1 text-primary"></i><span class="border-bottom border-primary">Handleiding</span>';
-const HEADER_TITLE_CERTIFIED_DEVELOPERS = '<span class="border-bottom border-primary">Gecertificeerde Developers</span>';
-const HEADER_TITLE_CERTIFIED_ADDONS = '<span class="border-bottom border-primary">Add-ons</span>';
-const HEADER_TITLE_LOGOFF = '<i class="fas fa-lock"></i> <span class="border-botvanm border-danger"> %s, veilig uitloggen</span>';
+const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Uw Shop</span>';
+const HEADER_TITLE_PHOENIX_CLUB = '<i class="fas fa-question-circle mr-1 text-primary" aria-hidden="true"></i></i><span class="border-bottom border-primary">Help</span>';
+const HEADER_TITLE_PHOENIX_WIKI = '<i class="fas fa-school mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Handleiding</span>';
+const HEADER_TITLE_CERTIFIED_DEVELOPERS = '<i class="fas fa-laptop-code mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Gecertificeerde Developers</span>';
+const HEADER_TITLE_CERTIFIED_ADDONS = '<i class="fas fa-folder-plus mr-1 text-primary" aria-hidden="true"></i></i><span class="border-bottom border-primary">Add-ons</span>';
+const HEADER_TITLE_LOGOFF = '<i class="fas fa-lock mr-1" aria-hidden="true"></i><span class="border-bottom border-danger">%s, veilig uitloggen</span>';
 
 // images
 const IMAGE_BACK = 'Terug';
