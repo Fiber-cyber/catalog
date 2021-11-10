@@ -5,7 +5,7 @@ Inclusief vertaling voor de PayPal app
 Vertaling door Fiber
 
 Als je de installatie in het Nederlands wilt doe dan het volgende zoals hieronder beschreven.
-Als dit een nieuwe installatie betreft, knip en overschrijf dan de install directory van hetgeen je gedonwload hebt. Andere optie knip en plak de map nl uit deze download install\includes\translations\ naar je install\includes\translations\
+Als dit een nieuwe installatie betreft, knip en overschrijf dan de install directory van hetgeen je gedownload hebt. Andere optie knip en plak de map nl uit deze download install\includes\translations\ naar je install\includes\translations\
  
 Installatie is nu in het Nederlands.
 
