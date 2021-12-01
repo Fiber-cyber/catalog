@@ -35,14 +35,15 @@ const HTML_PARAMS = ' dir="ltr" lang="nl"';
 const CHARSET = 'utf-8';
 
 // page title
-const TITLE = 'Shop Beheer';
+const TITLE = 'CE Phoenix Cart - Beheer';
 
-// header text in includes/header.php
-const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart text-primary"></i> <span class="border-bottom border-primary">Uw Shop</span>';
-const HEADER_TITLE_PHOENIX_CLUB = '<span class="border-botvanm border-primary">Phoenix Club</span>';
-const HEADER_TITLE_PHOENIX_WIKI = '<i class="fas fa-school mr-1 text-primary"></i><span class="border-bottom border-primary">Handleiding</span>';
-const HEADER_TITLE_CERTIFIED_ADDONS = '<span class="border-botvanm border-primary">Gecertificeerde Addons & Services</span>';
-const HEADER_TITLE_LOGOFF = '<i class="fas fa-lock"></i> <span class="border-botvanm border-danger"> %s, veilig uitloggen</span>';
+// header text in includes/hooks/admin/siteWide/hMenu.php
+const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Uw Shop</span>';
+const HEADER_TITLE_PHOENIX_CLUB = '<i class="fas fa-question-circle mr-1 text-primary" aria-hidden="true"></i></i><span class="border-bottom border-primary">Help</span>';
+const HEADER_TITLE_PHOENIX_WIKI = '<i class="fas fa-school mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Handleiding</span>';
+const HEADER_TITLE_CERTIFIED_DEVELOPERS = '<i class="fas fa-laptop-code mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Gecertificeerde Developers</span>';
+const HEADER_TITLE_CERTIFIED_ADDONS = '<i class="fas fa-folder-plus mr-1 text-primary" aria-hidden="true"></i></i><span class="border-bottom border-primary">Add-ons</span>';
+const HEADER_TITLE_LOGOFF = '<i class="fas fa-lock mr-1" aria-hidden="true"></i><span class="border-bottom border-danger">%s, veilig uitloggen</span>';
 
 // images
 const IMAGE_BACK = 'Terug';
@@ -88,7 +89,7 @@ const IMAGE_UPLOAD = 'Upload';
 const ICON_FILE = 'Bestand';
 const ICON_FILE_DOWNLOAD = 'Download';
 
-// constants for use in tep_prev_next_display function
+// constants for use in pagination
 const TEXT_RESULT_PAGE = 'Pagina %s van %d';
 const TEXT_DISPLAY_NUMBER_OF_COUNTRIES = 'Weergeven <strong>%d</strong> van <strong>%d</strong> (of <strong>%d</strong> landen)';
 const TEXT_DISPLAY_NUMBER_OF_CUSTOMER_DATA_GROUPS = 'Weergeven <strong>%d</strong> van <strong>%d</strong> (of <strong>%d</strong> klantgegevens data groepen)';
@@ -126,7 +127,11 @@ const SUCCESS_FILE_SAVED_SUCCESSFULLY = '<strong>Succes:</strong> Bestand is suc
 const WARNING_NO_FILE_UPLOADED = '<strong>Waarschuwing:</strong> Geen bestand geupload.';
 
 // bootstrap helper
-const MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION = '<p>Content breedte kan 12 of minder zijn per kolom per rij.</p><p>12/12 = 100% wijdte, 6/12 = 50% wijdte, 4/12 = 33% wijdte.</p><p>getal van alle kolommen in een rij moet gelijk zijn aan 12 (eg:  3 boxes van elk 4 kolommen, 1 box van 12 kolommen en zo verder).</p>';
+const MODULE_CONTENT_BOOTSTRAP_ROW_DESCRIPTION = <<<'EOT'
+<p>Content breedte kan 12 of minder zijn per kolom per rij.</p>
+<p>12/12 = 100% wijdte, 6/12 = 50% wijdte, 4/12 = 33% wijdte.</p>
+<p>getal van alle kolommen in een rij moet gelijk zijn aan 12 (ed:  3 boxes van elk 4 kolommen, 1 box van 12 kolommen en zo verder).</p>
+EOT;
 
 // seo helper
 const PLACEHOLDER_COMMA_SEPARATION = 'Moet, zijn, komma, gescheiden';
