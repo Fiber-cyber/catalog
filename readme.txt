@@ -1,4 +1,4 @@
-CE Phoenix Cart 1.0.8.8
+CE Phoenix Cart 1.0.8.9
 
 Vertaald door Fiber inclusief vertaling van de PayPal app
 ====
@@ -21,7 +21,7 @@ Login in de Admin van je Shop..
 ===
 Toegevoegd zones_dutch.sql en zones_belgie.sql met alle zones van Nederland en België
 ===
-CE Phoenix Cart 1.0.8.8
+CE Phoenix Cart 1.0.8.9
 
 Translated by Fiber including translation of the PayPal app
 =====

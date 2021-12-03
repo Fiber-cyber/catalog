@@ -1,4 +1,4 @@
-Taalpakket voor CE Phoenix Cart 1.0.8.8
+Taalpakket voor CE Phoenix Cart 1.0.8.9
 
 Inclusief vertaling voor de PayPal app
 
@@ -27,7 +27,7 @@ Toegevoegd zones-dutch.sql en zones-belgie.sql met alle zones van Nederland en B
 
 ===
 
-CE Phoenix Cart 1.0.8.8
+CE Phoenix Cart 1.0.8.9
 
 Translated by Fiber including translation of the PayPal app
 
