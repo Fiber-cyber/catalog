@@ -8,12 +8,7 @@
 
   Released under the GNU General Public License
   
-<<<<<<< Updated upstream
-  Vertaald door Fiber - Phoenix 1.0.8.7
-  
-=======
   Vertaald door Fiber - Phoenix 1.0.8.9
->>>>>>> Stashed changes
 */
 // look in your $PATH_LOCALE/locale directory for available locales
 // or type locale -a on the server.
