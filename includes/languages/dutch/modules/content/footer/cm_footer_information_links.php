@@ -9,16 +9,16 @@
   
   Released under the GNU General Public License
 */
+  
+  const MODULE_CONTENT_FOOTER_INFORMATION_TITLE = 'Informatie Links Blok';
+  const MODULE_CONTENT_FOOTER_INFORMATION_DESCRIPTION = 'Voeg de Informatie Links Blok toe aan de Footer van je shop';
 
-  define('MODULE_CONTENT_FOOTER_INFORMATION_TITLE', 'Informatie Links Blok');
-  define('MODULE_CONTENT_FOOTER_INFORMATION_DESCRIPTION', 'Voeg de Informatie Links Blok toe aan de Footer van je shop');
+  const MODULE_CONTENT_FOOTER_INFORMATION_HEADING_TITLE = 'Informatie';
 
-  define('MODULE_CONTENT_FOOTER_INFORMATION_HEADING_TITLE', 'Informatie');
-
-  const MODULE_CONTENT_FOOTER_INFORMATION_DATA = array(
+  const MODULE_CONTENT_FOOTER_INFORMATION_DATA = [
     'privacy.php' => 'Privacy &amp; Cookie beleid',
     'conditions.php' => 'Algemene voorwaarden',
     'shipping.php' => 'Verzending &amp; Retourneren',
-    'contact_us.php' => 'Contact Ons'
-  );
+    'contact_us.php' => 'Contacteer Ons',
+  ];
 
