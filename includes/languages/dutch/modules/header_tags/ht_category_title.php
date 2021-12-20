@@ -14,4 +14,3 @@
   define('MODULE_HEADER_TAGS_CATEGORY_TITLE_DESCRIPTION', 'Voeg de beschrijving toe aan de titel van de categorie');
 
   define('MODULE_HEADER_TAGS_CATEGORY_SEO_SEPARATOR', ' | ');
-  

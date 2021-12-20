@@ -3,7 +3,7 @@
   $Id$
 
   CE Phoenix, E-Commerce made Easy
- https://phoenixcart.org
+  https://phoenixcart.org
 
   Copyright (c) 2021 Phoenix Cart
 
@@ -23,4 +23,3 @@
   define('MODULE_NAVBAR_ACCOUNT_ADDRESS_BOOK', 'Mijn Adresboek');
   define('MODULE_NAVBAR_ACCOUNT_PASSWORD', 'Mijn Wachtwoord');
   define('MODULE_NAVBAR_ACCOUNT_REGISTER', '<i class="fas fa-fw fa-pencil-alt"></i> Registreer');
-  

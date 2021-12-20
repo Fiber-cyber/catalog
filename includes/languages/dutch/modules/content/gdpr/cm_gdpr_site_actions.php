@@ -22,4 +22,3 @@
   const ar_contact_us = 'Contact opgenomen';
   const ar_reset_password = 'Wachtwoord gereset';
   // add more as you add more action_recorder modules
-  

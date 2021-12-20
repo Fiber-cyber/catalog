@@ -14,5 +14,3 @@
   const MODULE_CONTENT_TESTIMONIALS_TITLE_DESCRIPTION  = 'Toon de  Page Heading.';
   
   const MODULE_CONTENT_TESTIMONIALS_TITLE_PUBLIC_TITLE = 'Klanten bevindingen';
-
-  

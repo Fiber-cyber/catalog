@@ -3,7 +3,7 @@
   $Id$
   
   CE Phoenix, E-Commerce made Easy
- https://phoenixcart.org
+  https://phoenixcart.org
 
   Copyright (c) 2021 Phoenix Cart
   
@@ -12,4 +12,3 @@
 
   const MODULE_CONTENT_PI_DESCRIPTION_TITLE       = 'Beschrijving';
   const MODULE_CONTENT_PI_DESCRIPTION_DESCRIPTION = 'Toon de artikel beschrijving op de artikel infopagina.';
-  

@@ -14,5 +14,3 @@
   const MODULE_CONTENT_CAS_TITLE_DESCRIPTION  = 'Toon de Page Heading.';
   
   const MODULE_CONTENT_CAS_TITLE_PUBLIC_TITLE = 'Bedankt voor het instellen van uw profiel!';
-
-  

@@ -14,5 +14,3 @@
   const MODULE_CONTENT_CHECKOUT_SUCCESS_TITLE_DESCRIPTION  = 'Toon de Page Heading.';
   
   const MODULE_CONTENT_CHECKOUT_SUCCESS_TITLE_PUBLIC_TITLE = 'Uw order is compleet';
-
-  

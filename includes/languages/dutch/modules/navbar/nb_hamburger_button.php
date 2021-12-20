@@ -1,7 +1,9 @@
 <?php
 /*
+ $Id$
+ 
   CE Phoenix, E-Commerce made Easy
- https://phoenixcart.org
+  https://phoenixcart.org
 
   Copyright (c) 2021 Phoenix Cart
   
@@ -13,4 +15,3 @@
   
   define('MODULE_NAVBAR_HAMBURGER_BUTTON_PUBLIC_SCREENREADER_TEXT', 'Toggle Navigatie');
   define('MODULE_NAVBAR_HAMBURGER_BUTTON_PUBLIC_BUTTON_TEXT', '<span class="navbar-toggler-icon"></span>');
-  

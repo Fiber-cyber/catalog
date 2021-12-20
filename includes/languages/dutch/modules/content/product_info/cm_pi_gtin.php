@@ -8,7 +8,6 @@
   Copyright (c) 2021 Phoenix Cart
   
   Released under the GNU General Public License
-  
 */
 
   const MODULE_CONTENT_PRODUCT_INFO_GTIN_TITLE        = 'GTIN';

@@ -14,4 +14,3 @@
   const MODULE_CONTENT_ACCOUNT_TITLE_DESCRIPTION  = 'Toon de Page Heading.';
   
   const MODULE_CONTENT_ACCOUNT_TITLE_PUBLIC_TITLE = 'Mijn Account Informatie';
-  
