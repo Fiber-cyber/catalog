@@ -25,4 +25,3 @@
   const MODULE_CONTENT_GDPR_SITE_DETAILS_RECENT_LOGON = 'Meest recente aanmelding';
   const MODULE_CONTENT_GDPR_SITE_DETAILS_NUMBER_REVIEWS = 'Recensies die door u zijn geschreven';
   const MODULE_CONTENT_GDPR_SITE_DETAILS_NUMBER_NOTIFICATIONS = 'Product Notificaties';
-  

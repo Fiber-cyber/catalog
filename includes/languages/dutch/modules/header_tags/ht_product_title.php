@@ -14,4 +14,3 @@
   define('MODULE_HEADER_TAGS_PRODUCT_TITLE_DESCRIPTION', 'Voeg de titel toe van het huidige artikel naar de paginatitel');
 
   define('MODULE_HEADER_TAGS_PRODUCT_SEO_SEPARATOR', ' | ');
-  

@@ -3,12 +3,11 @@
   $Id$
   
   CE Phoenix, E-Commerce made Easy
- https://phoenixcart.org
+  https://phoenixcart.org
 
   Copyright (c) 2021 Phoenix Cart
   
-  Released under the GNU General Public License
-  
+  Released under the GNU General Public License 
 */
 
   const MODULE_CONTENT_PI_BUY_TITLE       = 'Koop button';

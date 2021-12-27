@@ -21,4 +21,3 @@
   
   define('MODULE_CONTENT_CHECKOUT_SUCCESS_TEXT_CONTACT_STORE_OWNER', '<a class="list-group-item list-group-item-action" href="%s"><span class="text-primary border-bottom border-primary">Contact ons</span> wanneer u vragen heeft over uw bestelling.</a>');
   
-  

@@ -19,4 +19,3 @@
   define('MODULE_CONTENT_PI_REVIEW_STARS_DO_REVIEW', 'Voeg uw recensie toe');
   
   define('MODULE_CONTENT_PI_REVIEW_STARS_DO_FIRST_REVIEW', 'Wees de eerste om dit artikel te beoordelen');
-  

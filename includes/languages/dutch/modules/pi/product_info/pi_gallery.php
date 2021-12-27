@@ -15,5 +15,5 @@
   
   const PI_GALLERY_ALBUM_NAME = 'Album voor %s';
   const PI_GALLERY_ALBUM_CLOSE = 'Sluiten';
-  
+
   
