@@ -11,6 +11,3 @@
 */
 
   define('BOX_HEADING_LOCATION_AND_TAXES', '<i data-content="Locaties & Belastingen" data-toggle="popover" data-placement="right" class="fas fa-comments-dollar fa-fw mr-1"></i><span class="d-inline d-md-none">Locaties & Belastingen</span>');
-
-
-  
