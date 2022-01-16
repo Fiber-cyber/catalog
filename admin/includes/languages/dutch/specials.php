@@ -25,7 +25,7 @@ const TEXT_SPECIALS_PRICE_TIP = <<<'EOT'
 <p class="lead">Uitleg:</p>
 <dl class="row">
 <dt class="col-sm-3">Percentage:</dt><dd class="col-sm-9">In het veld Speciale prijs kunt u bijvoorbeeld een percentage invoeren: <strong>20%</strong></dd>
-<dt class="col-sm-3">Decimaal Scheidingsteke:</dt><dd class="col-sm-9">Als u een nieuwe prijs invoert, moet het decimale scheidingsteken een <strong>.</strong> zijn (decimal-punt), voorbeeld: <strong>49.99</strong></dd>
+<dt class="col-sm-3">Decimaal Scheidingsteken:</dt><dd class="col-sm-9">Als u een nieuwe prijs invoert, moet het decimale scheidingsteken een <strong>.</strong> zijn (decimal-punt), voorbeeld: <strong>49.99</strong></dd>
 <dt class="col-sm-3">Vervaldatum:</dt><dd class="col-sm-9">Laat de vervaldatum leeg voor geen vervaldatum</dd>
 </dl>
 EOT;
