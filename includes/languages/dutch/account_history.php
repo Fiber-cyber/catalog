@@ -24,7 +24,7 @@ define('TEXT_ORDER_PRODUCTS', 'Artikelen');
 define('TEXT_ORDER_COST', 'Kosten');
 define('TEXT_VIEW_ORDER', 'Bekijk');
 
-define('BUTTON_VIEW_ORDER', '<i title="bekijk deze order" class="fas fa-eye"></i>');
+define('BUTTON_VIEW_ORDER', '<i title="Bekijk deze order" class="fas fa-eye"></i>');
 
 define('TEXT_NO_PURCHASES', 'U heeft nog geen aankopen gedaan.');
 
