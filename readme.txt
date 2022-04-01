@@ -1,5 +1,5 @@
 CE Phoenix Cart 1.0.8.13
-
+=======
 Vertaald door Fiber inclusief vertaling van de PayPal app
 ====
 Als je de installatie in het Nederlands wilt doe dan het volgende zoals hieronder beschreven.
@@ -24,7 +24,7 @@ Login in de Admin van je Shop..
 Toegevoegd zones_dutch.sql en zones_belgie.sql met alle zones van Nederland en België
 ===
 CE Phoenix Cart 1.0.8.13
-
+=======
 Translated by Fiber including translation of the PayPal app
 =====
 If you want the installation in Dutch, do the following as described below.
