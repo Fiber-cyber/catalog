@@ -1,6 +1,9 @@
 CE Phoenix Cart 1.0.8.14
 
 Vertaald door Fiber
+=======
+Vertaald door Fiber inclusief vertaling van de PayPal app
+
 ====
 Als je de installatie in het Nederlands wilt doe dan het volgende zoals hieronder beschreven.
 Kopieër en/of knip en plak de map install uit deze download naar de root van je shop.
