@@ -20,6 +20,7 @@ Login in de Admin van je Shop..
   Directory: dutch
   Sorteervolgorde: (bepaal zelf).
 - Klik op Save
+
 ===
 Toegevoegd zones_dutch.sql en zones_belgie.sql met alle zones van Nederland en België
 ===
@@ -27,6 +28,7 @@ CE Phoenix Cart 1.0.8.14
 
 Translated by Fiber
 =====
+
 If you want the installation in Dutch, do the following as described below.
 Copy and/or cut and paste the install folder from this download to the root of your shop.
 (Location is install\includes\translations\)
