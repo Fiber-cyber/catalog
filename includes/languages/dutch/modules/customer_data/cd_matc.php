@@ -3,12 +3,16 @@
   $Id$
 
   CE Phoenix, E-Commerce made Easy
- https://phoenixcart.org
+  https://phoenixcart.org
 
   Copyright (c) 2021 Phoenix Cart
 
   Released under the GNU General Public License
 */
+
+const MODULE_CUSTOMER_DATA_MATC_TEXT_TITLE = 'MATC';
+const MODULE_CUSTOMER_DATA_MATC_TEXT_DESCRIPTION = 'Instemming met de algemene voorwaarden vereisen.';
+
 
 // for the page(s)
 const ENTRY_MATC = 'Juridische overeenkomsten';
