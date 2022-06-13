@@ -1,4 +1,3 @@
-1.0.8.15
 Taalpakket voor CE Phoenix Cart 1.0.8.16
 =======
 Vertaling door Fiber
