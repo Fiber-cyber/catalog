@@ -18,7 +18,7 @@ const TABLE_HEADING_SUCCESS = 'Resultaat';
 const TABLE_HEADING_DATE_ADDED = 'Datum';
 const TABLE_HEADING_ACTION = 'Actie';
 
-const TEXT_FILTER_SEARCH = 'Zoekern';
+const TEXT_FILTER_SEARCH = 'Zoeken';
 const TEXT_GUEST = 'Gast';
 
 const TEXT_INFO_IDENTIFIER = 'Identificatie:';
