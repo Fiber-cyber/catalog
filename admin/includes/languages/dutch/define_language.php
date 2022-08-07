@@ -31,7 +31,7 @@ const TEXT_EDIT_NOTE = <<<'EORT'
 <span style="background-color: #FFFF99;">Deze tekst kan bewerkt worden.
 Het is heel gemakkelijk te doen!</span>
 EOT;</pre></p>
-<p>Het is ook niet langer nodig om een backslash toe te voegen in meerdere regelitems zoals deze.</p>
+<div class="badge badge-danger">Het is ook niet langer nodig om een backslash toe te voegen in meerdere regelitems zoals hierboven.</div>
 EORT;
 
 const TEXT_FILE_DOES_NOT_EXIST = 'Bestand bestaat niet.';
