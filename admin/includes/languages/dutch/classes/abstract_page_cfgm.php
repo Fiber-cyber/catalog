@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-const TEXT_ALL_MODULES = '-- Alle Modules --';
+const TEXT_ALL_MODULES = '--Alle Modules--';
