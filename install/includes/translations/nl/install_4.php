@@ -27,7 +27,7 @@ const TEXT_SHARING_WARNING = <<<'EOT'
 EOT;
 
 const TEXT_SHARING_WARNING_ADMIN = <<<'EOT'
-// Als u wordt gevraagd om configure.php-details op te geven,
+// Als u wordt gevraagd om de configure.php details op te geven,
 // verwijder voor het delen de onderstaande gegevens en
-// verduister de admin-map en homedirectory (DIR_FS).
+// verberg de admin-map naam en homedirectory (DIR_FS).
 EOT;
