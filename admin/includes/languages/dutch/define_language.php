@@ -31,6 +31,7 @@ const TEXT_EDIT_NOTE = <<<'EORT'
 <span style="background-color: #FFFF99;">Deze tekst kan bewerkt worden.
 Het is heel gemakkelijk te doen!</span>
 EOT;</pre></p>
+
 <div class="badge badge-danger">Het is ook niet langer nodig om een backslash toe te voegen in meerdere regelitems zoals hierboven.</div>
 EORT;
 
