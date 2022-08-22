@@ -13,6 +13,9 @@
 const TABLE_HEADING_MODULES = 'Modules';
 const TABLE_HEADING_SORT_ORDER = 'Sorteer Volgorde';
 const TABLE_HEADING_ACTION = 'Actie';
+const TABLE_HEADING_ENABLED = 'Ingeschakeld';
+const TABLE_HEADING_GROUP = 'Groep';
+const TABLE_HEADING_WIDTH = 'Wijdte';
 
 const TEXT_INFO_VERSION = 'Versie:';
 const TEXT_INFO_ONLINE_STATUS = 'online status';
