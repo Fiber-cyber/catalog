@@ -10,6 +10,6 @@
   Released under the GNU General Public License
 */
 
-define('MODULE_SECURITY_CHECK_EXTENDED_VERSION_CHECK_TITLE', 'Versiecontrole');
-define('MODULE_SECURITY_CHECK_EXTENDED_VERSION_CHECK_ERROR', 'Het is meer dan 30 dagen geleden dat een versiecontrole is uitgevoerd. Voer de controle uit om te zien of er een nieuwe versie beschikbaar is.');
-?>
+const MODULE_SECURITY_CHECK_EXTENDED_VERSION_CHECK_TITLE = 'Versiecontrole';
+const MODULE_SECURITY_CHECK_EXTENDED_VERSION_CHECK_ERROR = 'Het is meer dan 30 dagen geleden dat er een versiecontrole is uitgevoerd, voer de controle uit om te zien of er een nieuwe versie beschikbaar is.';
+
