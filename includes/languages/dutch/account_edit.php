@@ -5,15 +5,14 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE_1', 'Mijn Account');
-define('NAVBAR_TITLE_2', 'bewerk Account');
+const NAVBAR_TITLE_1 = 'Mijn Account';
+const NAVBAR_TITLE_2 = 'Bewerk Account';
 
-define('HEADING_TITLE', 'Mijn Account Informatie');
+const HEADING_TITLE = 'Mijn Account Informatie';
 
-define('SUCCESS_ACCOUNT_UPDATED', 'Uw account is succesvol bijgewerkt.');
-
+const SUCCESS_ACCOUNT_UPDATED = 'Uw account is succesvol bijgewerkt.';

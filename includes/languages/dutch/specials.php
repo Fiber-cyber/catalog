@@ -10,11 +10,11 @@
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE', 'Aanbiedingen');
-define('HEADING_TITLE', 'Wees er snel bij OP=OP!');
+const NAVBAR_TITLE =  'Aanbiedingen';
+const HEADING_TITLE = 'Wees er snel bij OP=OP!';
 
-define('TEXT_NO_PRODUCTS', 'Er zijn geen aanbiedingen beschikbaar.');
+const TEXT_NO_PRODUCTS = 'Er zijn geen aanbiedingen beschikbaar.';
 
 // seo
-define('META_SEO_TITLE', 'Aanbiedingen pagina');
-define('META_SEO_DESCRIPTION', 'Aanbiedingen beschrijving');
+const META_SEO_TITLE = 'Aanbiedingen pagina';
+const META_SEO_DESCRIPTIO = 'Aanbiedingen beschrijving';
