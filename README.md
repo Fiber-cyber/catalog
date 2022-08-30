@@ -1,4 +1,4 @@
-Taalpakket voor CE Phoenix Cart 1.0.8.17
+Taalpakket voor CE Phoenix Cart 1.0.8.18
 =======
 Vertaling door Fiber
 
@@ -26,8 +26,10 @@ Toegevoegd zones-dutch.sql en zones-belgie.sql met alle zones van Nederland en B
 
 ===
 
-CE Phoenix Cart 1.0.8.17
+
+CE Phoenix Cart 1.0.8.18
 =======
+
 Translated by Fiber
 
 If you want the installation in Dutch, do the following as described below.

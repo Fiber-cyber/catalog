@@ -5,21 +5,21 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart 
+  Copyright (c) 2022 Phoenix Cart 
 
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Contact Ons');
-define('NAVBAR_TITLE', 'Contact Ons');
-define('TEXT_SUCCESS', 'Uw reactie is succesvol verzonden naar de winkeleigenaar.');
-define('EMAIL_SUBJECT', 'Reactie van %s');
+const HEADING_TITLE = 'Contact Ons';
+const NAVBAR_TITLE = 'Contact Ons';
+const TEXT_SUCCESS = 'Uw reactie is succesvol verzonden naar de winkeleigenaar.';
+const EMAIL_SUBJECT = 'Reactie van %s';
 
-define('ENTRY_NAME', 'Volledige naam');
-define('ENTRY_NAME_TEXT', '');
-define('ENTRY_EMAIL', 'E-Mail Adres');
-define('ENTRY_EMAIL_TEXT', '');
-define('ENTRY_ENQUIRY', 'Reactie');
-define('ENTRY_ENQUIRY_TEXT', '');
+const ENTRY_NAME = 'Volledige naam';
+const ENTRY_NAME_TEXT = '';
+const ENTRY_EMAIL = 'E-Mail Adres';
+const ENTRY_EMAIL_TEXT = '';
+const ENTRY_ENQUIRY = 'Reactie';
+const ENTRY_ENQUIRY_TEXT = '';
 
-define('ERROR_ACTION_RECORDER', 'Fout: er is al een reactie verzonden. Probeer het over %s minuten opnieuw.');
+const ERROR_ACTION_RECORDER = 'Fout: er is al een reactie verzonden. Probeer het over %s minuten opnieuw.';
