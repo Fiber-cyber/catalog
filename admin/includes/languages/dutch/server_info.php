@@ -26,7 +26,7 @@ const TITLE_DATABASE_HOST = 'Database Host';
 const TITLE_DATABASE = 'Database';
 const TITLE_DATABASE_DATE = 'Database Datum';
 
-const TEXT_EXPORT_INTRO = 'U kunt de informatie in een bestand opslaan door op Opslaan te klikken.';
+const TEXT_EXPORT_INTRO = 'U kunt de informatie in een bestand opslaan door onderaan op "Bewaar op uw harde schijf te klikken".';
 const TEXT_EXPORT_INFO = 'Export Server Informatie';
 
 const BUTTON_SAVE_TO_DISK = 'Bewaar op uw harde schijf';
