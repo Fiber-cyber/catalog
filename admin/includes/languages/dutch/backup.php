@@ -41,8 +41,8 @@ const TEXT_FORGET = 'Vergeet';
 const ERROR_BACKUP_DIRECTORY_DOES_NOT_EXIST = '<strong>Error:</strong> Backup map bestaat niet! Stel dit in configure.php in.';
 const ERROR_BACKUP_DIRECTORY_NOT_WRITEABLE = '<strong>Error:</strong> Backup map is niet schrijfbaar.';
 const ERROR_DOWNLOAD_LINK_NOT_ACCEPTABLE = '<strong>Error:</strong> Download link is niet acceptabel.';
-const ERROR_INVALID_FILE = 'The file [%s] is not recognized as a valid backup.  Verify that it exists, has a .sql extension, and is of a reasonable size.';
-const ERROR_FILE_TOO_LARGE = 'The fileis "%d" bytes but the limit is "%s".';
+const ERROR_INVALID_FILE = 'Het bestand [%s] wordt niet herkend als een geldige back-up. Controleer of het bestaat, de extensie .sql heeft en een redelijke omvang heeft.';
+const ERROR_FILE_TOO_LARGE = 'Het bestand is "%d" bytes maar de limiet is "%s".';
 
 const SUCCESS_LAST_RESTORE_CLEARED = '<strong>Success:</strong> De laatste herstel datum is gewist.';
 const SUCCESS_DATABASE_SAVED = '<strong>Success:</strong> De database is opgeslagen.';

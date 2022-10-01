@@ -5,15 +5,15 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Beveiligingscontroles');
+const HEADING_TITLE = 'Beveiligingscontroles';
 
-define('TABLE_HEADING_TITLE', 'Titel');
-define('TABLE_HEADING_MODULE', 'Module');
-define('TABLE_HEADING_INFO', 'Info');
+const TABLE_HEADING_TITLE = 'Titel';
+const TABLE_HEADING_MODULE = 'Module';
+const TABLE_HEADING_INFO = 'Info';
 
-define('BUTTON_TEXT_RELOAD', 'Herladen');
+const BUTTON_TEXT_RELOAD = 'Herladen';
