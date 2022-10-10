@@ -5,31 +5,30 @@
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart
+  Copyright (c) 2022 Phoenix Cart
 
   Released under the GNU General Public License
 */
 
-define('HEADING_TITLE', 'Database Tabellen');
+const HEADING_TITLE = 'Database Tabellen';
 
-define('TABLE_HEADING_TABLE', 'Tabel');
-define('TABLE_HEADING_ROWS', 'Rijen');
-define('TABLE_HEADING_SIZE', 'Grootte');
-define('TABLE_HEADING_ENGINE', 'Motor');
-define('TABLE_HEADING_COLLATION', 'Collatie');
-define('TABLE_HEADING_MSG_TYPE', 'Bericht Type');
-define('TABLE_HEADING_MSG', 'Bericht');
-define('TABLE_HEADING_QUERIES', 'Queries');
+const TABLE_HEADING_TABLE = 'Tabel';
+const TABLE_HEADING_ROWS = 'Rijen';
+const TABLE_HEADING_SIZE = 'Grootte';
+const TABLE_HEADING_ENGINE = 'Motor';
+const TABLE_HEADING_COLLATION = 'Collatie';
+const TABLE_HEADING_MSG_TYPE = 'Bericht Type';
+const TABLE_HEADING_MSG = 'Bericht';
+const TABLE_HEADING_QUERIES = 'Queries';
 
-define('ACTION_CHECK_TABLES', 'Controleer Tabel');
-define('ACTION_ANALYZE_TABLES', 'Tabellen analyseren');
-define('ACTION_OPTIMIZE_TABLES', 'Optimaliseer tabellen');
-define('ACTION_REPAIR_TABLES', 'Repareer Tabellen');
-define('ACTION_UTF8_CONVERSION', 'Converteer naar UTF8');
+const ACTION_CHECK_TABLES = 'Controleer tabellen';
+const ACTION_ANALYZE_TABLES = 'Tabellen analyseren';
+const ACTION_OPTIMIZE_TABLES = 'Optimaliseer tabellen';
+const ACTION_REPAIR_TABLES = 'Repareer tabellen';
+const ACTION_UTF8_CONVERSION = 'Converteer naar UTF8';
 
-define('ACTION_UTF8_CONVERSION_FROM_AUTODETECT', 'Auto-Detect');
-define('ACTION_UTF8_CONVERSION_FROM', 'van %s');
-define('ACTION_UTF8_DRY_RUN', 'Toon alleen de queries? %s&nbsp;');
+const ACTION_UTF8_CONVERSION_FROM_AUTODETECT = 'Auto-Detect';
+const ACTION_UTF8_CONVERSION_FROM = 'van %s';
+const ACTION_UTF8_DRY_RUN = 'Toon alleen de queries? %s&nbsp;';
 
-define('BUTTON_ACTION_GO', 'GA');
-?>
+const BUTTON_ACTION_GO = 'GA';
