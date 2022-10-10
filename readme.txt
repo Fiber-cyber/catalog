@@ -1,6 +1,5 @@
-CE Phoenix Cart 1.0.8.18
+CE Phoenix Cart 1.0.8.20
 =======
-
 Vertaald door Fiber
 =======
 Als je de installatie in het Nederlands wilt doe dan het volgende zoals hieronder beschreven.
@@ -25,8 +24,7 @@ Login in de Admin van je Shop..
 ===
 Toegevoegd zones_dutch.sql en zones_belgie.sql met alle zones van Nederland en België
 ===
-
-CE Phoenix Cart 1.0.8.18
+CE Phoenix Cart 1.0.8.20
 =======
 Translated by Fiber
 =====
