@@ -9,7 +9,6 @@
   Released under the GNU General Public License
   
   Vertaald door Fiber - Phoenix 1.0.8.20
-
 */
 
 // look in your $PATH_LOCALE/locale directory for available locales

@@ -1,5 +1,5 @@
 Taalpakket voor CE Phoenix Cart 1.0.8.20
-=======
+
 Vertaling door Fiber
 
 Als je de installatie in het Nederlands wilt doe dan het volgende zoals hieronder beschreven.
@@ -27,6 +27,7 @@ Toegevoegd zones-dutch.sql en zones-belgie.sql met alle zones van Nederland en B
 =======
 
 CE Phoenix Cart 1.0.8.20
+
 
 
 Translated by Fiber
