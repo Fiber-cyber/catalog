@@ -43,6 +43,7 @@ const ERROR_BACKUP_DIRECTORY_NOT_WRITEABLE = '<strong>Error:</strong> Backup map
 const ERROR_DOWNLOAD_LINK_NOT_ACCEPTABLE = '<strong>Error:</strong> Download link is niet acceptabel.';
 const ERROR_INVALID_FILE = 'Het bestand [%s] wordt niet herkend als een geldige back-up. Controleer of het bestaat, de extensie .sql heeft en een redelijke omvang heeft.';
 const ERROR_FILE_TOO_LARGE = 'Het bestand is "%d" bytes maar de limiet is "%s".';
+const ERROR_PATH_NOT_REMOVEABLE = '<strong>Error:</strong> Kan backup bestand niet verwijderen "%s"';
 
 const SUCCESS_LAST_RESTORE_CLEARED = '<strong>Success:</strong> De laatste herstel datum is gewist.';
 const SUCCESS_DATABASE_SAVED = '<strong>Success:</strong> De database is opgeslagen.';
