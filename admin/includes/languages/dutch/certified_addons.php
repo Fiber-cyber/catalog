@@ -16,5 +16,5 @@ const TABLE_CERTIFIED_ADDONS_TITLE = 'URL';
 const TABLE_CERTIFIED_ADDONS_OWNER = 'Provider';
 const TABLE_CERTIFIED_ADDONS_REMARKS = 'Opmerkingen';
 
-const TEXT_CERTIFIED_ADDONS = '<p class="m-0 lead">Alle Addons/Services die hier worden vermeld, zijn <strong>gecertificeerd</strong> door een lid van het Phoenix Core Team.</p>%s';
+const TEXT_CERTIFIED_ADDONS = '<p class="m-0 lead">Alle Addons/Services die hier worden vermeld, zijn <strong>gecertificeerd</strong> door het Phoenix Core Team.</p>%s';
 const NUM_CERTIFIED_ADDONS = 'Er zijn momenteel <b>%d</b> Gecertificeerde Addons/Services.';
