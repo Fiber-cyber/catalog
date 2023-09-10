@@ -20,4 +20,4 @@ const BUTTON_GLOBAL = 'Globaal';
 const BUTTON_SELECT = '>>>';
 const BUTTON_UNSELECT = '<<<';
 const BUTTON_SUBMIT = 'Verzenden';
-const BUTTON_CANCEL - 'Annuleer';
+const BUTTON_CANCEL = 'Annuleer';

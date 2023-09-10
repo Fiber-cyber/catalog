@@ -25,7 +25,7 @@ Om op de hoogte te blijven van alle artikelwijzigingen, selecteert u <strong>Alg
 EOT;
 
 const NOTIFICATIONS_TITLE = 'Artikel Notificaties';
-const NOTIFICATIONS_DESCRIPTION = 'Om een artikelmelding te verwijderen, schakelt u het selectievakje artikelen uit en klikt u op Doorgaan.');
+const NOTIFICATIONS_DESCRIPTION = 'Om een artikelmelding te verwijderen, schakelt u het selectievakje artikelen uit en klikt u op Doorgaan.';
 const NOTIFICATIONS_NON_EXISTING = <<<'EOT'
 Er zijn momenteel geen artikelen  gemarkeerd voor meldingen.<br><br>
 Om artikelen aan uw lijst met artikelmeldingen toe te voegen, klikt u op de notificatie-link die beschikbaar is op de pagina met gedetailleerde artikelinformatie.
