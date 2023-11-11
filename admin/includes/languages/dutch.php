@@ -25,8 +25,6 @@ const DATE_FORMAT_LONG = '%A %d %B, %Y'; // this is used for strftime()
 const DATE_FORMAT = 'd/m/Y'; // this is used for date()
 const PHP_DATE_TIME_FORMAT = 'd/m/Y H:i:s'; // this is used for date()
 const DATE_TIME_FORMAT = DATE_FORMAT_SHORT . ' %H:%M:%S';
-const JQUERY_DATEPICKER_I18N_CODE = 'nl'; // leave empty for en_US; see http://jqueryui.com/demos/datepicker/#localization
-const JQUERY_DATEPICKER_FORMAT = 'dd/mm/yy'; // see http://docs.jquery.com/UI/Datepicker/formatDate
 
 // Global entries for the <html> tag
 const HTML_PARAMS = ' dir="ltr" lang="nl"';
@@ -41,7 +39,7 @@ const TITLE = 'CE Phoenix Cart - Beheer';
 const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Uw Shop</span>';
 const HEADER_TITLE_PHOENIX_CLUB = '<i class="fas fa-question-circle mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Help</span>';
 const HEADER_TITLE_PHOENIX_WIKI = '<i class="fas fa-school mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Handleiding</span>';
-const HEADER_TITLE_CERTIFIED_DEVELOPERS = '<i class="fas fa-laptop-code mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Gecertificeerde Developers</span>';
+const HEADER_TITLE_CERTIFIED_DEVELOPERS = '<i class="fas fa-laptop-code mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Gecertificeerde Partners</span>';
 const HEADER_TITLE_CERTIFIED_ADDONS = '<i class="fas fa-folder-plus mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Add-ons</span>';
 const HEADER_TITLE_LOGOFF = '<i class="fas fa-lock mr-1" aria-hidden="true"></i><span class="border-bottom border-danger">%s, veilig uitloggen</span>';
 

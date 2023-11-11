@@ -28,7 +28,7 @@ const TEXT_EDIT_NOTE = <<<'EORT'
 <p>Meerdere regelinvoeren kunnen worden gedaan zoals:</p>
 
 <p><pre>const TEXT_MAIN = <<<'EOT'
-<span style="background-color: #FFFF99;">Deze tekst kan bewerkt worden.
+<span style="background-color: #FFFF99;">Deze tekst kan bewerkt worden. 
 Het is heel gemakkelijk te doen!</span>
 EOT;</pre></p>
 
