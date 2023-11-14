@@ -31,8 +31,8 @@ const TEXT_INFO_DATE_ADDED = 'Datum toegevoegd: %s';
 const TEXT_INFO_LAST_MODIFIED = 'Laatst gewijzigd: %s';
 const TEXT_INFO_REVIEW_AUTHOR = 'Auteur: %s';
 const TEXT_INFO_REVIEW_RATING = 'Beoordeling: %s';
-const TEXT_INFO_REVIEW_READ = 'Lezen: %s';
-const TEXT_INFO_REVIEW_SIZE = 'Grootte: %s bytes';
+
+const TEXT_INFO_REVIEW_SIZE = 'Grootte: %s Woorden';
 const TEXT_INFO_REVIEW_STATUS = 'Recensie Status: %s';
 const TEXT_INFO_PRODUCTS_AVERAGE_RATING = 'Gemiddelde beoordeling: %s%%';
 
