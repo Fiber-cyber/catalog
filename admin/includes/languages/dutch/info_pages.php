@@ -47,4 +47,4 @@ const IMAGE_BUTTON_ADD_PAGE = 'Voeg nieuwe pagina toe';
 const SORT_ORDER = 'Sorteer Order';
 const TABLE_HEADING_SORT_ORDER = 'Sorteer Order';
 
-const MISSING_SLUGS_ERROR = 'Verplichte Slugs ontbreken:  <b>%s</b><hr>Deze Slugs zijn nodig om de MATC-functionaliteit (Must Agree Terms and Conditions van uw site mogelijk te maken.';
+const MISSING_SLUGS_ERROR = 'Verplichte Slugs ontbreken:  <b>%s</b><hr>Deze slugs zijn nodig om bepaalde functionaliteit van uw site mogelijk te maken.';
