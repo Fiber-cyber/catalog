@@ -138,3 +138,5 @@ const PLACEHOLDER_COMMA_SEPARATION = 'Moet, zijn, komma, gescheiden';
 const FORM_REQUIRED_INPUT = '<span class="form-control-feedback text-danger"><i class="fas fa-asterisk"></i></span>';
 
 const TEXT_IMAGE_NON_EXISTENT = 'PLAATJE BESTAAT NIET';
+
+const STAR_RATING = 'Beoordeeld als %s sterren';
