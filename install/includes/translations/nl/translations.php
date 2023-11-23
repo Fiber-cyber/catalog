@@ -29,6 +29,7 @@ const TEXT_ON = 'Aan';
 const TEXT_OFF = 'Uit';
 
 const TEXT_REQUIRED_INFORMATION = '<i class="fas fa-asterisk text-danger"></i> Verplichte informatie';
+const TITLE_REQUIRED_INFORMATION = '<i class="fas fa-asterisk text-danger"></i> Verplichte informatie';
 
 const TEXT_NEW_INSTALLATION = 'Nieuwe Installatie';
 const TEXT_WEB_INSTALL = <<<'EOT'
