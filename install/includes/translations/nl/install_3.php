@@ -17,7 +17,7 @@ const TEXT_OWNER_NAME = 'Winkeleigenaar Naam';
 const TEXT_OWNER_NAME_PLACEHOLDER = 'Uw Naam';
 const TEXT_OWNER_NAME_EXPLANATION = '<small class="form-text text-muted">De naam van de winkeleigenaar die aan het publiek wordt gepresenteerd.</small>';
 const TEXT_OWNER_EMAIL = 'Winkeleigenaar E-Mail Adres';
-const TEXT_OWNER_EMAIL_PLACEHOLDER = 'you@yours.com';
+const TEXT_OWNER_EMAIL_PLACEHOLDER = 'jou@email.com';
 const TEXT_OWNER_EMAIL_EXPLANATION = '<small class="form-text text-muted">Het e-mailadres van de winkeleigenaar dat aan het publiek wordt gepresenteerd.</small>';
 const TEXT_ADMIN_USERNAME = 'Gebruikersnaam beheerder';
 const TEXT_ADMIN_USERNAME_PLACEHOLDER = 'Gebruikersnaam';
