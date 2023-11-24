@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-const MODULE_ADMIN_DASHBOARD_VERSION_CHECK_TITLE = 'Versie controle %s';
+const MODULE_ADMIN_DASHBOARD_VERSION_CHECK_TITLE = 'Versie controle';
 const MODULE_ADMIN_DASHBOARD_VERSION_CHECK_DESCRIPTION = 'Toon de resultaten van de versiecontrole';
 const MODULE_ADMIN_DASHBOARD_VERSION_CHECK_DATE = 'Laatst gecontroleerd op';
 const MODULE_ADMIN_DASHBOARD_VERSION_CHECK_CHECK_NOW = 'Check nu';
