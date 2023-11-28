@@ -28,7 +28,7 @@ const ICON_THUMB_DANGER = '<i class="fas fa-thumbs-down text-danger"></i>';
 const TEXT_ON = 'Aan';
 const TEXT_OFF = 'Uit';
 
-const TEXT_REQUIRED_INFORMATION = '<i class="fas fa-asterisk text-danger"></i> Verplichte informatie';
+const TEXT_REQUIRED_INFORMATION = '<i class="fas fa-asterisk text-danger form-control-feedback"></i> Verplichte informatie';
 const TITLE_REQUIRED_INFORMATION = '<i class="fas fa-asterisk text-danger"></i> Verplichte informatie';
 
 const TEXT_NEW_INSTALLATION = 'Nieuwe Installatie';
