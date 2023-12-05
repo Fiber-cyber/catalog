@@ -17,3 +17,5 @@ const ENTRY_STATE = 'Provincie';
 const ENTRY_STATE_ERROR = 'Uw provincie moet minimaal %d tekens bevatten.';
 const ENTRY_STATE_ERROR_SELECT = 'Selecteer een provincie.';
 const ENTRY_STATE_TEXT = '';
+
+const ENTRY_STATE_SELECT_ONE = '--- Selecteer ---';
