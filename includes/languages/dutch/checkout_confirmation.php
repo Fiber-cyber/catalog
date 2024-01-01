@@ -27,8 +27,6 @@ const HEADING_PAYMENT_METHOD = 'Betaalmethode';
 const HEADING_PAYMENT_INFORMATION = 'Betalingsinformatie';
 const HEADING_ORDER_COMMENTS = 'Opmerkingen over uw bestelling';
 
-const TEXT_EDIT = 'Bewerk';
-
 const IMAGE_BUTTON_FINALISE_ORDER=  'Mijn bestelling afronden en %s betalen';
 
 const HEADING_QTY = 'Hoeveelheid';
