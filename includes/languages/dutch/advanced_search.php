@@ -24,13 +24,10 @@ const ENTRY_INCLUDE_SUBCATEGORIES = 'Inclusief Subcategorieën';
 const ENTRY_MANUFACTURERS = 'Fabrikanten';
 const ENTRY_PRICE_FROM = 'Prijs van';
 const ENTRY_PRICE_TO = 'Prijs tot';
-const ENTRY_DATE_FROM = 'Datum van';
-const ENTRY_DATE_TO = 'Datum tot';
 
 const ENTRY_PRICE_FROM_TEXT = 'Van';
 const ENTRY_PRICE_TO_TEXT = 'Tot';
 
-const ENTRY_DATE = 'Datum';
 const ENTRY_PRICE = 'Prijs';
 
 const TEXT_SEARCH_HELP_LINK = '<i class="fas fa-info-circle"></i> Zoek hulp';
@@ -57,12 +54,8 @@ const TEXT_CLOSE_WINDOW = '<u>Sluit venster</u> [x]';
 const TEXT_NO_PRODUCTS = 'Er is geen artikel dat overeenkomt met de zoekcriteria.';
 
 const ERROR_AT_LEAST_ONE_INPUT = 'Ten minste één van de velden in het zoekformulier moet worden ingevoerd.';
-const ERROR_INVALID_FROM_DATE = 'Ongeldig vanaf datum.';
-const ERROR_INVALID_TO_DATE = 'Ongeldige tot datum.';
-const ERROR_TO_DATE_LESS_THAN_FROM_DATE = 'Tot datum moet groter zijn dan of gelijk zijn aan vanaf datum.';
+
 const ERROR_PRICE_FROM_MUST_BE_NUM = 'Prijs vanaf moet een nummer zijn.';
 const ERROR_PRICE_TO_MUST_BE_NUM = 'Prijs moet een nummer zijn.';
 const ERROR_PRICE_TO_LESS_THAN_PRICE_FROM = 'Prijs tot moet groter zijn dan of gelijk aan prijs vanaf.';
 const ERROR_INVALID_KEYWORDS = 'Ongeldige zoekwoorden.';
-
-const DATE_FORMAT_STRING = 'dd/mm/yyyy';
