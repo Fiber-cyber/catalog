@@ -21,14 +21,14 @@ const TEXT_EDIT_NOTE = <<<'EORT'
 
 <p>Elke taaldefinitie wordt op de volgende manier ingesteld als een PHP-constante:</p>
 
-<p><pre>const TEXT_MAIN = '<span style="background-color: #FFFF99;">Deze tekst kan bewerkt worden. Het is heel gemakkelijk te doen!</span>');</pre></p>
+<p><pre>const TEXT_MAIN = '<span style="background-color: #FFFF99;">Deze tekst kan bewerkt worden. Het is heel gemakkelijk te doen!</span>';</pre></p>
 
 <p>De gemarkeerde tekst kan worden bewerkt. Aangezien deze definitie enkele aanhalingstekens gebruikt om de tekst heen, moeten alle enkele aanhalingstekens binnen de tekstdefinitie worden omzeild met een backslash (eg, notitie\\\'s).</p>
 
 <p>Meerdere regelinvoeren kunnen worden gedaan zoals:</p>
 
 <p><pre>const TEXT_MAIN = <<<'EOT'
-<span style="background-color: #FFFF99;">Deze tekst kan bewerkt worden.
+<span style="background-color: #FFFF99;">Deze tekst kan bewerkt worden. 
 Het is heel gemakkelijk te doen!</span>
 EOT;</pre></p>
 

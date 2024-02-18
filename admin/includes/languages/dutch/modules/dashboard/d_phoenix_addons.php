@@ -10,8 +10,8 @@
   Released under the GNU General Public License
 */
 
-const MODULE_ADMIN_DASHBOARD_PHOENIX_ADDONS_TITLE = 'Gecertificeerde Addons Makers';
-const MODULE_ADMIN_DASHBOARD_PHOENIX_ADDONS_DESCRIPTION = 'Toon de nieuwste add-ons voor Phoenix Club-leden';
+const MODULE_ADMIN_DASHBOARD_PHOENIX_ADDONS_TITLE = 'Gecertificeerde Partners';
+const MODULE_ADMIN_DASHBOARD_PHOENIX_ADDONS_DESCRIPTION = 'Toon het nieuwste aanbod van Gecertificeerde Partners';
 
 const MODULE_ADMIN_DASHBOARD_PHOENIX_VIEW_ALL = 'Bekijk de volledige lijst';
 

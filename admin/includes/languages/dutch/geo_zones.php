@@ -17,13 +17,13 @@ const TABLE_HEADING_COUNTRY_ZONE = 'Zone';
 const TABLE_HEADING_TAX_ZONES = 'BTW Zones';
 const TABLE_HEADING_ACTION = 'Actie';
 
-const TEXT_INFO_HEADING_NEW_ZONE = 'Nieuwe Zone';
-const TEXT_INFO_NEW_ZONE_INTRO = 'Voer de nieuwe zone-informatie in';
+const TEXT_INFO_HEADING_NEW_ZONE = 'Nieuwe BTW Zone';
+const TEXT_INFO_NEW_ZONE_INTRO = 'Voer de nieuwe BTW zone-informatie in';
 
-const TEXT_INFO_HEADING_EDIT_ZONE = 'Bewerk Zone';
+const TEXT_INFO_HEADING_EDIT_ZONE = 'Bewerk BTW Zone';
 const TEXT_INFO_EDIT_ZONE_INTRO = 'Breng de nodige wijzigingen aan';
 
-const TEXT_INFO_HEADING_DELETE_ZONE = 'Verwijder Zone';
+const TEXT_INFO_HEADING_DELETE_ZONE = 'Verwijder BTW Zone';
 const TEXT_INFO_DELETE_ZONE_INTRO = 'Weet u het zeker dat u deze zone wilt verwijderen?';
 
 const TEXT_INFO_HEADING_NEW_SUB_ZONE = 'Nieuwe Sub Zone';
@@ -37,7 +37,7 @@ const TEXT_INFO_DELETE_SUB_ZONE_INTRO = 'Weet u het zeker dat u de sub zone wilt
 
 const TEXT_INFO_DATE_ADDED = 'Datum toegevoegd: %s';
 const TEXT_INFO_LAST_MODIFIED = 'Laatst bewerkt: %s';
-const TEXT_INFO_ZONE_NAME = 'Zone Naam:';
+const TEXT_INFO_ZONE_NAME = 'BTW Zone Naam:';
 const TEXT_INFO_NUMBER_ZONES = 'Aantal Zones: %s';
 const TEXT_INFO_ZONE_DESCRIPTION = 'Beschrijving: %s';
 const TEXT_INFO_COUNTRY = 'Land:';

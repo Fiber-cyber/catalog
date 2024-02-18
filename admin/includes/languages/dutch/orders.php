@@ -64,6 +64,7 @@ const ENTRY_PRINTABLE = 'Print Factuur';
 const TEXT_INFO_HEADING_DELETE_ORDER = 'Verwijder Order';
 const TEXT_INFO_DELETE_INTRO = 'Weet u het zeker dat u deze Order wilt veerwijderen?';
 const TEXT_INFO_RESTOCK_PRODUCT_QUANTITY = 'Artikel hoeveelheid aanvullen';
+const TEXT_INFO_REACTIVATE_PRODUCT_STATUS = 'Activeer opnieuw artikelen';
 const TEXT_DATE_ORDER_CREATED = 'Datum gecree&euml;rd: %s';
 const TEXT_DATE_ORDER_LAST_MODIFIED = 'Laatst gewijzigd: %s';
 const TEXT_INFO_PAYMENT_METHOD = 'Betaalmethode: %s';

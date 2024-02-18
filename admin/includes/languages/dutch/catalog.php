@@ -73,7 +73,7 @@ const TEXT_SORT_ORDER = 'Sorteer volgorde';
 
 const TEXT_PRODUCTS_STATUS = 'Artikel Status';
 const TEXT_PRODUCTS_DATE_AVAILABLE = 'Datum beschikbaar';
-const TEXT_PRODUCTS_DATE_AVAILABLE_HELP = 'DD-MM-YYYY';
+const TEXT_PRODUCTS_DATE_AVAILABLE_HELP = '';
 const TEXT_PRODUCT_AVAILABLE = 'Op voorraad';
 const TEXT_PRODUCT_NOT_AVAILABLE = 'Niet op voorraad';
 const TEXT_PRODUCTS_MANUFACTURER = 'Artikel Fabrikant';
