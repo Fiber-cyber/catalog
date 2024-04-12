@@ -26,3 +26,5 @@ const VERSION_UPGRADES_AVAILABLE = <<<'EOT'
  en gedetailleerde "<a class="alert-link" target="_blank" href="https://phoenixcart.org/forum/app.php/tag/phoenix-update">Doe het zelf</a>"
  instructies zijn beschikbaar in de Phoenix Club.
 EOT;
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Version_Checker';

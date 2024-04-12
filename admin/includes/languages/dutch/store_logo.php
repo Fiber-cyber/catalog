@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-const HEADING_TITLE = 'Bestaand logo';
+const HEADING_TITLE = 'Winkel logo';
 
 const HEADING_NEW_LOGO = 'Upload een nieuw logo';
 
@@ -20,3 +20,5 @@ const TEXT_FORMAT_AND_LOCATION = 'De shop logo moet het volgende formaat zijn pn
 const SUCCESS_LOGO_UPDATED = '<strong>Succes:</strong> De shop logo is succesvol bijgewerkt!';
 
 const ERROR_IMAGES_DIRECTORY_NOT_WRITEABLE = '<strong>Error:</strong> De afbeeldingenmap is niet niet beschrijfbaar. (<a href="%s">klik hier om de rechten te bekijken</a>)';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Store_Logo';

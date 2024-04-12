@@ -27,3 +27,5 @@ const TEXT_INFO_DELETE_INTRO = 'Weet je het zeker dat je dit land wilt verwijder
 const TEXT_INFO_HEADING_NEW_COUNTRY = 'Nieuw Land';
 const TEXT_INFO_HEADING_EDIT_COUNTRY = 'Bewerk Land';
 const TEXT_INFO_HEADING_DELETE_COUNTRY = 'Verwijder Land';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Countries';

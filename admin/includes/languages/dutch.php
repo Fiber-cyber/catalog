@@ -140,3 +140,8 @@ const FORM_REQUIRED_INPUT = '<span class="form-control-feedback text-danger"><i 
 const TEXT_IMAGE_NON_EXISTENT = 'PLAATJE BESTAAT NIET';
 
 const STAR_RATING = 'Beoordeeld als %s sterren';
+
+const GET_ADDONS = 'Addons';
+const ADDONS_FREE = 'Gratis';
+const ADDONS_COMMERCIAL = 'Commercieel';
+const ADDONS_PRO = 'PRO';

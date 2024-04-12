@@ -31,3 +31,5 @@ const TEXT_INFO_HEADING_DELETE_LANGUAGE = 'Verwijder Taal';
 
 const ERROR_REMOVE_DEFAULT_LANGUAGE = '<strong>FOUT:</strong> De standaardtaal kan niet worden verwijderd. Stel een andere taal in als standaard en probeer het opnieuw.';
 
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Languages';
+

@@ -52,3 +52,5 @@ const TEXT_EDIT_MANUFACTURERS_SEO_TITLE = 'Bewerk de Fabrikant Titel voor SEO:<b
 const BUTTON_INSERT_NEW_MANUFACTURER = 'Nieuwe Fabrikant';
 
 const TEXT_MANUFACTURERS_IMAGE_LABEL = 'Selecteer Fabrikant';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Manufacturers';
