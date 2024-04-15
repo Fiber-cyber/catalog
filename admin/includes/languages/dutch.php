@@ -143,5 +143,5 @@ const STAR_RATING = 'Beoordeeld als %s sterren';
 
 const GET_ADDONS = 'Addons';
 const ADDONS_FREE = 'Gratis';
-const ADDONS_COMMERCIAL = 'Commercieel';
+const ADDONS_COMMERCIAL = 'Betaald';
 const ADDONS_PRO = 'PRO';
