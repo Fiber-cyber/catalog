@@ -141,7 +141,8 @@ const TEXT_IMAGE_NON_EXISTENT = 'PLAATJE BESTAAT NIET';
 
 const STAR_RATING = 'Beoordeeld als %s sterren';
 
-const GET_ADDONS = 'Addons';
+const GET_HELP = '<img src="images/icon_phoenix.png" class="mr-2">Help';
+const GET_ADDONS = '<img src="images/icon_phoenix.png" class="mr-2">Addons';
 const ADDONS_FREE = 'Gratis';
 const ADDONS_COMMERCIAL = 'Betaald';
 const ADDONS_PRO = 'PRO';
