@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  define('MODULES_ADMIN_MENU_TOOLS_VERSION_CHECK', 'Versie Controleren');
+  const MODULES_ADMIN_MENU_TOOLS_VERSION_CHECK = 'Versie Controleren';

@@ -17,7 +17,7 @@ const TEXT_EXISTING_LOGO = '<b>Dit is het bestaande winkellogo.</b><br><br>Het w
 const BUTTON_EDIT_LOGO = 'Upload een nieuw logo';
 
 const TEXT_LOGO_IMAGE = 'Nieuw logo';
-const TEXT_FORMAT_AND_LOCATION = '<b>Bestaande logo wordt overschreven.</b><br><br>De shop logo moet in het volgende formaat zijn png/gif/jpg/svg/webp';
+const TEXT_FORMAT_AND_LOCATION = '<b>Bestaande logo wordt overschreven.</b><br><br>Het nieuwe winkellogo moet een standaard afbeeldingsformaat hebben: png/gif/jpg/svg/webp';
 
 const SUCCESS_LOGO_UPDATED = '<strong>Succes:</strong> De Shop logo is succesvol bijgewerkt!';
 
