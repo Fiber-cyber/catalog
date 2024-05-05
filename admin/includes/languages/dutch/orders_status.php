@@ -31,3 +31,5 @@ const TEXT_SET_DOWNLOADS_STATUS = 'Sta downloads van virtuele producten toe op d
 const ERROR_REMOVE_DEFAULT_ORDER_STATUS = '<strong>FOUT:</strong> De standaard bestelstatus kan niet worden verwijderd. Stel een andere bestelstatus in als standaard  en probeer het opnieuw.';
 const ERROR_STATUS_USED_IN_ORDERS = '<strong>FOUT:</strong> Deze bestelstatus wordt momenteel gebruikt in bestellingen.';
 const ERROR_STATUS_USED_IN_HISTORY = '<strong>FOUT:</strong> Deze bestelstatus wordt momenteel gebruikt in de bestelstatusgeschiedenis.';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Orders_Status';
