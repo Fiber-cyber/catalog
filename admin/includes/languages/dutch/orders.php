@@ -83,3 +83,5 @@ const ENTRY_NOTIFY_COMMENTS_TEXT = 'Dit voegt uw opmerkingen toe aan de bestelli
 
 const TEXT_ORDER_STATUS = '<strong>%s</strong> [%s]';
 const TEXT_ORDER_PAYMENT = '<strong>%s</strong> [%s]';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Orders';

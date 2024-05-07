@@ -15,4 +15,6 @@ const HEADING_TITLE = 'Veiligheid van de Directory Permissies';
 const TABLE_HEADING_DIRECTORIES = 'Directories';
 const TABLE_HEADING_RECOMMENDED = 'Aanbevolen';
 
-const TEXT_DIRECTORY = 'Directory:  %s<br><a href="https://phoenixcart.org/phoenixcartwiki/index.php?title=Security_Directory_Permissions">Gebruikershandleiding</a>';
+const TEXT_DIRECTORY = 'Directory:  %s';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Security_Directory_Permissions';

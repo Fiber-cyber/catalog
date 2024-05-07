@@ -35,7 +35,7 @@ const TEXT_NEW_INSTALLATION = 'Nieuwe Installatie';
 const TEXT_WEB_INSTALL = <<<'EOT'
 <p>Deze webgebaseerde installatie zal <strong>CE Phoenix Cart v%s</strong> installeren en configureren om op deze server te draaien.</p>
 <p>Volg de instructies op het scherm die u door de configuratie-opties van de databaseserver, webserver en winkel leiden.
-Als er in welk stadium dan ook hulp nodig is, raadpleeg dan de documentatie of zoek hulp in de Phoenix Club.</p>
+Als er in welk stadium dan ook hulp nodig is, raadpleeg dan de documentatie of zoek hulp in het <a class="alert-link" href="https://phoenixcart.org/forum/index.php">Phoenix Forum</a>.</p>
 EOT;
 
 const TEXT_DATABASE_SERVER = 'Database Server';

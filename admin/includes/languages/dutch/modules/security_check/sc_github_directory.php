@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-define('MODULE_SECURITY_CHECK_GITHUB_TITLE', 'Github Directory');
-define('MODULE_SECURITY_CHECK_GITHUB_DIRECTORY_EXISTS', 'Github directory bestaat in: ' . DIR_FS_CATALOG . '.github. U moet deze directory verwijderen.');
+const MODULE_SECURITY_CHECK_GITHUB_TITLE = 'Github Directory';
+const MODULE_SECURITY_CHECK_GITHUB_DIRECTORY_EXISTS = 'Github directory bestaat in: ' . DIR_FS_CATALOG . '.github. U moet deze directory verwijderen.';

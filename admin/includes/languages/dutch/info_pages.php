@@ -49,4 +49,6 @@ const TABLE_HEADING_SORT_ORDER = 'Sorteer Order';
 
 const MISSING_SLUGS_ERROR = 'Verplichte Slugs ontbreken:  <b>%s</b><hr>Deze slugs zijn nodig om bepaalde functionaliteit van uw site mogelijk te maken.';
 
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Info_Pages';
+
 const TEXT_PAGE_SLUG_HELP = 'Slug *moet* uniek zijn';

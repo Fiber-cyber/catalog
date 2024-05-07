@@ -32,3 +32,5 @@ const ACTION_UTF8_CONVERSION_FROM = 'van %s';
 const ACTION_UTF8_DRY_RUN = 'Toon alleen de queries? %s&nbsp;';
 
 const BUTTON_ACTION_GO = 'GA';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Database_Tables';

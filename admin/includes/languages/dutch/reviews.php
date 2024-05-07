@@ -44,3 +44,5 @@ const TEXT_BAD = '<span class="text-danger font-weight-bold">SLECHT</span>';
 const TEXT_INFO_HEADING_DELETE_REVIEW = 'Verwijder Recensie';
 
 const IMAGE_BUTTON_ADD_REVIEW = 'Schrijf een Recensie';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Reviews';

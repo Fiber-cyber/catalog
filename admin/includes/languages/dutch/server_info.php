@@ -31,3 +31,5 @@ const TEXT_EXPORT_INTRO = 'U kunt de informatie in een bestand opslaan door onde
 const TEXT_EXPORT_INFO = 'Export Server Informatie';
 
 const BUTTON_SAVE_TO_DISK = 'Bewaar op uw harde schijf';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Server_Info';

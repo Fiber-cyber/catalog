@@ -51,3 +51,5 @@ const SUCCESS_DATABASE_RESTORED = '<strong>Success:</strong> De database is hers
 const SUCCESS_BACKUP_DELETED = '<strong>Success:</strong> De backup is verwijderd.';
 
 const TEXT_INFO_BACKUP_SIZE = '%s MB';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Database_Backup';

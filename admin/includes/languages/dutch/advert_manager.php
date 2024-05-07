@@ -79,3 +79,5 @@ const IMAGE_IMPORT_ADVERT = 'Poging banner import';
 const IMAGE_IMPORT_ADVERT_EXPLANATION = 'Dit importeert gegevens uit de databasetabel "banners". Mogelijk moet u sommige gegevens na het importeren verwijderen, aangezien "banners" nooit bedoeld waren voor carrouselgebruik...';
 const SUCCESS_BANNERS_IMPORTED = '<strong>Succes:</strong>  Banners tabel geimporteerd!';
 
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Advert_Manager';
+

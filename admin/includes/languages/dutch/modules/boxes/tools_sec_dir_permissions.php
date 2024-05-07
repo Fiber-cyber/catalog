@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  define('MODULES_ADMIN_MENU_TOOLS_SEC_DIR_PERMISSIONS', 'Beveiliging Directory Permissies');
+  const MODULES_ADMIN_MENU_TOOLS_SEC_DIR_PERMISSIONS = 'Beveiliging Directory Permissies';

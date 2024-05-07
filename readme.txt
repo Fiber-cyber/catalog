@@ -1,4 +1,4 @@
-CE Phoenix Cart 1.0.9.1
+CE Phoenix Cart 1.0.9.2
 
 =======
 Vertaald door Fiber
@@ -25,7 +25,7 @@ Login in de Admin van je Shop..
 ===
 Toegevoegd zones_dutch.sql en zones_belgie.sql met alle zones van Nederland en België
 ===
-CE Phoenix Cart 1.0.9.1
+CE Phoenix Cart 1.0.9.2
 =======
 Translated by Fiber
 =====

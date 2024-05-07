@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  define('MODULES_ADMIN_MENU_TOOLS_ACTION_RECORDER', 'Actie Recorder');
+  const MODULES_ADMIN_MENU_TOOLS_ACTION_RECORDER = 'Actie Recorder';

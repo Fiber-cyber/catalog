@@ -122,3 +122,5 @@ const TEXT_CATEGORIES_SEO_TITLE = 'Categorie Titel voor SEO:<br><small>Vervang d
 const TEXT_EDIT_CATEGORIES_SEO_TITLE = 'Bewerk de Categorie Titel voor SEO:<br><small>Vervang de Categorienaam in het &lt;title&gt; Meta Element<br>en optioneel in de Breadcrumb Trail.<br>Laat blanco voor de standaard Categorienaam.</small>';
 
 const TEXT_PRODUCTS_OTHER_IMAGES = 'Gallery Plaatjes';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Categories/Products';

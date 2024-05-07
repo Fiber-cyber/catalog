@@ -16,7 +16,6 @@ const NAVBAR_TITLE_2 = 'Adres Boek';
 const HEADING_TITLE = 'Mijn persoonlijk adresboek';
 
 const PRIMARY_ADDRESS_TITLE = 'Hoofdadres';
-const PRIMARY_ADDRESS_DESCRIPTION = 'Dit adres wordt gebruikt als het vooraf geselecteerde verzend- en factuuradres voor bestellingen die in deze winkel zijn geplaatst. <br> <br> Dit adres wordt ook gebruikt als basis voor de berekening van de Verzendkosten en de daarbij behorende BTW Tarieven.';
 const PRIMARY_ADDRESS_DESCRIPTION = <<<'EOT'
 Dit adres wordt gebruikt als het vooraf geselecteerde verzend- en factuuradres voor bestellingen die in deze winkel zijn geplaatst.<br><br>
 Dit adres wordt ook gebruikt als basis voor de berekening van de Verzendkosten en de daarbij behorende BTW Tarieven.

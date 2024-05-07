@@ -26,3 +26,5 @@ const TEXT_INFO_DELETE_INTRO = 'Weet u het zeker dat u deze Zone wilt verwijdere
 const TEXT_INFO_HEADING_NEW_ZONE = 'Nieuwe Zone';
 const TEXT_INFO_HEADING_EDIT_ZONE = 'Bewerk Zone';
 const TEXT_INFO_HEADING_DELETE_ZONE = 'Verwijder Zone';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Zones';

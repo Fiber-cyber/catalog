@@ -12,8 +12,9 @@
 
 const HEADING_TITLE = 'Beste klantorders - Totaal';
 
-const TABLE_HEADING_NUMBER = '#';
+const TABLE_HEADING_NUMBER = 'Nr';
 const TABLE_HEADING_CUSTOMERS = 'Klanten';
+const TABLE_HEADING_CUSTOMERS_ID = 'ID';
 const TABLE_HEADING_TOTAL_PURCHASED = 'Totaal vekocht';
 
 const TABLE_HEADING_ACTION = 'Actie';

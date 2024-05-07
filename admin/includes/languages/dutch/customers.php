@@ -13,6 +13,7 @@
 const HEADING_TITLE = 'Klanten';
 const HEADING_TITLE_SEARCH = 'Zoeken:';
 
+const TABLE_HEADING_ID = 'ID';
 const TABLE_HEADING_NAME = 'Naam';
 const TABLE_HEADING_ACCOUNT_CREATED = 'Account aangemaakt';
 const TABLE_HEADING_ACTION = 'Actie';
@@ -34,3 +35,5 @@ const PULL_DOWN_DEFAULT = PLEASE_SELECT;
 const ERROR_PAGE_HAS_UNMET_REQUIREMENT = <<<'EOT'
   De klantenpagina vereist het volgende aan velden 'sortable_name', 'name', 'email_address', 'country_id', and 'id' klantgegevensmodules die moeten worden geïnstalleerd.  Missend:
 EOT;
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Customers';

@@ -42,3 +42,5 @@ const TEXT_DISPLAY_NUMBER_OF_TESTIMONIALS = 'Weergeven <b>%s</b> van <b>%s</b> (
 const IMAGE_BUTTON_ADD_TESTIMONIAL = 'Schrijf een klantbevinding';
 
 const ENTRY_TESTIMONIAL_HTML_DISPLAYED = 'HTML wordt weergegeven als onderdeel van de Klant bevinding.';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Testimonials';
