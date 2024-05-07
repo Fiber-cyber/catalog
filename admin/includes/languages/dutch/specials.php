@@ -44,3 +44,5 @@ const TEXT_INFO_DELETE_INTRO = 'Weet u het zeker dat u deze aanbieding wilt verw
 const BUTTON_INSERT_SPECIAL = 'Voeg een nieuwe aanbieding toe';
 
 const WARNING_NO_PRODUCTS = 'U moet een artikel toevoegen voordat u het een aanbieding kan maken..';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Specials';

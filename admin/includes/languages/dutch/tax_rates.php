@@ -33,3 +33,5 @@ const TEXT_INFO_DELETE_INTRO = 'Weet u het zeker dat u dit BTW Tarief wilt verwi
 const TEXT_INFO_HEADING_NEW_TAX_RATE = 'Nieuw BTW tarief';
 const TEXT_INFO_HEADING_EDIT_TAX_RATE = 'Bewerk BTW tarief';
 const TEXT_INFO_HEADING_DELETE_TAX_RATE = 'Verwijder BTW tarief';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Tax_Rates';

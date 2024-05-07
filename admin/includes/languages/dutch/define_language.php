@@ -40,3 +40,5 @@ const TEXT_INFO_DOWNLOAD_ONLY = 'Alleen downloaden (niet opslaan aan de serverka
 
 const ERROR_FILE_NOT_WRITEABLE = '<strong>Error:</strong> Ik kan niet naar dit bestand schrijven, dus zal ik het downloaden in plaats van opslaan. Stel a.u.b. de juiste gebruikersrechten in %s als je het op zijn plaats wilt opslaan.';
 
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Define_Languages';
+

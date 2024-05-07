@@ -25,3 +25,5 @@ const TEXT_INFO_DELETE_INTRO = 'Weet u het zeker dat u deze BTW Klas wilt verwij
 const TEXT_INFO_HEADING_NEW_TAX_CLASS = 'Nieuwe BTW Klas';
 const TEXT_INFO_HEADING_EDIT_TAX_CLASS = 'Bewerk BTW Klas';
 const TEXT_INFO_HEADING_DELETE_TAX_CLASS = 'Verwijder BTW Klas';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Tax_Classes';

@@ -42,3 +42,5 @@ const ERROR_NEWSLETTER_MODULE_NOT_EXISTS = '<strong>FOUT:</strong> Module bestaa
 
 const TEXT_TITLE = 'Titel:';
 const TEXT_CONTENT = 'Inhoud:';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Newsletter_Manager';

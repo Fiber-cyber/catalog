@@ -43,3 +43,5 @@ const ERROR_CURRENCY_INVALID = '<strong>Fout:</strong> De wisselkoers voor for %
 const WARNING_PRIMARY_SERVER_FAILED = '<strong>Waarschuwing:</strong> De huidige wisselkoers server (%s) maakt geen verbinding %s (%s) - probeer de secundaire wisselkoersserver.';
 
 const ERROR_INSTALL_CURRENCY_CONVERTER = 'U heeft geen valuta conversiemodule geïnstalleerd.  <a class="alert-link font-weight-bold" href="%s">Installeer Nu</a>';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Currencies';

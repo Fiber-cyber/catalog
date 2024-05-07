@@ -33,3 +33,5 @@ EOT;
 const TEXT_INFO_HEADING_NEW_CUSTOMER_DATA_GROUP = 'Nieuwe klantgegevens groep';
 const TEXT_INFO_HEADING_EDIT_CUSTOMER_DATA_GROUP = 'Bewerk klantgegevens groep';
 const TEXT_INFO_HEADING_DELETE_CUSTOMER_DATA_GROUP = 'Verwijder klantgegevens groep';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Customer_Data_Groups';

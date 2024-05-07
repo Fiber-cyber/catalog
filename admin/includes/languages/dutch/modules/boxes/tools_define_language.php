@@ -10,4 +10,4 @@
   Released under the GNU General Public License
 */
 
-  define('MODULES_ADMIN_MENU_TOOLS_DEFINE_LANGUAGE', 'Definieer Talen');
+  const MODULES_ADMIN_MENU_TOOLS_DEFINE_LANGUAGE = 'Definieer Talen';

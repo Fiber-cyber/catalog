@@ -9,7 +9,7 @@
 
   Released under the GNU General Public License
 
-  Vertaald door Fiber - Phoenix 1.0.9.1
+  Vertaald door Fiber - Phoenix 1.0.9.2
 
 */
 
@@ -140,3 +140,9 @@ const FORM_REQUIRED_INPUT = '<span class="form-control-feedback text-danger"><i 
 const TEXT_IMAGE_NON_EXISTENT = 'PLAATJE BESTAAT NIET';
 
 const STAR_RATING = 'Beoordeeld als %s sterren';
+
+const GET_HELP = '<img src="images/icon_phoenix.png" class="mr-2">Help';
+const GET_ADDONS = '<img src="images/icon_phoenix.png" class="mr-2">Addons';
+const ADDONS_FREE = 'Gratis';
+const ADDONS_COMMERCIAL = 'Betaald';
+const ADDONS_PRO = 'PRO';
