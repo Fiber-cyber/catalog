@@ -20,11 +20,12 @@
 // 'en_AU.UTF-8', 'en_AU.UTF8', 'ena_au'
 
 setlocale(LC_ALL, ['nl_NL.UTF-8', 'nl_NL.UTF8', 'nl_nld']);
-const DATE_FORMAT_SHORT = '%d/%m/%Y';  // this is used for strftime()
-const DATE_FORMAT_LONG = '%A %d %B, %Y'; // this is used for strftime()
+$long_date_formatter = new IntlDateFormatter('nl', IntlDateFormatter::FULL, IntlDateFormatter::NONE);
+$short_date_formatter = new IntlDateFormatter('nl', IntlDateFormatter::SHORT, IntlDateFormatter::NONE);
+$date_time_formatter = new IntlDateFormatter('nl', IntlDateFormatter::SHORT, IntlDateFormatter::LONG);
 const DATE_FORMAT = 'd/m/Y'; // this is used for date()
 const PHP_DATE_TIME_FORMAT = 'd/m/Y H:i:s'; // this is used for date()
-const DATE_TIME_FORMAT = DATE_FORMAT_SHORT . ' %H:%M:%S';
+
 
 // Global entries for the <html> tag
 const HTML_PARAMS = ' dir="ltr" lang="nl"';
