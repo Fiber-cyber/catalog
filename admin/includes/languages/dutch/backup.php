@@ -38,6 +38,8 @@ const TEXT_BACKUP_DIRECTORY = 'Backup Directory:<br>%s';
 const TEXT_LAST_RESTORATION = 'Laatste herstel van de backup:<br>%s';
 const TEXT_FORGET = 'Vergeet';
 
+const PHP_DATE_TIME_FORMAT = 'd/m/Y H:i:s'; // this is used for date()
+
 const ERROR_BACKUP_DIRECTORY_DOES_NOT_EXIST = '<strong>Error:</strong> Backup map bestaat niet! Stel dit in configure.php in.';
 const ERROR_BACKUP_DIRECTORY_NOT_WRITEABLE = '<strong>Error:</strong> Backup map is niet schrijfbaar.';
 const ERROR_DOWNLOAD_LINK_NOT_ACCEPTABLE = '<strong>Error:</strong> Download link is niet acceptabel.';

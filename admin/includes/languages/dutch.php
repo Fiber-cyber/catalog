@@ -23,9 +23,6 @@ setlocale(LC_ALL, ['nl_NL.UTF-8', 'nl_NL.UTF8', 'nl_nld']);
 $long_date_formatter = new IntlDateFormatter('nl', IntlDateFormatter::FULL, IntlDateFormatter::NONE);
 $short_date_formatter = new IntlDateFormatter('nl', IntlDateFormatter::SHORT, IntlDateFormatter::NONE);
 $date_time_formatter = new IntlDateFormatter('nl', IntlDateFormatter::SHORT, IntlDateFormatter::LONG);
-const DATE_FORMAT = 'd/m/Y'; // this is used for date()
-const PHP_DATE_TIME_FORMAT = 'd/m/Y H:i:s'; // this is used for date()
-
 
 // Global entries for the <html> tag
 const HTML_PARAMS = ' dir="ltr" lang="nl"';
