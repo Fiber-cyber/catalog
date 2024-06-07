@@ -71,6 +71,7 @@ const TEXT_INFO_PAYMENT_METHOD = 'Betaalmethode: %s';
 
 const TEXT_ALL_ORDERS = 'Alle Orders';
 const TEXT_NO_ORDER_HISTORY = 'Geen Order Historie beschikbaar';
+const TEXT_NO_DELIVERY_ADDRESS = 'Geen Afleveradres';
 
 const ERROR_ORDER_DOES_NOT_EXIST = '<strong>Error:</strong> Order <strong>%s</strong> bestaat niet.';
 const SUCCESS_ORDER_UPDATED = '<strong>Succes:</strong> Bestelling is succesvol bijgewerkt.';

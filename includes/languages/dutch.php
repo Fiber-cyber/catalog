@@ -8,7 +8,7 @@
 
   Released under the GNU General Public License
   
-  Vertaald door Fiber - Phoenix 1.0.9.2
+  Vertaald door Fiber - Phoenix 1.0.9.3
 */
 
 // look in your $PATH_LOCALE/locale directory for available locales
@@ -19,10 +19,11 @@
 // 'en_AU.UTF-8', 'en_AU.UTF8', 'ena_au'
 @setlocale(LC_ALL, ['nl_NL.UTF-8', 'nl_NL.UTF8', 'nld_NLD']);
 
-const DATE_FORMAT_SHORT = '%d/%m/%Y';  // this is used for strftime()
-const DATE_FORMAT_LONG = '%A %d %B, %Y'; // this is used for strftime()
+$long_date_formatter = new IntlDateFormatter('nl', IntlDateFormatter::FULL, IntlDateFormatter::NONE);
+$short_date_formatter = new IntlDateFormatter('nl', IntlDateFormatter::SHORT, IntlDateFormatter::NONE);
+$date_time_formatter = new IntlDateFormatter('nl', IntlDateFormatter::SHORT, IntlDateFormatter::LONG);
 const DATE_FORMAT = 'd/m/Y'; // this is used for date()
-const DATE_TIME_FORMAT = DATE_FORMAT_SHORT . ' %H:%M:%S';
+
 
 // if USE_DEFAULT_LANGUAGE_CURRENCY is true, use the following currency, instead of the application's default currency (used when changing language)
 const LANGUAGE_CURRENCY = 'EUR';
@@ -102,7 +103,9 @@ EOT;
 // for new style internal pages
 const LINK_TEXT_EDIT = '<small><a class="%s" href="%s">Bewerk</a></small>';
 const SHIPPING_FA_ICON = '<i class="fas fa-shipping-fast fa-fw fa-3x float-right text-black-50"></i>';
-const PAYMENT_FA_ICON = '<i class="fas fa-file-invoice-dollar fa-fw fa-3x float-right text-black-50"></i>';
+const PAYMENT_FA_ICON = '<i class="fas fa-euro-sign fa-fw fa-3x float-right text-black-50"></i>';
 
 const ENTRY_COMMENTS = 'Nog iets wat we moeten weten?';
 const ENTRY_COMMENTS_PLACEHOLDER = 'Reageer hier...';
+
+const STAR_RATING = 'Beoordeeld %s';
