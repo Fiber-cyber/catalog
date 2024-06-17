@@ -13,6 +13,7 @@
   const MODULE_CONTENT_CHECKOUT_SUCCESS_DOWNLOADS_TITLE = 'Product Downloads';
   const MODULE_CONTENT_CHECKOUT_SUCCESS_DOWNLOADS_DESCRIPTION = 'Toon de bestelde downloadlinks voor producten op de afrekenpagina';
   
+  const TABLE_HEADING_DOWNLOAD_PRODUCT = 'Artikel';
   const TABLE_HEADING_DOWNLOAD_FILE = 'Bestand';
   const TABLE_HEADING_DOWNLOAD_DATE = 'Vervaldatum';
   const TABLE_HEADING_DOWNLOAD_COUNT = 'Resterende downloads';

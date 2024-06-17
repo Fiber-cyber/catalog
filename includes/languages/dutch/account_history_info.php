@@ -35,6 +35,7 @@ const HEADING_ORDER_HISTORY = 'Order Historie';
 const HEADING_COMMENT = 'Opmerkingen';
 const TEXT_NO_COMMENTS_AVAILABLE = 'Geen opmerkingen beschikbaar.';
 
+const TABLE_HEADING_DOWNLOAD_PRODUCT = 'Artikel';
 const TABLE_HEADING_DOWNLOAD_FILE = 'Bestand';
 const TABLE_HEADING_DOWNLOAD_DATE = 'Link verloopt';
 const TABLE_HEADING_DOWNLOAD_COUNT = 'Downloads over';
