@@ -13,9 +13,9 @@
 const HEADING_TITLE = 'Winkel logo';
 
 const TEXT_EXISTING_STORE_LOGO = '<b>Dit is het bestaande winkellogo.</b><br><br>Het wordt zowel in de shop als in de beheerdersgedeelte gebruikt (bijvoorbeeld op uw factuur en pakbon).';
-const TEXT_EXISTING_MINI_LOGO = '<b>Dit is uw bestaande mini-logo.</b><br><br>Het wordt mogelijk gebruikt in de navigatiebalk van uw winkel (afhankelijk van de module die wordt geïnstalleerd).';
+const TEXT_EXISTING_MINI_LOGO = '<b>Dit is uw huidige mini-logo.</b><br><br>Het wordt mogelijk gebruikt in de navigatiebalk van uw winkel (afhankelijk van de module die wordt geïnstalleerd).';
 
-const TEXT_EXISTING_FAVICON_LOGO = '<b>Dit is uw bestaande Favicon.</b><br><br>Het wordt gebruikt wanneer een gebruiker uw site in zijn bladwijzers opslaat.';
+const TEXT_EXISTING_FAVICON_LOGO = '<b>Dit is uw huidige Favicon.</b><br><br>Het wordt gebruikt wanneer een gebruiker uw site in zijn bladwijzers opslaat.';
 
 const BUTTON_EDIT_LOGO = 'Upload een nieuw logo';
 const BUTTON_EDIT_MINI_LOGO = 'Nieuw Mini Logo';
