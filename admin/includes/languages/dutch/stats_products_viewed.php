@@ -15,3 +15,5 @@ const HEADING_TITLE = 'Best bekeken artikelen';
 const TABLE_HEADING_NUMBER = 'Nr.';
 const TABLE_HEADING_PRODUCTS = 'Artikelen';
 const TABLE_HEADING_VIEWED = 'Bekeken';
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Products_Viewed';

@@ -20,3 +20,5 @@ const TABLE_HEADING_TOTAL_PURCHASED = 'Totaal vekocht';
 const TABLE_HEADING_ACTION = 'Actie';
 
 const CSV_HEADERS = ['Klant ID', 'Order Nummer', 'Datum gekocht', 'Order Waarde', 'Status'];
+
+const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Customer_Orders-Total';
