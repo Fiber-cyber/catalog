@@ -23,7 +23,7 @@ const BUTTON_EDIT_FAVICON_LOGO = 'Nieuw Favicon';
 
 const TEXT_LOGO_IMAGE = 'Selecteer een plaatje';
 const TEXT_FORMAT = 'Waarschuwing: de bestaande afbeelding wordt overschreven.';
-const TEXT_LOCATION = 'De nieuwe afbeelding moet één van de volgende formaten zijn png/gif/jpg/svg/webp.';
+const TEXT_LOCATION = 'De nieuwe afbeelding moet één van de volgende formaten zijn png/gif/jpg/jpeg/svg/webp.';
 const TEXT_LOCATION_FAVICON = 'Voor de beste resultaten moet de nieuwe afbeelding een .png zijn en vierkant zijn en minimaal 300px bij 300px groot zijn.';
 
 const SUCCESS_LOGO_UPDATED = '<strong>Succes:</strong> De Shop logo is succesvol bijgewerkt!';
