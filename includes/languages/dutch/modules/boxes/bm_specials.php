@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_BOXES_SPECIALS_TITLE', 'Aanbiedingen');
-  define('MODULE_BOXES_SPECIALS_DESCRIPTION', 'Toon producten bij aanbiedingen');
+const MODULE_BOXES_SPECIALS_TITLE = 'Aanbiedingen';
+const MODULE_BOXES_SPECIALS_DESCRIPTION = 'Toon producten bij aanbiedingen';
   
-  define('MODULE_BOXES_SPECIALS_BOX_TITLE', '<a href="%s">Specials</a>');
+const MODULE_BOXES_SPECIALS_BOX_TITLE = '<a href="%s">Specials</a>';

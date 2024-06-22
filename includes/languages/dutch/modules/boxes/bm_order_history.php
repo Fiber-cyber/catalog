@@ -10,6 +10,6 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_BOXES_ORDER_HISTORY_TITLE', 'Order Historie');
-  define('MODULE_BOXES_ORDER_HISTORY_DESCRIPTION', 'Toon eerder bestelde producten aan ingelogde klanten');
-  define('MODULE_BOXES_ORDER_HISTORY_BOX_TITLE', 'Order Historie');
+const MODULE_BOXES_ORDER_HISTORY_TITLE = 'Order Historie';
+const MODULE_BOXES_ORDER_HISTORY_DESCRIPTION = 'Toon eerder bestelde producten aan ingelogde klanten';
+const MODULE_BOXES_ORDER_HISTORY_BOX_TITLE = 'Order Historie';

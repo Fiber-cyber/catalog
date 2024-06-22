@@ -10,8 +10,8 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_BOXES_SEARCH_TITLE', 'Zoeken');
-  define('MODULE_BOXES_SEARCH_DESCRIPTION', 'Toon zoek veld');
-  define('MODULE_BOXES_SEARCH_BOX_TITLE', 'Snel vinden');
-  define('MODULE_BOXES_SEARCH_BOX_TEXT', 'Gebruik trefwoorden om het product te vinden dat u zoekt.');
-  define('MODULE_BOXES_SEARCH_BOX_ADVANCED_SEARCH', 'Geavanceerd zoeken');
+const MODULE_BOXES_SEARCH_TITLE = 'Zoeken';
+const MODULE_BOXES_SEARCH_DESCRIPTION = 'Toon zoek veld';
+const MODULE_BOXES_SEARCH_BOX_TITLE = 'Snel vinden';
+const MODULE_BOXES_SEARCH_BOX_TEXT = 'Gebruik trefwoorden om het product te vinden dat u zoekt.';
+const MODULE_BOXES_SEARCH_BOX_ADVANCED_SEARCH = 'Geavanceerd zoeken';
