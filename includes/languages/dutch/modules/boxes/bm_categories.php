@@ -10,6 +10,6 @@
   Released under the GNU General Public License
 */
 
- const MODULE_BOXES_CATEGORIES_TITLE = 'Categorie&euml;n';
+ const MODULE_BOXES_CATEGORIES_TITLE = 'Categoriën';
  const MODULE_BOXES_CATEGORIES_DESCRIPTION = 'Toon de categorie navigatiemenu';
- const MODULE_BOXES_CATEGORIES_BOX_TITL = 'Categorie&euml;n';
+ const MODULE_BOXES_CATEGORIES_BOX_TITLE = 'Categoriën';
