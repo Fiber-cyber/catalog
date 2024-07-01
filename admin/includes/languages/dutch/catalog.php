@@ -86,6 +86,7 @@ const TEXT_PRODUCTS_MAIN_IMAGE = 'Hoofd Plaatje';
 const TEXT_PRODUCTS_LARGE_IMAGE = 'Groot Plaatje';
 const TEXT_PRODUCTS_LARGE_IMAGE_HTML_CONTENT = 'HTML Content';
 const TEXT_PRODUCTS_ADD_LARGE_IMAGE = '<i class="fas fa-plus mr-2"></i>Nieuwe galerijafbeelding toevoegen';
+const TEXT_PRODUCTS_DELETE_LARGE_IMAGES = '<i class="fas fa-trash mr-2"></i>Verwijder alles</a>';
 const TEXT_PRODUCTS_URL = 'Artikel URL';
 const TEXT_PRODUCTS_URL_WITHOUT_HTTP = 'Zorg ervoor dat de URL begint met http:// or https://';
 const TEXT_PRODUCTS_PRICE_NET = 'Artikel Prijs (netto)';

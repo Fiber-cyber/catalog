@@ -10,6 +10,6 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_BOXES_CURRENCIES_TITLE', 'Valutas');
-  define('MODULE_BOXES_CURRENCIES_DESCRIPTION', 'Toon beschikbare Valutas');
-  define('MODULE_BOXES_CURRENCIES_BOX_TITLE', 'Valutas');
+const MODULE_BOXES_CURRENCIES_TITLE = 'Valutas';
+const MODULE_BOXES_CURRENCIES_DESCRIPTION = 'Toon beschikbare Valutas';
+const MODULE_BOXES_CURRENCIES_BOX_TITLE = 'Valutas';

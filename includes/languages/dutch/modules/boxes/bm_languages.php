@@ -10,6 +10,6 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_BOXES_LANGUAGES_TITLE', 'Talen');
-  define('MODULE_BOXES_LANGUAGES_DESCRIPTION', 'Toon beschikbare talen');
-  define('MODULE_BOXES_LANGUAGES_BOX_TITLE', 'Talen');
+  const MODULE_BOXES_LANGUAGES_TITLE = 'Talen';
+  const MODULE_BOXES_LANGUAGES_DESCRIPTION = 'Toon beschikbare talen';
+  const MODULE_BOXES_LANGUAGES_BOX_TITLE = 'Talen';

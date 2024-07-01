@@ -10,6 +10,6 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_BOXES_MANUFACTURERS_TITLE', 'Fabrikanten');
-  define('MODULE_BOXES_MANUFACTURERS_DESCRIPTION', 'Toon een lijst van de Fabrikanten');
-  define('MODULE_BOXES_MANUFACTURERS_BOX_TITLE', 'Fabrikanten');
+const MODULE_BOXES_MANUFACTURERS_TITLE = 'Fabrikanten';
+const MODULE_BOXES_MANUFACTURERS_DESCRIPTION = 'Toon een lijst van de Fabrikanten';
+const MODULE_BOXES_MANUFACTURERS_BOX_TITLE = 'Fabrikanten';

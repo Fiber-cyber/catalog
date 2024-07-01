@@ -10,6 +10,6 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_BOXES_BEST_SELLERS_TITLE', 'Best Sellers');
-  define('MODULE_BOXES_BEST_SELLERS_DESCRIPTION', 'Toon meest verkocht en categorie bestsellers');
-  define('MODULE_BOXES_BEST_SELLERS_BOX_TITLE', 'Bestsellers');
+  const MODULE_BOXES_BEST_SELLERS_TITLE = 'Best Sellers';
+  const MODULE_BOXES_BEST_SELLERS_DESCRIPTION = 'Toon meest verkocht en categorie bestsellers';
+  const MODULE_BOXES_BEST_SELLERS_BOX_TITLE = 'Bestsellers';
