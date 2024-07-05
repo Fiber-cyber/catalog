@@ -20,4 +20,4 @@
   const HEADING_DOWNLOAD = 'Download artikelen hier...';
   
   const FOOTER_DOWNLOAD = 'U kunt artikelen ook op een later tijdstip downloaden op \'%s\'';
-?>
+

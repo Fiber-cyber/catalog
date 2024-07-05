@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-const NAVBAR_TITLE_1 = 'Mijn Account';
+const NAVBAR_TITLE_1 = 'Mijn Profiel';
 const NAVBAR_TITLE_2 = 'Verander Wachtwoord';
 
 const HEADING_TITLE = 'Mijn Wachtwoord';

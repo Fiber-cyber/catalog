@@ -31,14 +31,14 @@ const LANGUAGE_CURRENCY = 'EUR';
 // Global entries for the <html> tag
 const HTML_PARAMS = ' dir="ltr" lang="nl"';
 
-// charset for web pages and emails
+// charset for web pages and e-mails
 const CHARSET = 'utf-8';
 
 // page title
 const TITLE = STORE_NAME;
 
 // text in includes/modules/downloads.php
-const HEADER_TITLE_MY_ACCOUNT = 'Mijn Account';
+const HEADER_TITLE_MY_ACCOUNT = 'Mijn Profiel';
 
 // checkout procedure text
 const CHECKOUT_BAR_DELIVERY = 'Verzend informatie';

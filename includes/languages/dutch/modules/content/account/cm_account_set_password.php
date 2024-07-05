@@ -10,17 +10,17 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_CONTENT_ACCOUNT_SET_PASSWORD_TITLE', 'Accountwachtwoord instellen');
-  define('MODULE_CONTENT_ACCOUNT_SET_PASSWORD_DESCRIPTION', 'Vervang de pagina Wachtwoord wijzigen door Wachtwoord instellen als er geen lokaal accountwachtwoord is ingesteld');
+const MODULE_CONTENT_ACCOUNT_SET_PASSWORD_TITLE = 'Profielwachtwoord instellen';
+const MODULE_CONTENT_ACCOUNT_SET_PASSWORD_DESCRIPTION = 'Vervang de pagina Wachtwoord wijzigen door Wachtwoord instellen als er geen lokaal profielwachtwoord is ingesteld';
 
-  define('MODULE_CONTENT_ACCOUNT_SET_PASSWORD_SET_PASSWORD_LINK_TITLE', 'Accountwachtwoord instellen.');
+const MODULE_CONTENT_ACCOUNT_SET_PASSWORD_SET_PASSWORD_LINK_TITLE = 'Profielwachtwoord instellen.';
 
-  define('MODULE_CONTENT_ACCOUNT_SET_PASSWORD_NAVBAR_TITLE_1', 'Mijn Account');
-  define('MODULE_CONTENT_ACCOUNT_SET_PASSWORD_NAVBAR_TITLE_2', 'Stel een wachtwoord in');
+const MODULE_CONTENT_ACCOUNT_SET_PASSWORD_NAVBAR_TITLE_1 = 'Mijn Profiel';
+const MODULE_CONTENT_ACCOUNT_SET_PASSWORD_NAVBAR_TITLE_2 = 'Stel een wachtwoord in';
 
-  define('MODULE_CONTENT_ACCOUNT_SET_PASSWORD_HEADING_TITLE', 'Stel een wachtwoord in');
+const MODULE_CONTENT_ACCOUNT_SET_PASSWORD_HEADING_TITLE = 'Stel een wachtwoord in';
 
-  define('MODULE_CONTENT_ACCOUNT_SET_PASSWORD_SET_PASSWORD_TITLE', 'Stel een wachtwoord in');
+const MODULE_CONTENT_ACCOUNT_SET_PASSWORD_SET_PASSWORD_TITLE = 'Stel een wachtwoord in';
 
-  define('MODULE_CONTENT_ACCOUNT_SET_PASSWORD_SUCCESS_PASSWORD_SET', 'Uw wachtwoord is succesvol opgeslagen.');
-?>
+const MODULE_CONTENT_ACCOUNT_SET_PASSWORD_SUCCESS_PASSWORD_SET = 'Uw wachtwoord is succesvol opgeslagen.';
+

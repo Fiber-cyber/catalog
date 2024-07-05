@@ -10,20 +10,20 @@
   Released under the GNU General Public License
 */
 
-define('NAVBAR_TITLE', 'Mijn Account');
+const NAVBAR_TITLE = 'Mijn Account';
 
-define('OVERVIEW_TITLE', 'Overzicht');
-define('OVERVIEW_SHOW_ALL_ORDERS', '(Toon alle Orders)');
-define('OVERVIEW_PREVIOUS_ORDERS', 'Vorige Orders');
+const OVERVIEW_TITLE = 'Overzicht';
+const OVERVIEW_SHOW_ALL_ORDERS = '(Toon alle Orders)';
+const OVERVIEW_PREVIOUS_ORDERS = 'Vorige Orders';
 
-define('MY_ACCOUNT_TITLE', 'Account');
-define('MY_ACCOUNT_INFORMATION', 'Account informatie');
-define('MY_ACCOUNT_ADDRESS_BOOK', 'Adres boek');
-define('MY_ACCOUNT_PASSWORD', 'Account wachtwoord');
+const MY_ACCOUNT_TITLE = 'Account';
+const MY_ACCOUNT_INFORMATION = 'Account informatie';
+const MY_ACCOUNT_ADDRESS_BOOK = 'Adres boek';
+const MY_ACCOUNT_PASSWORD = 'Account wachtwoord';
 
-define('MY_ORDERS_TITLE', 'Orders');
-define('MY_ORDERS_VIEW', 'Bekijk orders');
+const MY_ORDERS_TITLE = 'Orders';
+const MY_ORDERS_VIEW = 'Bekijk orders';
 
-define('EMAIL_NOTIFICATIONS_TITLE', 'Notificaties');
-define('EMAIL_NOTIFICATIONS_NEWSLETTERS', 'Nieuwsbrieven');
-define('EMAIL_NOTIFICATIONS_PRODUCTS', 'Artikel notificaties');
+const EMAIL_NOTIFICATIONS_TITLE = 'Notificaties';
+const EMAIL_NOTIFICATIONS_NEWSLETTERS = 'Nieuwsbrieven';
+const EMAIL_NOTIFICATIONS_PRODUCTS = 'Artikel notificaties';

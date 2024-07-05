@@ -10,6 +10,6 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_CONTENT_CHECKOUT_SUCCESS_REDIRECT_OLD_ORDER_TITLE', 'Oude bestelling omleiden');
-  define('MODULE_CONTENT_CHECKOUT_SUCCESS_REDIRECT_OLD_ORDER_DESCRIPTION', 'Leid de klant door wanneer een oude bestelling wordt bekeken.');
-?>
+const MODULE_CONTENT_CHECKOUT_SUCCESS_REDIRECT_OLD_ORDER_TITLE  'Oude bestelling omleiden' ;
+const MODULE_CONTENT_CHECKOUT_SUCCESS_REDIRECT_OLD_ORDER_DESCRIPTION = 'Leid de klant door wanneer een oude bestelling wordt bekeken.';
+
