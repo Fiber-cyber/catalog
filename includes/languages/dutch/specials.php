@@ -17,4 +17,4 @@ const TEXT_NO_PRODUCTS = 'Er zijn geen aanbiedingen beschikbaar.';
 
 // seo
 const META_SEO_TITLE = 'Aanbiedingen pagina';
-const META_SEO_DESCRIPTIO = 'Aanbiedingen beschrijving';
+const META_SEO_DESCRIPTION = 'Aanbiedingen beschrijving';

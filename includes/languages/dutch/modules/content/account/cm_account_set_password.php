@@ -23,4 +23,3 @@ const MODULE_CONTENT_ACCOUNT_SET_PASSWORD_HEADING_TITLE = 'Stel een wachtwoord i
 const MODULE_CONTENT_ACCOUNT_SET_PASSWORD_SET_PASSWORD_TITLE = 'Stel een wachtwoord in';
 
 const MODULE_CONTENT_ACCOUNT_SET_PASSWORD_SUCCESS_PASSWORD_SET = 'Uw wachtwoord is succesvol opgeslagen.';
-
