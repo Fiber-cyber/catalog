@@ -10,6 +10,5 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_ORDER_TOTAL_LOWORDERFEE_TITLE', 'Lage orderkosten');
-  define('MODULE_ORDER_TOTAL_LOWORDERFEE_DESCRIPTION', 'Lage orderkosten');
-?>
+const MODULE_ORDER_TOTAL_LOWORDERFEE_TITLE = 'Lage orderkosten';
+const MODULE_ORDER_TOTAL_LOWORDERFEE_DESCRIPTION = 'Lage orderkosten';

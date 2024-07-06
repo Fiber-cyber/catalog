@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-const MODULE_CUSTOMER_DATA_EMAIL_USERNAME_TEXT_TITLE = 'Email gebruikersnaam';
-const MODULE_CUSTOMER_DATA_EMAIL_USERNAME_TEXT_DESCRIPTION = 'Gebruik het emailadres als gebruikersnaam';
+const MODULE_CUSTOMER_DATA_EMAIL_USERNAME_TEXT_TITLE = 'E-mail gebruikersnaam';
+const MODULE_CUSTOMER_DATA_EMAIL_USERNAME_TEXT_DESCRIPTION = 'Gebruik het e-mailadres als gebruikersnaam';

@@ -10,6 +10,5 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_ORDER_TOTAL_TAX_TITLE', 'BTW');
-  define('MODULE_ORDER_TOTAL_TAX_DESCRIPTION', 'Order BTW');
-?>
+const MODULE_ORDER_TOTAL_TAX_TITLE = 'BTW';
+const MODULE_ORDER_TOTAL_TAX_DESCRIPTION = 'Order BTW';

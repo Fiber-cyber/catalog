@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-const MODULE_CUSTOMER_DATA_DATE_ACCOUNT_CREATED_TEXT_TITLE = 'Datum account aangemaakt';
-const MODULE_CUSTOMER_DATA_DATE_ACCOUNT_CREATED_TEXT_DESCRIPTION = 'Toon de datum wanneer het account is aangemaakt';
+const MODULE_CUSTOMER_DATA_DATE_ACCOUNT_CREATED_TEXT_TITLE = 'Datum o aangemaakt';
+const MODULE_CUSTOMER_DATA_DATE_ACCOUNT_CREATED_TEXT_DESCRIPTION = 'Toon de datum wanneer het profiel is aangemaakt';

@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-const NAVBAR_TITLE = 'Verzenden &amp; Retourneren';
+const NAVBAR_TITLE = 'Levering &amp; Retourneren';
 
 /*
 Define the Title and Text of this page using the Info Pages Manager.

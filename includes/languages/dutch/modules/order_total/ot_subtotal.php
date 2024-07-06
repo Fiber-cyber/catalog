@@ -10,6 +10,5 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_ORDER_TOTAL_SUBTOTAL_TITLE', 'Sub-Totaal');
-  define('MODULE_ORDER_TOTAL_SUBTOTAL_DESCRIPTION', 'Order Sub-Totaal');
-?>
+const MODULE_ORDER_TOTAL_SUBTOTAL_TITLE = 'Sub-Totaal';
+const MODULE_ORDER_TOTAL_SUBTOTAL_DESCRIPTION = 'Order Sub-Totaal';
