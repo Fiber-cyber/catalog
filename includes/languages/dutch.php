@@ -48,11 +48,6 @@ const CHECKOUT_BAR_CONFIRMATION = 'Bevestiging';
 // pull down default text
 const PULL_DOWN_DEFAULT = 'Selecteer';
 
-// javascript messages
-const JS_ERROR = 'Er zijn fouten opgetreden tijdens het proces van uw formulier.\n\nVul de volgende correcties aan:\n\n';
-
-const JS_ERROR_NO_PAYMENT_MODULE_SELECTED = '* Selecteer een betalingsmethode voor uw bestelling.\n';
-
 const ERROR_NO_PAYMENT_MODULE_SELECTED = 'Selecteer een betalingsmethode voor uw bestelling.';
 
 const IMAGE_BUTTON_ADD_ADDRESS = 'Voeg adres toe';
