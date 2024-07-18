@@ -11,7 +11,7 @@
 */
 
 const NAVBAR_TITLE =  'Aanbiedingen';
-const HEADING_TITLE = 'Wees er snel bij OP=OP!';
+const HEADING_TITLE = 'Speciale Aanbiedingen';
 
 const TEXT_NO_PRODUCTS = 'Er zijn geen aanbiedingen beschikbaar.';
 
