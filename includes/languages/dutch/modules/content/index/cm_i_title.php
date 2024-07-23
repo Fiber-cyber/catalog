@@ -10,7 +10,7 @@
   
 */
 
-  const MODULE_CONTENT_I_TITLE_TITLE        = 'Pagina Heading';
-  const MODULE_CONTENT_I_TITLE_DESCRIPTION  = 'Toon de Page Heading.';
+  const MODULE_CONTENT_I_TITLE_TITLE        = 'Pagina Titel';
+  const MODULE_CONTENT_I_TITLE_DESCRIPTION  = 'Toon de Pagina Titel.';
   
   const MODULE_CONTENT_I_TITLE_PUBLIC_TITLE = 'Welkom bij %s';

@@ -31,4 +31,4 @@ const MODULE_CONTENT_SC_PRODUCT_LISTING_HEADING_PRICE = 'Prijs';
 
 const MODULE_CONTENT_SC_PRODUCT_LISTING_TEXT_BUTTON_UPDATE  = '<i title="Update" class="fas fa-sync fa-fw"></i>';
 const MODULE_CONTENT_SC_PRODUCT_LISTING_TEXT_BUTTON_REMOVE = '<i title="Verwijder" class="text-danger fas fa-trash fa-fw"></i>';
-const MODULE_CONTENT_SC_PRODUCT_LISTING_TEXT_IN_STOCK '<i class="fas fa-check fa-2x text-success"></i>';
+const MODULE_CONTENT_SC_PRODUCT_LISTING_TEXT_IN_STOCK = '<i class="fas fa-check fa-2x text-success"></i>';

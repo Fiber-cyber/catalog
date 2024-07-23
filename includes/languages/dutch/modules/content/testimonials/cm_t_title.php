@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-  const MODULE_CONTENT_TESTIMONIALS_TITLE_TITLE        = 'Page Heading';
-  const MODULE_CONTENT_TESTIMONIALS_TITLE_DESCRIPTION  = 'Toon de  Page Heading.';
+  const MODULE_CONTENT_TESTIMONIALS_TITLE_TITLE        = 'Pagina Titel';
+  const MODULE_CONTENT_TESTIMONIALS_TITLE_DESCRIPTION  = 'Toon de  Pagina Titel.';
   
   const MODULE_CONTENT_TESTIMONIALS_TITLE_PUBLIC_TITLE = 'Klanten bevindingen';

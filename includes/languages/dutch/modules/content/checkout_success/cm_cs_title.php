@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-  const MODULE_CONTENT_CHECKOUT_SUCCESS_TITLE_TITLE        = 'Pagina Kop';
-  const MODULE_CONTENT_CHECKOUT_SUCCESS_TITLE_DESCRIPTION  = 'Toon de Pagina Kop.';
+  const MODULE_CONTENT_CHECKOUT_SUCCESS_TITLE_TITLE        = 'Pagina Titel';
+  const MODULE_CONTENT_CHECKOUT_SUCCESS_TITLE_DESCRIPTION  = 'Toon de Pagina Titel.';
   
   const MODULE_CONTENT_CHECKOUT_SUCCESS_TITLE_PUBLIC_TITLE = 'Uw order is compleet';
