@@ -22,8 +22,8 @@ const TABLE_HEADING_PRICE_INCLUDING_TAX = 'Prijs (inc)';
 const TABLE_HEADING_TOTAL_EXCLUDING_TAX = 'Totaal (ex)';
 const TABLE_HEADING_TOTAL_INCLUDING_TAX = 'Totaal (inc)';
 
-const ENTRY_SOLD_TO = 'Verkocht aan:';
-const ENTRY_SHIP_TO = 'Verzonden aan:';
+const ENTRY_SOLD_TO = 'Facturatie Adres:';
+const ENTRY_SHIP_TO = 'Leverings Adres:';
 const ENTRY_PAYMENT_METHOD = 'Betaalmethode: %s';
 const ENTRY_SUB_TOTAL = 'Sub-Totaal:';
 const ENTRY_TAX = 'BTW:';
