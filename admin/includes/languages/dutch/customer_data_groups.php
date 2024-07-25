@@ -28,7 +28,7 @@ const TEXT_INFO_DELETE_INTRO = <<<'EOT'
 
 <p class="alert alert-warning">Warning: Als klantgegevensmodules deze groep gebruiken, worden ze wees als de groep wordt verwijderd!
 Overweeg of u deze groep beter kunt bewerken in plaats van deze te verwijderen en een nieuwe te maken.
-Om te vertalen, zou je het in plaats daarvan normaal gesproken bewerken.</p>
+Om te vertalen, zou je het in plaats daarvan normaal gesproken gewoon bewerken.</p>
 EOT;
 const TEXT_INFO_HEADING_NEW_CUSTOMER_DATA_GROUP = 'Nieuwe klantgegevens groep';
 const TEXT_INFO_HEADING_EDIT_CUSTOMER_DATA_GROUP = 'Bewerk klantgegevens groep';
