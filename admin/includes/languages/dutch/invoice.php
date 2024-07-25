@@ -10,6 +10,9 @@
   Released under the GNU General Public License
 */
 
+const HEADING_TITLE = 'Factuur';
+const PRINT_TITLE = 'Factuur #%s';
+
 const TABLE_HEADING_COMMENTS = 'Commentaar';
 
 const TABLE_HEADING_QTY = 'Aantal';
