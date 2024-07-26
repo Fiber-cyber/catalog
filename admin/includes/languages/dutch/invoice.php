@@ -35,3 +35,5 @@ const ENTRY_TOTAL = 'Totaal:';
 
 const ENTRY_INVOICE_NUMBER = 'Factuur: %s';
 const ENTRY_INVOICE_DATE = 'Datum: %s';
+
+const ENTRY_INVOICE_TAX_ID = 'BTW Nummer: %s';
