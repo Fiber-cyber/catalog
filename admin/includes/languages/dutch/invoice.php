@@ -33,6 +33,7 @@ const ENTRY_TAX = 'BTW:';
 const ENTRY_SHIPPING = 'Verzending:';
 const ENTRY_TOTAL = 'Totaal:';
 
+const ENTRY_INVOICE = 'Factuur';
 const ENTRY_INVOICE_NUMBER = 'Factuur: %s';
 const ENTRY_INVOICE_DATE = 'Datum: %s';
 
