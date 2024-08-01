@@ -10,9 +10,9 @@
   Released under the GNU General Public License
 */
 
-const HEADING_TITLE = 'Uitloggen';
-const NAVBAR_TITLE = 'Uitloggen';
+const HEADING_TITLE = 'Afmelden';
+const NAVBAR_TITLE = 'Afmelden';
 const TEXT_MAIN = <<<'EOT'
-U bent uitgelogd van uw account. Het is nu veilig om de shop te verlaten.<br><br>
-Uw winkelwagentje is opgeslagen, de artikelen erin worden hersteld wanneer u zich opnieuw aanmeldt bij uw account.
+U bent succesvol afgemeld van uw profiel. Het is nu veilig om de shop te verlaten.<br><br>
+Uw winkelwagentje is opgeslagen, de artikelen erin worden hersteld wanneer u zich opnieuw aanmeld bij uw profiel.
 EOT;

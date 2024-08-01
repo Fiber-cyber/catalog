@@ -10,6 +10,5 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_ORDER_TOTAL_TOTAL_TITLE', 'Totaal');
-  define('MODULE_ORDER_TOTAL_TOTAL_DESCRIPTION', 'Order Totaal');
-?>
+const MODULE_ORDER_TOTAL_TOTAL_TITLE = 'Totaal';
+const MODULE_ORDER_TOTAL_TOTAL_DESCRIPTION = 'Order Totaal';

@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-const NAVBAR_TITLE_1 = 'Mijn Account';
+const NAVBAR_TITLE_1 = 'Mijn Profiel';
 const NAVBAR_TITLE_2 = 'Historie';
 const NAVBAR_TITLE_3 = 'Order #%s';
 
@@ -21,7 +21,7 @@ const HEADING_ORDER_DATE = 'Order Datum:';
 const HEADING_ORDER_TOTAL = 'Order Totaal:';
 
 const HEADING_DELIVERY_ADDRESS = 'Afleveradres';
-const HEADING_SHIPPING_METHOD = 'Verzendwijze';
+const HEADING_SHIPPING_METHOD = 'Leverings methode';
 
 const HEADING_PRODUCTS = 'Artikelen';
 const HEADING_TAX = 'BTW';

@@ -10,6 +10,8 @@
   Released under the GNU General Public License
 */
 
+const HEADING_TITLE = 'Artikel Opties';
+
 const HEADING_TITLE_OPT = 'Artikel opties';
 const HEADING_TITLE_VAL = 'Waarde';
 const HEADING_TITLE_ATRIB = 'Artikel kenmerken';

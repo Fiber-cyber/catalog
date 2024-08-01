@@ -10,7 +10,7 @@
   Released under the GNU General Public License
   
 */
-  const MODULE_CONTENT_IP_TITLE_TITLE        = 'Page Heading';
+  const MODULE_CONTENT_IP_TITLE_TITLE        = 'Pagina Titel';
   const MODULE_CONTENT_IP_TITLE_DESCRIPTION  = 'Toont de categorie / fabrikantnaam op pagina\'s met indexartikelen.';
   
   const MODULE_CONTENT_IP_TITLE_PUBLIC_TITLE = '%s';

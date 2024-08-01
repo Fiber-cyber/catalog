@@ -10,10 +10,10 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_CONTENT_HEADER_BUTTONS_TITLE', 'Buttons');
-  define('MODULE_CONTENT_HEADER_BUTTONS_DESCRIPTION', 'Voeg buttons toe voor het inloggen of afrekenen toe aan de header van je shop.');
+const MODULE_CONTENT_HEADER_BUTTONS_TITLE = 'Buttons';
+const MODULE_CONTENT_HEADER_BUTTONS_DESCRIPTION = 'Voeg buttons toe voor het inloggen of afrekenen toe aan de header van je shop.';
   
-  define('MODULE_CONTENT_HEADER_BUTTONS_TITLE_CART_CONTENTS', 'Inhoud winkelwagen');
-  define('MODULE_CONTENT_HEADER_BUTTONS_TITLE_CHECKOUT', 'Uitchecken');
-  define('MODULE_CONTENT_HEADER_BUTTONS_TITLE_LOGOFF', 'Uitloggen');
-  define('MODULE_CONTENT_HEADER_BUTTONS_TITLE_MY_ACCOUNT', 'Mijn Account');
+const MODULE_CONTENT_HEADER_BUTTONS_TITLE_CART_CONTENTS = 'Inhoud winkelwagen';
+const MODULE_CONTENT_HEADER_BUTTONS_TITLE_CHECKOUT = 'Afmelden';
+const MODULE_CONTENT_HEADER_BUTTONS_TITLE_LOGOFF =  'Afmelden';
+const MODULE_CONTENT_HEADER_BUTTONS_TITLE_MY_ACCOUNT = 'Mijn Profiel';

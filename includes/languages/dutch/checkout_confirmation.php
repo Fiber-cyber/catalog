@@ -15,9 +15,9 @@ const NAVBAR_TITLE_2 = 'Bevestiging';
 
 const HEADING_TITLE = 'Order Bevestiging';
 
-const HEADING_SHIPPING_INFORMATION = 'Verzend informatie';
+const HEADING_SHIPPING_INFORMATION = 'Leverings informatie';
 const HEADING_DELIVERY_ADDRESS = 'Afleveradres';
-const HEADING_SHIPPING_METHOD = 'Verzendmethode';
+const HEADING_SHIPPING_METHOD = 'Leverings methode';
 const HEADING_PRODUCTS = 'Artikel';
 const HEADING_TAX = 'BTW';
 const HEADING_TOTAL = 'Totaal';
@@ -27,7 +27,7 @@ const HEADING_PAYMENT_METHOD = 'Betaalmethode';
 const HEADING_PAYMENT_INFORMATION = 'Betalingsinformatie';
 const HEADING_ORDER_COMMENTS = 'Opmerkingen over uw bestelling';
 
-const IMAGE_BUTTON_FINALISE_ORDER=  'Mijn bestelling afronden en %s betalen';
+const IMAGE_BUTTON_FINALISE_ORDER=  'Mijn bestelling bevestigen en %s betalen';
 
 const HEADING_QTY = 'Hoeveelheid';
 

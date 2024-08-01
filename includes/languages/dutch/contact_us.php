@@ -17,7 +17,7 @@ const EMAIL_SUBJECT = 'Reactie van %s';
 
 const ENTRY_NAME = 'Volledige naam';
 const ENTRY_NAME_TEXT = '';
-const ENTRY_EMAIL = 'E-Mail Adres';
+const ENTRY_EMAIL = 'E-mail Adres';
 const ENTRY_EMAIL_TEXT = '';
 const ENTRY_ENQUIRY = 'Reactie';
 const ENTRY_ENQUIRY_TEXT = '';

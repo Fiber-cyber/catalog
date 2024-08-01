@@ -23,8 +23,8 @@ const TABLE_HEADING_CATEGORIES_PRODUCTS = 'Categorie&euml;n / Artikelen';
 const TABLE_HEADING_ACTION = 'Actie';
 const TABLE_HEADING_STATUS = 'Status';
 
-const TEXT_NEW_PRODUCT = 'Nieuw artikel toevoegen <small>in %s</small>';
-const TEXT_EXISTING_PRODUCT = 'Bewerk %s <small>in %s</small>';
+const TEXT_NEW_PRODUCT = 'Nieuw artikel toevoegen<br><small class="text-muted">in %s</small>';
+const TEXT_EXISTING_PRODUCT = 'Bewerk %s<br><small class="text-muted">in %s</small>';
 
 const TEXT_CATEGORIES = 'Categorie&euml;n';
 const TEXT_PRODUCTS = 'Artikelen';

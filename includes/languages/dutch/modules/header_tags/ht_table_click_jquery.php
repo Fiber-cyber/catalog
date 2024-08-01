@@ -10,6 +10,6 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_HEADER_TAGS_TABLE_CLICK_JQUERY_TITLE', 'Table Row Click jQuery');
-  define('MODULE_HEADER_TAGS_TABLE_CLICK_JQUERY_DESCRIPTION', 'Voeg de Table Row Click jQuery toe aan specifieke paginas');
+  const MODULE_HEADER_TAGS_TABLE_CLICK_JQUERY_TITLE = 'Table Row Click Javascript';
+  const MODULE_HEADER_TAGS_TABLE_CLICK_JQUERY_DESCRIPTION = 'Voeg de Table Row Click Javascript toe aan specifieke paginas';
 ?>

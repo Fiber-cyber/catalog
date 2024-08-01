@@ -8,7 +8,7 @@
 
   Released under the GNU General Public License
   
-  Vertaald door Fiber - Phoenix 1.0.9.4
+  Vertaald door Fiber - Phoenix 1.0.9.5
 */
 
 // look in your $PATH_LOCALE/locale directory for available locales
@@ -31,14 +31,14 @@ const LANGUAGE_CURRENCY = 'EUR';
 // Global entries for the <html> tag
 const HTML_PARAMS = ' dir="ltr" lang="nl"';
 
-// charset for web pages and emails
+// charset for web pages and e-mails
 const CHARSET = 'utf-8';
 
 // page title
 const TITLE = STORE_NAME;
 
 // text in includes/modules/downloads.php
-const HEADER_TITLE_MY_ACCOUNT = 'Mijn Account';
+const HEADER_TITLE_MY_ACCOUNT = 'Mijn Profiel';
 
 // checkout procedure text
 const CHECKOUT_BAR_DELIVERY = 'Verzend informatie';
@@ -47,11 +47,6 @@ const CHECKOUT_BAR_CONFIRMATION = 'Bevestiging';
 
 // pull down default text
 const PULL_DOWN_DEFAULT = 'Selecteer';
-
-// javascript messages
-const JS_ERROR = 'Er zijn fouten opgetreden tijdens het proces van uw formulier.\n\nVul de volgende correcties aan:\n\n';
-
-const JS_ERROR_NO_PAYMENT_MODULE_SELECTED = '* Selecteer een betalingsmethode voor uw bestelling.\n';
 
 const ERROR_NO_PAYMENT_MODULE_SELECTED = 'Selecteer een betalingsmethode voor uw bestelling.';
 

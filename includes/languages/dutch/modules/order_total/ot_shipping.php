@@ -10,9 +10,8 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_ORDER_TOTAL_SHIPPING_TITLE', 'Verzending');
-  define('MODULE_ORDER_TOTAL_SHIPPING_DESCRIPTION', 'Verzendings kosten');
+const MODULE_ORDER_TOTAL_SHIPPING_TITLE = 'Levering';
+const MODULE_ORDER_TOTAL_SHIPPING_DESCRIPTION = 'Leveringskosten';
 
-  define('FREE_SHIPPING_TITLE', 'Gratis Verzending');
-  define('FREE_SHIPPING_DESCRIPTION', 'Gratis verzending voor bestellingen boven %s');
-?>
+const FREE_SHIPPING_TITLE = 'Gratis Levering';
+const FREE_SHIPPING_DESCRIPTION = 'Gratis levering voor bestellingen boven %s';

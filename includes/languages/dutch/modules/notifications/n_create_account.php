@@ -10,8 +10,8 @@
   Released under the GNU General Public License
 */
 
-const MODULE_NOTIFICATIONS_CREATE_ACCOUNT_TEXT_TITLE = 'Maak een account';
-const MODULE_NOTIFICATIONS_CREATE_ACCOUNT_TEXT_DESCRIPTION = 'Stuur een melding wanneer het aanmaken van een account is voltooid.';
+const MODULE_NOTIFICATIONS_CREATE_ACCOUNT_TEXT_TITLE = 'Maak een profiel';
+const MODULE_NOTIFICATIONS_CREATE_ACCOUNT_TEXT_DESCRIPTION = 'Stuur een melding wanneer het aanmaken van een profiel is voltooid.';
 
 const MODULE_NOTIFICATIONS_CREATE_ACCOUNT_SUBJECT = 'Welkom bij ' . STORE_NAME;
 const MODULE_NOTIFICATIONS_CREATE_ACCOUNT_WELCOME = 'We verwelkomen u bij <strong>' . STORE_NAME . '</strong>.' . "\n\n";

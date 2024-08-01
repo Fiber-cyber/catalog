@@ -10,7 +10,7 @@
   Released under the GNU General Public License 
 */
 
-  const MODULE_CONTENT_IN_TITLE_TITLE        = 'Page Heading';
+  const MODULE_CONTENT_IN_TITLE_TITLE        = 'Pagina Titel';
   const MODULE_CONTENT_IN_TITLE_DESCRIPTION  = 'Toont de categorienaam op individuele categoriepagina\'s.';
   
   const MODULE_CONTENT_IN_TITLE_PUBLIC_TITLE = '%s';
