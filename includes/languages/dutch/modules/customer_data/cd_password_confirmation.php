@@ -14,6 +14,6 @@ const MODULE_CUSTOMER_DATA_PASSWORD_CONFIRMATION_TEXT_TITLE = 'Wachtwoord bevest
 const MODULE_CUSTOMER_DATA_PASSWORD_CONFIRMATION_TEXT_DESCRIPTION = 'Toon een Wachtwoord bevestiging in create acount pagina';
 
 const ENTRY_PASSWORD_ERROR_NOT_MATCHING = 'De wachtwoord bevestiging moet overeenkomen met uw wachtwoord.';
-const ENTRY_PASSWORD_CONFIRMATION = 'Wachtwoordbevestiging';
+const ENTRY_PASSWORD_CONFIRMATION = 'Wachtwoord Bevestiging';
 const ENTRY_PASSWORD_CONFIRMATION_TEXT = '';
 const ENTRY_PASSWORD_NEW_ERROR_NOT_MATCHING = 'De wachtwoord bevestiging moet overeenkomen met uw nieuwe wachtwoord.';
