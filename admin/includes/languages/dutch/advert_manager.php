@@ -29,7 +29,7 @@ const TEXT_ADVERT_IMAGE_LOCAL = 'Of voer de lokale bestandsnaam in';
 const TEXT_ADVERT_IMAGE_TARGET = 'Opslaan in map';
 const TEXT_ADVERT_HTML_TEXT = 'HTML Tekst';
 
-const TEXT_ADVERT_TITLE_HELP = 'Dit wordt alleen gebruikt in de lijst met advertenties als herinnering voor u.';
+const TEXT_ADVERT_TITLE_HELP = 'Dit wordt gebruikt in de lijst met advertenties (Beheerders) als herinnering voor u en als ALT-tekst voor de afbeelding (winkelzijde).';
 const TEXT_ADVERT_URL_HELP = 'Inclusief https:// voor externe links of alleen een paginanaam voor interne links (eg product_info.php of advanced_search_result.php)';
 const TEXT_ADVERT_FRAGMENT_HELP = 'Alleen gebruikt in combinatie met interne links in uw shop!  Fragment URL is (voorbeeld) products_id=3 of zoekwoorden=xyz';
 const TEXT_ADVERT_SORT_HELP = 'Dit bepaalt de advertentie sorteervolgorde * binnen * de groep.';
