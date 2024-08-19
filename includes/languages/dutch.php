@@ -97,8 +97,8 @@ EOT;
 
 // for new style internal pages
 const LINK_TEXT_EDIT = '<small><a class="%s" href="%s">Bewerk</a></small>';
-const SHIPPING_FA_ICON = '<i class="fas fa-shipping-fast fa-fw fa-3x float-right text-black-50"></i>';
-const PAYMENT_FA_ICON = '<i class="fas fa-euro-sign fa-fw fa-3x float-right text-black-50"></i>';
+const SHIPPING_FA_ICON = '<i class="fas fa-shipping-fast fa-fw fa-3x float-right text-secondary"></i>';
+const PAYMENT_FA_ICON = '<i class="fas fa-euro-sign fa-fw fa-3x float-right text-secondary"></i>';
 
 const ENTRY_COMMENTS = 'Nog iets wat we moeten weten?';
 const ENTRY_COMMENTS_PLACEHOLDER = 'Reageer hier...';
