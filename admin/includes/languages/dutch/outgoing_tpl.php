@@ -33,7 +33,7 @@ const TEXT_HEADING_NEW_OUTGOING_EMAIL = 'Nieuwe e-mail templatetoevoegen';
 const TEXT_HEADING_EDIT_OUTGOING_EMAIL = 'Bewerk E-mail Template';
 const TEXT_HEADING_DELETE_OUTGOING_EMAIL = 'Verwijder E-mail uit de wachtrij';
 
-const TEXT_OUTGOING_DATE = 'Verzenden naar:';
+const TEXT_OUTGOING_DATE = 'Verzenden op:';
 const TEXT_OUTGOING_EMAIL = 'E-mail Adres:';
 
 const TEXT_NEW_INTRO = 'Vul de volgende gegevens in voor het nieuwe e-mailbericht';

@@ -20,7 +20,7 @@ const TABLE_HEADING_SLUG = 'Slug';
 const TABLE_HEADING_ACTION = 'Actie';
 
 const TEXT_HEADING_EDIT_OUTGOING_EMAIL = 'Bewerk wachrij E-mail';
-const TEXT_OUTGOING_DATE = 'Verzenden naar:';
+const TEXT_OUTGOING_DATE = 'Verzenden op:';
 const TEXT_OUTGOING_SLUG = 'Slug:';
 const TEXT_OUTGOING_EMAIL = 'E-mail Adres:';
 
