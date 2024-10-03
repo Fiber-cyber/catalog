@@ -1,14 +1,13 @@
 <?php
 /*
   $Id$
+
   CE Phoenix, E-Commerce made Easy
   https://phoenixcart.org
 
-  Copyright (c) 2021 Phoenix Cart
+  Copyright (c) 2024 Phoenix Cart
 
   Released under the GNU General Public License
-  
-  Vertaald door Fiber - Phoenix 1.0.9.7
 */
 
 // look in your $PATH_LOCALE/locale directory for available locales
@@ -22,14 +21,15 @@
 $long_date_formatter = new IntlDateFormatter('nl', IntlDateFormatter::FULL, IntlDateFormatter::NONE);
 $short_date_formatter = new IntlDateFormatter('nl', IntlDateFormatter::SHORT, IntlDateFormatter::NONE);
 $date_time_formatter = new IntlDateFormatter('nl', IntlDateFormatter::SHORT, IntlDateFormatter::LONG);
-const DATE_FORMAT = 'd/m/Y'; // this is used for date()
 
+const DATE_FORMAT = 'd/m/Y'; // this is used for date()
 
 // if USE_DEFAULT_LANGUAGE_CURRENCY is true, use the following currency, instead of the application's default currency (used when changing language)
 const LANGUAGE_CURRENCY = 'EUR';
 
 // Global entries for the <html> tag
-const HTML_PARAMS = ' dir="ltr" lang="nl"';
+const HTML_PARAMS = ' lang="nl" data-bs-theme="' . BOOTSTRAP_THEME . '"';
+
 
 // charset for web pages and e-mails
 const CHARSET = 'utf-8';
@@ -58,7 +58,7 @@ const IMAGE_BUTTON_CHECKOUT = 'Afrekenen';
 const IMAGE_BUTTON_CONFIRM_ORDER = 'Bevestig bestelling';
 const IMAGE_BUTTON_CONTINUE = 'Doorgaan';
 const IMAGE_BUTTON_DELETE = 'Verwijder';
-const IMAGE_BUTTON_LOGIN = 'Log In';
+const IMAGE_BUTTON_LOGIN = 'Aanmelden';
 const IMAGE_BUTTON_IN_CART = 'Voeg toe aan de winkelwagen';
 const IMAGE_BUTTON_SEARCH = 'Zoeken';
 const IMAGE_BUTTON_UPDATE = 'Update';
@@ -74,10 +74,9 @@ const TEXT_CCVAL_ERROR_INVALID_NUMBER = 'Het opgegeven creditcardnummer is ongel
 const TEXT_CCVAL_ERROR_UNKNOWN_CARD = 'De eerste vier cijfers van het ingevoerde nummer zijn: %s. Als dat nummer correct is, accepteren we dat type creditcard niet. Probeer het opnieuw als het fout is.';
 
 const TEXT_SEARCH_PLACEHOLDER = 'Zoeken';
-
 // message for required inputs
-const FORM_REQUIRED_INFORMATION = '<i class="fas fa-asterisk text-danger"></i> Verplichte Informatie';
-const FORM_REQUIRED_INPUT = '<span class="form-control-feedback text-danger"><i class="fas fa-asterisk"></i></span>';
+const FORM_REQUIRED_INFORMATION = '';
+const FORM_REQUIRED_INPUT = '';
 
 // product notifications
 const PRODUCT_SUBSCRIBED = '%s is toegevoegd aan uw lijst met meldingen';
@@ -104,3 +103,11 @@ const ENTRY_COMMENTS = 'Nog iets wat we moeten weten?';
 const ENTRY_COMMENTS_PLACEHOLDER = 'Reageer hier...';
 
 const STAR_RATING = 'Beoordeeld %s';
+
+// added BS5 template
+const NAVBAR_ICON_CART_CONTENTS = '<span class="position-relative%2$s">
+  <i title="Winkelwagen: %1$s artikel(en) in u winkelwagen" class="fas fa-shopping-cart fa-fw fa-xl"></i>
+  <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-info border">
+    <span class="cart-count">%1$s</span>
+  </span>
+</span>';

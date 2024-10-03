@@ -80,7 +80,7 @@ const WARNING_ORDER_NOT_UPDATED = '<strong>Waarschuwing:</strong> Niets te veran
 const ENTRY_ADD_COMMENT = 'Voeg commentaar toe:';
 
 const ENTRY_NOTIFY_CUSTOMER_TEXT = 'Dit laat de klant weten dat zijn bestelling is bijgewerkt.';
-const ENTRY_NOTIFY_COMMENTS_TEXT = 'Dit voegt uw opmerkingen toe aan de bestelling en de e-mail.';
+const ENTRY_NOTIFY_COMMENTS_TEXT = 'Dit voegt uw opmerkingen toe aan de klant notificatie e-mail.';
 
 const TEXT_ORDER_STATUS = '<strong>%s</strong> [%s]';
 const TEXT_ORDER_PAYMENT = '<strong>%s</strong> [%s]';
