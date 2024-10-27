@@ -16,6 +16,7 @@ const TEXT_SOFTWARE_NAME = 'CE Phoenix Cart';
 const TEXT_WEBSITE = 'Website';
 const TEXT_SUPPORT = 'Support';
 const TEXT_COPYRIGHT = 'CE Phoenix Cart &copy; 2000-%d';
+const TEXT_USER_GUIDE = '<i class="fas fa-school me-1 text-dark" aria-hidden="true"></i>Gebruikers Handleiding';
 
 // common
 const BUTTON_RETRY = 'Opnieuw proberen';
