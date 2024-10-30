@@ -11,9 +11,9 @@
 */
 
 const TEXT_WWW_ADDRESS = 'WWW Adres';
-const TEXT_WWW_ADDRESS_EXPLANATION = '<small class="form-text text-muted">Het webadres (URL) van uw online winkel.</small>';
+const TEXT_WWW_ADDRESS_EXPLANATION = '<small class="form-text"> Het webadres (URL) van uw online winkel.</small>';
 const TEXT_WEB_DIRECTORY = 'Hoofdmap (Root) van webserver';
-const TEXT_WEB_DIRECTORY_EXPLANATION = '<small class="form-text text-muted">De directory waar de online winkel op de server is geïnstalleerd.</small>';
+const TEXT_WEB_DIRECTORY_EXPLANATION = '<small class="form-text"> De directory waar de online winkel op de server is geïnstalleerd.</small>';
 const TEXT_CONTINUE_STEP_3 = 'Doorgaan naar stap 3';
 const TEXT_STEP_2 = 'Stap 2';
 const TEXT_WEB_SERVER_EXPLANATION = <<<'EOT'

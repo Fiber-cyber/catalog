@@ -19,7 +19,7 @@ const TEXT_WELCOME_TO = 'Welkom bij CE Phoenix Cart';
 const TEXT_HELPS_YOU_SELL = <<<'EOT'
 <p>CE Phoenix Cart helpt u artikelen wereldwijd te verkopen met uw eigen online winkel.
 De Administratie Tool beheert artikelen, klanten, bestellingen, aanbiedingen en meer om uw online bedrijf succesvol op te bouwen.</p>
-<p>CE Phoenix Cart heeft een gemeenschap van winkeleigenaren en ontwikkelaars die elkaar ondersteunen en hebben veel <span class="badge badge-success">gratis en betaalde add-ons</span> geleverd die de functies en het potentieel van uw online winkel zullen uitbreiden.</p>
+<p>CE Phoenix Cart heeft een gemeenschap van winkeleigenaren en ontwikkelaars die elkaar ondersteunen en hebben veel <span class="badge rounded-pill text-bg-success">gratis en betaalde add-ons</span> geleverd die de functies en het potentieel van uw online winkel zullen uitbreiden.</p>
 EOT;
 const TEXT_NEW_INSTALLATION_OF = 'Nieuwe CE Phoenix Cart v%s Installatie';
 const TEXT_CONFIGURATION_NOT_WRITABLE = <<<'EOT'

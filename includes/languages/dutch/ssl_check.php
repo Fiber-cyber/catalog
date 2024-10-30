@@ -15,10 +15,10 @@ const HEADING_TITLE = 'Veiligheidscontrole';
 
 const TEXT_INFORMATION = <<<'EOT'
 We hebben vastgesteld dat uw browser een andere SSL-sessie-ID heeft gegenereerd op onze beveiligde pagina\'s<br><br>
-Voor beveiligingsmaatregelen moet u zich opnieuw aanmelden in uw profiel om online te kunnen winkelen.<br><br>
-Sommige browsers, zoals Konqueror 3.1, kunnen niet automatisch een veilige SSL-sessie-ID genereren die we nodig hebben. Als u een dergelijke browser gebruikt, raden we u aan over te schakelen naar een andere browser zoals <a class="btn btn-light btn-sm" role="button" href="http://www.microsoft.com/ie/" target="_blank" rel="noreferrer">Microsoft Internet Explorer</a> of <a class="btn btn-light btn-sm" role="button" href="http://channels.netscape.com/ns/browsers/download_other.jsp" target="_blank" rel="noreferrer">Netscape</a> of <a class="btn btn-light btn-sm" role="button" href="http://www.mozilla.org/releases/" target="_blank">Mozilla</a> om uw online winkelervaring voort te zetten.<br><br>
-We hebben deze beveiligingsmaatregel genomen om uw veiligheid te waarborgen en bieden vooraf onze excuses aan als er zich ongemakken voordoen.<br><br>
-AUB <a class="btn btn-success btn-sm" role="button" href="%s">neem contact op met de winkeleigenaar</a> als u vragen heeft hierover of als u artikelen offline wilt blijven kopen.
+Om veiligheidsredenen moet u zich opnieuw aanmelden bij uw profiel om verder te winkelen.<br><br>
+Sommige browsers hebben niet de mogelijkheid om automatisch een veilige SSL-sessie-ID te genereren. Als u een dergelijke browser gebruikt, raden we u aan over te stappen op een modernere browser, zoals <a href="https://www.microsoft.com/en-us/edge/download?form=MA13FJ" target="_blank" rel="noreferrer">Microsoft Edge</a> of <a href="https://support.google.com/chrome/answer/95346" target="_blank" rel="noreferrer">Google Chrome</a> of <a href="https://www.mozilla.org/en-GB/firefox/" target="_blank" rel="noreferrer">Mozilla Firefox</a> om onze site te blijven gebruiken.<br><br>
+We hebben deze beveiligingsmaatregel voor uw voordeel genomen en verontschuldigen ons voor het ongemak.<br><br>
+Neem <a class="btn btn-success" role="button" href="%s">contact met ons op</a> als u vragen hebt over deze vereiste.
 EOT;
 
 const BOX_INFORMATION_HEADING = 'Privacy en Veiligheid';

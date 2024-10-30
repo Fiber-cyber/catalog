@@ -12,22 +12,22 @@
 
 const TEXT_STORE_NAME = 'Winkel naam';
 const TEXT_STORE_NAME_PLACEHOLDER = 'Uw Winkel naam';
-const TEXT_STORE_NAME_EXPLANATION = '<small class="form-text text-muted">De naam van de online winkel die aan het publiek wordt gepresenteerd.</small>';
+const TEXT_STORE_NAME_EXPLANATION = '<small class="form-text"> De naam van de online winkel die aan het publiek wordt gepresenteerd.</small>';
 const TEXT_OWNER_NAME = 'Winkeleigenaar Naam';
 const TEXT_OWNER_NAME_PLACEHOLDER = 'Uw Naam';
-const TEXT_OWNER_NAME_EXPLANATION = '<small class="form-text text-muted">De naam van de winkeleigenaar die aan het publiek wordt gepresenteerd.</small>';
+const TEXT_OWNER_NAME_EXPLANATION = '<small class="form-text"> De naam van de winkeleigenaar die aan het publiek wordt gepresenteerd.</small>';
 const TEXT_OWNER_EMAIL = 'Winkeleigenaar E-Mail Adres';
 const TEXT_OWNER_EMAIL_PLACEHOLDER = 'jou@email.com';
-const TEXT_OWNER_EMAIL_EXPLANATION = '<small class="form-text text-muted">Het e-mailadres van de winkeleigenaar dat aan het publiek wordt gepresenteerd.</small>';
+const TEXT_OWNER_EMAIL_EXPLANATION = '<small class="form-text"> Het e-mailadres van de winkeleigenaar dat aan het publiek wordt gepresenteerd.</small>';
 const TEXT_ADMIN_USERNAME = 'Gebruikersnaam beheerder';
 const TEXT_ADMIN_USERNAME_PLACEHOLDER = 'Gebruikersnaam';
-const TEXT_ADMIN_USERNAME_EXPLANATION = '<small class="form-text text-muted">De beheerdersgebruikersnaam die moet worden gebruikt voor de Admin beheertool.</small>';
+const TEXT_ADMIN_USERNAME_EXPLANATION = '<small class="form-text"> De beheerdersgebruikersnaam die moet worden gebruikt voor de Admin beheertool.</small>';
 const TEXT_ADMIN_PASSWORD = 'Administrator wachtwoord';
-const TEXT_ADMIN_PASSWORD_EXPLANATION = '<small class="form-text text-muted">Het wachtwoord dat moet worden gebruikt voor het beheerdersaccount.</small>';
+const TEXT_ADMIN_PASSWORD_EXPLANATION = '<small class="form-text"> Het wachtwoord dat moet worden gebruikt voor het beheerdersaccount.</small>';
 const TEXT_ADMIN_DIRECTORY = 'Naam administratiemap';
-const TEXT_ADMIN_DIRECTORY_EXPLANATION = '<small class="form-text text-muted">Dit is de map waar het beheergedeelte wordt geïnstalleerd. U dient dit om veiligheidsredenen te wijzigen.</small>';
+const TEXT_ADMIN_DIRECTORY_EXPLANATION = '<small class="form-text"> Dit is de map waar het beheergedeelte wordt geïnstalleerd. U dient dit om veiligheidsredenen te wijzigen.</small>';
 const TEXT_TIME_ZONE = 'Tijd Zone';
-const TEXT_TIME_ZONE_EXPLANATION = '<small class="form-text text-muted">De tijdzone waarop de datum en tijd worden gebaseerd.</small>';
+const TEXT_TIME_ZONE_EXPLANATION = '<small class="form-text"> De tijdzone waarop de datum en tijd worden gebaseerd.</small>';
 const TEXT_CONTINUE_STEP_4 = 'Doorgaan naar stap 4';
 const TEXT_STEP_3 = 'Stap 3';
 const TEXT_STORE_SETTINGS_EXPLANATION = <<<'EOT'

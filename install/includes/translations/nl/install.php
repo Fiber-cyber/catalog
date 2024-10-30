@@ -23,15 +23,15 @@ const TEXT_DB_CONNECTION_PROBLEM = <<<'EOT'
 <p class="text-danger"><strong>%s</strong></p>
 <p class="text-danger">Controleer de verbindingsgegevens en probeer het opnieuw.</p>
 EOT;
-const TEXT_DATABASE_ADDRESS = '<small class="form-text text-muted">Het adres van de databaseserver dat kan zijn een hostnaam of IP-adres.</small>';
+const TEXT_DATABASE_ADDRESS = '<small class="form-text"> Het adres van de databaseserver dat kan zijn een hostnaam of IP-adres.</small>';
 const TEXT_USERNAME = 'Gebruikersnaam';
-const TEXT_USERNAME_DESCRIPTION = '<small class="form-text text-muted">De gebruikersnaam die wordt gebruikt om verbinding te maken met de database-server.</small>';
+const TEXT_USERNAME_DESCRIPTION = '<small class="form-text"> De gebruikersnaam die wordt gebruikt om verbinding te maken met de database-server.</small>';
 const TEXT_PASSWORD = 'Wachtwoord';
-const TEXT_PASSWORD_DESCRIPTION = '<small class="form-text text-muted">Het wachtwoord dat samen met de gebruikersnaam wordt gebruikt om verbinding te maken met de database-server.</small>';
+const TEXT_PASSWORD_DESCRIPTION = '<small class="form-text"> Het wachtwoord dat samen met de gebruikersnaam wordt gebruikt om verbinding te maken met de database-server.</small>';
 const TEXT_DATABASE_NAME = 'Database Naam';
-const TEXT_NAME_DESCRIPTION = '<small class="form-text text-muted">De naam van de database waarin de gegevens moeten worden opgeslagen.</small>';
+const TEXT_NAME_DESCRIPTION = '<small class="form-text"> De naam van de database waarin de gegevens moeten worden opgeslagen.</small>';
 const TEXT_IMPORT_SAMPLE_DATA = 'Importeer Voorbeeld Data';
-const TEXT_SAMPLE_IMPORT_DESCRIPTION = '<small class="form-text text-muted">Voorbeeld artikel en categoriegegevens importeren?</small>';
+const TEXT_SAMPLE_IMPORT_DESCRIPTION = '<small class="form-text"> Voorbeeld artikel en categoriegegevens importeren?</small>';
 const TEXT_CONTINUE_STEP_2 = 'Doorgaan naar stap 2';
 const TEXT_STEP_1 = 'Stap 1';
 const TEXT_DB_EXPLANATION = <<<'EOT'
