@@ -55,6 +55,7 @@ const IMAGE_BUTTON_BACK = 'Terug';
 const IMAGE_BUTTON_BUY_NOW = 'Koop nu';
 const IMAGE_BUTTON_CHANGE_ADDRESS = 'Verander adres';
 const IMAGE_BUTTON_CHECKOUT = 'Afrekenen';
+const IMAGE_BUTTON_CLOSE = 'Sluiten';
 const IMAGE_BUTTON_CONFIRM_ORDER = 'Bevestig bestelling';
 const IMAGE_BUTTON_CONTINUE = 'Doorgaan';
 const IMAGE_BUTTON_DELETE = 'Verwijder';
