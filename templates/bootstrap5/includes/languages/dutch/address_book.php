@@ -17,7 +17,7 @@ const HEADING_TITLE = 'Mijn Persoonlijke Adres Boek';
 
 const PRIMARY_ADDRESS_TITLE = 'Hoofdadres';
 const PRIMARY_ADDRESS_DESCRIPTION = <<<'EOT'
-This address is used as the pre-selected delivery and billing address for orders placed on this store and as the address for product and service tax calculations.
+Dit adres wordt gebruikt als het vooraf geselecteerde levering en factuuradres voor bestellingen die in deze winkel worden geplaatst en als het adres voor de berekening van artikelen en BTW.
 EOT;
 
 const ADDRESS_BOOK_TITLE = 'Adres boekvermeldingen';
