@@ -10,18 +10,59 @@
   Released under the GNU General Public License
 */
 
-const TEXT_TESTING_DB = '<i class="fas fa-spinner fa-spin fa-2x"></i> Databaseverbinding testen..';
-const TEXT_IMPORTING_DB = '<i class="fas fa-spinner fa-spin fa-2x"></i> De databasestructuur wordt nu geïmporteerd. Wees geduldig tijdens deze procedure.';
-const TEXT_DB_SUCCESS = '<i class="fas fa-thumbs-up fa-2x"></i> Database succesvol geïmporteerd.';
+const TEXT_TESTING_DB = <<<'EOT'
+<div class="row">
+  <div class="col-1 d-flex align-items-center">
+    <i class="fas fa-spinner fa-spin fa-2x"></i>
+  </div>
+  <div class="col d-flex align-items-center">
+    <p>Testen database verbinding..</p>
+  </div>
+</div>
+EOT;
+const TEXT_IMPORTING_DB = <<<'EOT'
+<div class="row">
+  <div class="col-1 d-flex align-items-center">
+    <i class="fas fa-spinner fa-spin fa-2x"></i>
+  </div>
+  <div class="col d-flex align-items-center">
+    <p>De database structuur wordt nu geïmporteerd. Wees geduldig tijdens deze procedure...</p>
+  </div>
+</div>
+EOT;
+const TEXT_DB_SUCCESS = <<<'EOT'
+<div class="row">
+  <div class="col-1 d-flex align-items-center">
+    <i class="fas fa-thumbs-up fa-2x"></i>
+  </div>
+  <div class="col d-flex align-items-center">
+    <p>Database is succesvol geïmporteerd.</p>
+  </div>
+</div>
+EOT;
 const TEXT_DB_PROBLEM = <<<'EOT'
-<p><i class="fas fa-thumbs-down fa-2x text-danger"></i> Er is een probleem opgetreden bij het importeren van de database. De volgende fout was opgetreden:</p>
-<p  class="text-danger"><strong>%s</strong></p>
-<p class="text-danger">Controleer de verbindingsgegevens en probeer het opnieuw.</p>
+<div class="row">
+  <div class="col-1 d-flex align-items-center">
+    <i class="fas fa-thumbs-down fa-2x text-danger"></i>
+  </div>
+  <div class="col d-flex align-items-center">
+    <p class="text-danger">Er is een probleem opgetreden bij het importeren van de database:</p>
+    <p class="text-danger font-monospace">%s</p>
+    <p class="text-danger mb-0"><strong>Controleer uw server-, gebruikers- en wachtwoordgegevens en probeer het opnieuw.</strong></p>
+  </div>
+</div>
 EOT;
 const TEXT_DB_CONNECTION_PROBLEM = <<<'EOT'
-<p><i class="fas fa-thumbs-down fa-2x text-danger"></i> Er is een probleem opgetreden bij het verbinden met de databaseserver. De volgende fout was opgetreden:</p>
-<p class="text-danger"><strong>%s</strong></p>
-<p class="text-danger">Controleer de verbindingsgegevens en probeer het opnieuw.</p>
+<div class="row">
+  <div class="col-1 d-flex align-items-center">
+    <i class="fas fa-thumbs-down fa-2x text-danger"></i>
+  </div>
+  <div class="col d-flex align-items-center">
+    <p class="text-danger">Er is een probleem opgetreden bij het verbinden met de databaseserver:</p>
+    <p class="text-danger font-monospace">%s</p>
+    <p class="text-danger mb-0"><strong>Controleer uw server-, gebruikers- en wachtwoordgegevens en probeer het opnieuw.</strong></p>
+  </div>
+</div>
 EOT;
 const TEXT_DATABASE_ADDRESS = '<small class="form-text"> Het adres van de databaseserver dat kan zijn een hostnaam of IP-adres.</small>';
 const TEXT_USERNAME = 'Gebruikersnaam';
@@ -29,7 +70,7 @@ const TEXT_USERNAME_DESCRIPTION = '<small class="form-text"> De gebruikersnaam d
 const TEXT_PASSWORD = 'Wachtwoord';
 const TEXT_PASSWORD_DESCRIPTION = '<small class="form-text"> Het wachtwoord dat samen met de gebruikersnaam wordt gebruikt om verbinding te maken met de database-server.</small>';
 const TEXT_DATABASE_NAME = 'Database Naam';
-const TEXT_NAME_DESCRIPTION = '<small class="form-text"> De naam van de database waarin de gegevens moeten worden opgeslagen.</small>';
+const TEXT_NAME_DESCRIPTION = '<small class="form-text"> De naam van de database waarin de gegevens moeten worden opgeslagen. Als deze database niet bestaat, zal Phoenix proberen deze aan te maken.</small>';
 const TEXT_IMPORT_SAMPLE_DATA = 'Importeer Voorbeeld Data';
 const TEXT_SAMPLE_IMPORT_DESCRIPTION = '<small class="form-text"> Voorbeeld artikel en categoriegegevens importeren?</small>';
 const TEXT_CONTINUE_STEP_2 = 'Doorgaan naar stap 2';
