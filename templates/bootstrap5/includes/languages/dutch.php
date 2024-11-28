@@ -7,7 +7,7 @@
 
   Copyright (c) 2024 Phoenix Cart
   
-  Vertaald door Fiber - Phoenix 1.0.9.8
+  Vertaald door Fiber - Phoenix 1.0.9.9
 
   Released under the GNU General Public License
 */
@@ -55,6 +55,7 @@ const ERROR_NO_PAYMENT_MODULE_SELECTED = 'Selecteer een betalingsmethode voor uw
 const IMAGE_BUTTON_ADD_ADDRESS = 'Voeg adres toe';
 const IMAGE_BUTTON_BACK = 'Terug';
 const IMAGE_BUTTON_BUY_NOW = 'Koop nu';
+const IMAGE_BUTTON_CLOSE = 'Sluiten';
 const IMAGE_BUTTON_CHANGE_ADDRESS = 'Verander adres';
 const IMAGE_BUTTON_CHECKOUT = 'Afrekenen';
 const IMAGE_BUTTON_CONFIRM_ORDER = 'Bevestig bestelling';

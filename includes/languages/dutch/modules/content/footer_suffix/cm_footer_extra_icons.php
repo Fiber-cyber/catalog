@@ -10,9 +10,9 @@
   Released under the GNU General Public License
 */
 
-  const MODULE_CONTENT_FOOTER_EXTRA_ICONS_TITLE = 'Betaal Icons';
+  const MODULE_CONTENT_FOOTER_EXTRA_ICONS_TITLE = 'Footer Icons';
   const MODULE_CONTENT_FOOTER_EXTRA_ICONS_DESCRIPTION = <<<'EOT'
-Voeg betaalpictogrammen toe aan de footer van uw site.<div class="alert alert-info">Beschikbare betaalpictogrammen worden hier weergegeven: https://fontawesome.com/search?q=shopping&o=r&m=free&f=brands</div>
+Voeg FontAwesome-pictogrammen toe aan de footer van uw shop.<div class="alert alert-info">Beschikbare pictogrammen worden hier weergegeven: https://fontawesome.com/search?o=r&m=free</div>
 EOT;
 
   const MODULE_CONTENT_FOOTER_EXTRA_ICONS_TEXT = '';

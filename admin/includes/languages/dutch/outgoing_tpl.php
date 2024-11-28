@@ -27,7 +27,10 @@ const TEXT_OUTGOING_SLUG = 'Template Naam';
 const TEXT_OUTGOING_SLUG_TITLE = 'Email Titel';
 const TEXT_OUTGOING_SLUG_TEXT = 'Email Tekst';
 
-const MISSING_SLUGS = '<div class="alert alert-danger">Attentie:  Deze Modules bestaan en er MOET een template voor gemaakt worden!<br><b>%s</b></div>';
+const MISSING_SLUGS = '<div class="alert alert-danger d-flex justify-content-between">
+<span>Attentie:  Deze Modules bestaan en er MOET een template voor gemaakt worden!<br><b>%s</b></span>
+<span>%s</span>
+</div>';
 
 const TEXT_HEADING_NEW_OUTGOING_EMAIL = 'Nieuwe e-mail templatetoevoegen';
 const TEXT_HEADING_EDIT_OUTGOING_EMAIL = 'Bewerk E-mail Template';
