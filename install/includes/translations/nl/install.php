@@ -70,7 +70,7 @@ const TEXT_USERNAME_DESCRIPTION = '<small class="form-text"> De gebruikersnaam d
 const TEXT_PASSWORD = 'Wachtwoord';
 const TEXT_PASSWORD_DESCRIPTION = '<small class="form-text"> Het wachtwoord dat samen met de gebruikersnaam wordt gebruikt om verbinding te maken met de database-server.</small>';
 const TEXT_DATABASE_NAME = 'Database Naam';
-const TEXT_NAME_DESCRIPTION = '<small class="form-text"> De naam van de database waarin de gegevens moeten worden opgeslagen. Als deze database niet bestaat, zal Phoenix proberen deze aan te maken.</small>';
+const TEXT_NAME_DESCRIPTION = '<small class="form-text">De naam van de database waarin de gegevens worden opgeslagen. Als deze database niet bestaat, zal Phoenix proberen deze aan te maken.</small><br><small class="form-text text-danger fw-bold">WAARSCHUWING: Als u een reeds bestaande database gebruikt, kunnen de gegevens in die database verloren gaan.</small>';
 const TEXT_IMPORT_SAMPLE_DATA = 'Importeer Voorbeeld Data';
 const TEXT_SAMPLE_IMPORT_DESCRIPTION = '<small class="form-text"> Voorbeeld artikel en categoriegegevens importeren?</small>';
 const TEXT_CONTINUE_STEP_2 = 'Doorgaan naar stap 2';
