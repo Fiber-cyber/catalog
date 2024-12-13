@@ -11,7 +11,7 @@
 */
 
   const MODULE_CONTENT_I_SLIDER_TITLE         = 'Carousel';
-  const MODULE_CONTENT_I_SLIDER_DESCRIPTION   = 'Toont een reeks plaatjes als een carrousel. Linkt naar de advertentiemanager.';
+  const MODULE_CONTENT_I_SLIDER_DESCRIPTION   = 'Toont een reeks plaatjes als een carrousel. <div class="alert alert-danger mt-2">Carousel content word ingesteld in Tools > Advertentie Manager.</div>';
 
   const MODULE_CONTENT_I_SLIDER_CONTROLS_PREV = 'Vorige';
   const MODULE_CONTENT_I_SLIDER_CONTROLS_NEXT = 'Volgende';
