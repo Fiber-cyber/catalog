@@ -11,7 +11,7 @@
 */
 
   const MODULE_CONTENT_PI_MANUFACTURER_TITLE       = 'Fabrikant/Importeur';
-  const MODULE_CONTENT_PI_MANUFACTURER_DESCRIPTION = 'Toon de Fabrikant (en Importeur indien ingesteld) in de product_info pagina.';
+  const MODULE_CONTENT_PI_MANUFACTURER_DESCRIPTION = 'Toon de Fabrikant (en Importeur indien ingesteld) op de product_info pagina.';
   
   const MODULE_CONTENT_PI_MANUFACTURER_BRAND = 'Fabrikant';
   const MODULE_CONTENT_PI_MANUFACTURER_IMPORTER = 'Importeur';
