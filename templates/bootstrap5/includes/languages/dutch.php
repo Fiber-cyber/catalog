@@ -110,7 +110,7 @@ const STAR_RATING = 'Beoordeeld %s';
 // added BS5 template
 const NAVBAR_ICON_CART_CONTENTS = '<span class="position-relative%2$s">
   <i title="Winkelwagen: %1$s artikel(en) in u winkelwagen" class="fas fa-shopping-cart fa-fw fa-xl"></i>
-  <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-info border">
+  <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-primary border">
     <span class="cart-count">%1$s</span>
   </span>
 </span>';
