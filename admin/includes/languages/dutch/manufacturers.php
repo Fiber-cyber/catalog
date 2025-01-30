@@ -57,10 +57,4 @@ const TEXT_MANUFACTURERS_ADDRESS = 'Adres:<br>%s';
 const TEXT_MANUFACTURERS_EMAIL = 'Email: %s';
 const TEXT_NA = 'N/A';
 
-const TEXT_MANUFACTURERS_IN_EU = 'Is deze Fabrikant buiten de EU gevestigd?';
-const TEXT_MANUFACTURER_NOT_IN_EU = 'Als uw bedrijf zich in de EU bevindt en deze Fabrikant zich buiten de EU bevindt, moet u de gegevens opgeven van de EU-Orginisatie die dit product importeert. Dit kan uw bedrijf rechtstreeks zijn of de leverancier van wie u dit product koopt.';
-const TEXT_IMPORTERS_NAME = 'Naam van Importeur:';
-const TEXT_IMPORTERS_ADDRESS = 'Adres van Importeur:<br>%s';
-const TEXT_IMPORTERS_EMAIL = 'Email van Importeur: %s';
-
 const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Manufacturers';
