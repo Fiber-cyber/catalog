@@ -28,9 +28,9 @@ const TEXT_IMAGE_NONEXISTENT = 'PLAATJE BSTAAT NIET';
 const TEXT_NEW_INTRO = 'Vul de volgende informatie in voor de nieuwe importeur';
 const TEXT_EDIT_INTRO = 'Breng de nodige wijzigingen aan';
 
-const TEXT_IMPORTERS_NAME = 'Importeurs Naams:';
-const TEXT_IMPORTERS_IMAGE = 'Importeurs Plaatje:';
-const TEXT_IMPORTERS_URL = 'Importeurs URL:';
+const TEXT_IMPORTERS_NAME = 'Importeur Naam:';
+const TEXT_IMPORTERS_IMAGE = 'Importeur Plaatje:';
+const TEXT_IMPORTERS_URL = 'Importeur URL:';
 
 const TEXT_DELETE_INTRO = 'Weet u zeker dat u deze importeur wilt verwijderen?';
 const TEXT_DELETE_IMAGE = 'Verwijder Importeurs Plaatje?';
