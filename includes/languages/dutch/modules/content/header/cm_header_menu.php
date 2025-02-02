@@ -13,7 +13,7 @@
   const MODULE_CONTENT_HEADER_MENU_TITLE = 'Horizontaal Menu';
   const MODULE_CONTENT_HEADER_MENU_DESCRIPTION = 'Voegt horizontaal menu (plus één laag) toe aan de header.';
 
-  const MODULE_CONTENT_HEADER_MENU_TOGGLER = 'Toggle Menu';
+  const MODULE_CONTENT_HEADER_MENU_TOGGLER = 'Navigatie Menu';
 
   const MODULE_CONTENT_HEADER_MENU_MANUFACTURER_DROPDOWN = 'Fabrikanten';
   

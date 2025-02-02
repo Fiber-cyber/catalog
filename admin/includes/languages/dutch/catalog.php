@@ -92,6 +92,7 @@ const TEXT_PRODUCTS_URL_WITHOUT_HTTP = 'Zorg ervoor dat de URL begint met http:/
 const TEXT_PRODUCTS_PRICE_NET = 'Artikel Prijs (netto)';
 const TEXT_PRODUCTS_PRICE_GROSS = 'Artikel Prijs (bruto)';
 const TEXT_PRODUCTS_WEIGHT = 'Artikel Gewicht';
+const TEXT_PRODUCTS_IMPORTER = 'Artikel Importeur';
 
 const EMPTY_CATEGORY = 'Lege categorie';
 

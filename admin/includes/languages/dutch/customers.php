@@ -32,6 +32,8 @@ const PLEASE_SELECT = 'Kies een';
 
 const PULL_DOWN_DEFAULT = PLEASE_SELECT;
 
+const CUSTOMER_REVIEW_ANONYMIZED = 'Geverifieerde Klant';
+
 const ERROR_PAGE_HAS_UNMET_REQUIREMENT = <<<'EOT'
   De klantenpagina vereist het volgende aan velden 'sortable_name', 'name', 'email_address', 'country_id', and 'id' klantgegevensmodules die moeten worden geïnstalleerd.  Missend:
 EOT;
