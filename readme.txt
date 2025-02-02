@@ -1,4 +1,4 @@
-PhoenixCart 1.01.00.00
+PhoenixCart Nederlands 1.01.00.00
 
 =======
 Vertaald door Fiber
