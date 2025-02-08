@@ -34,12 +34,12 @@ const CHARSET = 'utf-8';
 const TITLE = 'CE Phoenix Cart - Beheer';
 
 // header text in includes/hooks/admin/siteWide/hMenu.php
-const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Uw Shop</span>';
-const HEADER_TITLE_PHOENIX_CLUB = '<i class="fas fa-question-circle mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Help</span>';
-const HEADER_TITLE_PHOENIX_WIKI = '<i class="fas fa-school mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Handleiding</span>';
-const HEADER_TITLE_CERTIFIED_DEVELOPERS = '<i class="fas fa-laptop-code mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Gecertificeerde Partners</span>';
-const HEADER_TITLE_CERTIFIED_ADDONS = '<i class="fas fa-folder-plus mr-1 text-primary" aria-hidden="true"></i><span class="border-bottom border-primary">Add-ons</span>';
-const HEADER_TITLE_LOGOFF = '<i class="fas fa-lock mr-1" aria-hidden="true"></i><span class="border-bottom border-danger">%s, veilig uitloggen</span>';
+const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart me-1 text-primary" aria-hidden="true" title="Uw Shop"></i><span class="border-bottom border-primary">Uw Shop</span>';
+const HEADER_TITLE_PHOENIX_CLUB = '<i class="fas fa-question-circle me-1 text-primary" aria-hidden="true" title="Phoenix Forum"></i><span class="border-bottom border-primary d-none d-md-inline">Phoenix Forum</span>';
+const HEADER_TITLE_PHOENIX_WIKI = '<i class="fas fa-school me-1 text-primary" aria-hidden="true" title="Handleiding"></i><span class="border-bottom border-primary d-none d-md-inline">Handleiding</span>';
+const HEADER_TITLE_CERTIFIED_DEVELOPERS = '<i class="fas fa-laptop-code me-1 text-primary" aria-hidden="true" title="Partners"></i><span class="border-bottom border-primary d-none d-md-inline">Gecertificeerde Partners</span>';
+const HEADER_TITLE_CERTIFIED_ADDONS = '<i class="fas fa-folder-plus me-1 text-primary" aria-hidden="true" title="Add-ons"></i><span class="border-bottom border-primary d-none d-md-inline">Add-ons</span>';
+const HEADER_TITLE_LOGOFF = '<i class="fas fa-lock me-1" aria-hidden="true" title="Uitloggen"></i><span class="border-bottom border-danger">%s, veilig uitloggen</span>';
 
 // images
 const IMAGE_BACK = 'Terug';
@@ -139,8 +139,8 @@ const TEXT_IMAGE_NON_EXISTENT = 'PLAATJE BESTAAT NIET';
 
 const STAR_RATING = 'Beoordeeld als %s sterren';
 
-const GET_HELP = '<img src="images/icon_phoenix.png" class="mr-2">Help';
-const GET_ADDONS = '<img src="images/icon_phoenix.png" class="mr-2">Addons';
+const GET_HELP = '<img alt="" src="images/icon_phoenix.png" class="me-2">Help';
+const GET_ADDONS = '<img alt="" src="images/icon_phoenix.png" class="me-2">Addons';
 const ADDONS_FREE = 'Gratis';
 const ADDONS_COMMERCIAL = 'Betaald';
 const ADDONS_PRO = 'PRO';

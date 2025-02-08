@@ -72,8 +72,8 @@ const ERROR_ADVERT_IMAGE_OR_TEXT_REQUIRED = '<strong>Error:</strong> U heeftt ge
 const TEXT_DISPLAY_NUMBER_OF_ADVERTS = 'Weergeven <b>%s</b> van <b>%s</b> of <b>%s</b> Advertentie';
 const IMAGE_NEW_ADVERT = 'Nieuwe advertentie';
 
-const TEXT_ADVERT_EXTERNAL_URL = '<i class="fas fa-external-link-alt mr-1"></i> uitgaande link:<br>%s';
-const TEXT_ADVERT_INTERNAL_URL = '<i class="fas fa-link mr-1"></i> interne link:<br>%s';
+const TEXT_ADVERT_EXTERNAL_URL = '<i class="fas fa-external-link-alt me-1"></i> uitgaande link:<br>%s';
+const TEXT_ADVERT_INTERNAL_URL = '<i class="fas fa-link me-1"></i> interne link:<br>%s';
 
 const IMAGE_IMPORT_ADVERT = 'Poging banner import';
 const IMAGE_IMPORT_ADVERT_EXPLANATION = 'Dit importeert gegevens uit de databasetabel "banners". Mogelijk moet u sommige gegevens na het importeren verwijderen, aangezien "banners" nooit bedoeld waren voor carrouselgebruik...';
