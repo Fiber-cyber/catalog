@@ -10,6 +10,6 @@
   Released under the GNU General Public License
 */
 
-  const BOX_HEADING_CUSTOMERS = '<i title="Klanten" class="fas fa-users fa-fw me-1"></i><span title="Klanten" class="d-xl-none">Klanten</span>'
+  const BOX_HEADING_CUSTOMERS = '<i title="Klanten" class="fas fa-users fa-fw me-1"></i><span title="Klanten" class="d-xl-none">Klanten</span>';
   
   
