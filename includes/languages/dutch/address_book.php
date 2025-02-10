@@ -17,11 +17,10 @@ const HEADING_TITLE = 'Mijn persoonlijk adresboek';
 
 const PRIMARY_ADDRESS_TITLE = 'Hoofdadres';
 const PRIMARY_ADDRESS_DESCRIPTION = <<<'EOT'
-Dit adres wordt gebruikt als het vooraf geselecteerde verzend- en factuuradres voor bestellingen die in deze winkel zijn geplaatst.<br><br>
-Dit adres wordt ook gebruikt als basis voor de berekening van de leveringskosten en de daarbij behorende BTW Tarieven.
+Dit adres wordt gebruikt als vooraf geselecteerd levering- en factuuradres voor bestellingen die in deze winkel worden geplaatst en als adres voor de berekening van artikel- en de bijbehorende BTW Tarieven.
 EOT;
 const ADDRESS_BOOK_TITLE = 'Adres boekvermeldingen';
 
 const PRIMARY_ADDRESS = '(hoofd adres)';
 
-const TEXT_MAXIMUM_ENTRIES = '<span class="text-danger">NOTE:</span> Een maximum van %s adressen toegestaan.';
+const TEXT_MAXIMUM_ENTRIES = '<span class="text-danger-emphasis">NOTE:</span> Een maximum van %s adressen toegestaan.';

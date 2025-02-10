@@ -25,8 +25,8 @@ const ENTRY_MANUFACTURERS = 'Fabrikanten';
 const ENTRY_PRICE_FROM = 'Prijs van';
 const ENTRY_PRICE_TO = 'Prijs tot';
 
-const ENTRY_PRICE_FROM_TEXT = 'Van';
-const ENTRY_PRICE_TO_TEXT = 'Tot';
+const ENTRY_PRICE_FROM_TEXT = 'Geprijsd van';
+const ENTRY_PRICE_TO_TEXT = 'Geprijsd tot';
 
 const ENTRY_PRICE = 'Prijs';
 
