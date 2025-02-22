@@ -30,7 +30,7 @@ define('IMAGE_BUTTON_ADD_REVIEW', 'Verzend uw recensie naar de winkeleigenaar');
 
 define('TEXT_REVIEW_RECEIVED', 'Bedankt voor uw recensie van %s! Het is ter goedkeuring naar de winkeleigenaar gestuurd en zou binnenkort op de site moeten verschijnen.');
 
-define('TEXT_REVIEW_WRITING', '<p class="lead">%s, laat ons alstublieft uw mening en beoordeling weten %s - dank u wel!</p><p>Nadat u op de knop "Verzenden" hebt gedrukt, gaat deze ter goedkeuring naar de winkeleigenaar en zou deze binnenkort op de site moeten verschijnen. Bedankt voor uw tijd...</p>');
+define('TEXT_REVIEW_WRITING', '<p class="lead">%s, laat ons alstublieft uw mening en beoordeling weten over %s - dank u wel!</p><p>Nadat u op de knop "Verzenden" hebt gedrukt, gaat deze ter goedkeuring naar de winkeleigenaar en zou deze binnenkort op de site moeten verschijnen. Bedankt voor uw tijd...</p>');
 
 define('TEXT_NOT_PURCHASED', '%s er lijkt een conflict te zijn!  U heeft dit artikel niet gekocht!');
 define('TEXT_ALREADY_REVIEWED', '%s er lijkt een conflict te zijn!  U heeft dit artikel al beoordeeld!');
