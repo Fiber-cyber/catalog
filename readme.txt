@@ -1,4 +1,4 @@
-PhoenixCart Nederlands 1.1.0.0
+PhoenixCart Nederlands 1.1.0.1
 
 =======
 Vertaald door Fiber
@@ -25,7 +25,8 @@ Login in de Admin van je Shop..
 ===
 Toegevoegd zones_dutch.sql en zones_belgie.sql met alle zones van Nederland en België
 ===
-PhoenixCart 1.1.0.0
+PhoenixCart 1.1.0.1
+
 =======
 Translated by Fiber
 =====
