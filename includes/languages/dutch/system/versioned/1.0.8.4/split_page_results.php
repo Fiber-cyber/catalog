@@ -34,7 +34,7 @@ const TABLE_HEADING_MANUFACTURER = 'Fabrikant';
 const TABLE_HEADING_QUANTITY = 'Voorraad';
 const TABLE_HEADING_PRICE = 'Prijs';
 const TABLE_HEADING_WEIGHT = 'Gewicht';
-const TABLE_HEADING_BUY_NOW = 'KOPP NU';
+const TABLE_HEADING_BUY_NOW = 'KOOP NU';
 const TABLE_HEADING_LATEST_ADDED = 'Datum toegevoegd';
 const TABLE_HEADING_ORDERED = 'Meest Populair';
 

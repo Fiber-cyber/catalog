@@ -14,4 +14,4 @@ const NAVBAR_TITLE = 'Maak een profiel aan';
 
 const HEADING_TITLE = 'Mijn profiel informatie';
 
-const TEXT_ORIGIN_LOGIN = '<span class="text-danger"><strong>NOTE:</strong></span> Als u al een profiel heeft aangemaakt, kunt u hier <a class="alert-link" href="%s"><u>Inloggen</u></a>.';
+const TEXT_ORIGIN_LOGIN = '<strong>NOTE:</strong> Als u al een profiel heeft aangemaakt, kunt u zich hier <a class="alert-link" href="%s"><u>Aanmelden</u></a>.';

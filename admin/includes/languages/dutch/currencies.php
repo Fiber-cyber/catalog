@@ -42,6 +42,6 @@ const ERROR_REMOVE_DEFAULT_CURRENCY = '<strong>Fout:</strong> De standaardvaluta
 const ERROR_CURRENCY_INVALID = '<strong>Fout:</strong> De wisselkoers voor for %s (%s) is niet bijgewerkt via %s. Is het een geldige valutacode?';
 const WARNING_PRIMARY_SERVER_FAILED = '<strong>Waarschuwing:</strong> De huidige wisselkoers server (%s) maakt geen verbinding %s (%s) - probeer de secundaire wisselkoersserver.';
 
-const ERROR_INSTALL_CURRENCY_CONVERTER = 'U heeft geen valuta conversiemodule geïnstalleerd.  <a class="alert-link font-weight-bold" href="%s">Installeer Nu</a>';
+const ERROR_INSTALL_CURRENCY_CONVERTER = 'U heeft geen valuta conversiemodule geïnstalleerd.  <a class="alert-link fw-bold" href="%s">Installeer Nu</a>';
 
 const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Currencies';
