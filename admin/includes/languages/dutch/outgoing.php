@@ -50,7 +50,7 @@ const CUSTOMER_SELECT = '--- By Klant ---';
 const READY_EMAILS_SENT = 'SUCCES: Klaar E-mails Verzonden';
 
 const BUTTON_SEND_READY_EMAILS = 'Verzend E-mails die klaar zijn';
-const BUTTON_INSERT_NEW_OUTGOING = 'Nieuw e-mailadres invoegen';
+const BUTTON_INSERT_NEW_OUTGOING = 'Nieuwe e-mail invoegen';
 const IMAGE_VIEW_EMAIL = 'Bekijk deze E-mail';
 
 const GET_HELP_LINK = 'https://phoenixcart.org/phoenixcartwiki/index.php?title=Queued_Emails';
