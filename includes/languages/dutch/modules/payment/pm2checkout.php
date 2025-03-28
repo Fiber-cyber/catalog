@@ -20,7 +20,7 @@
   Als u deze link gebruikt, ontvangt Phoenix eenmalig een gratis voordeel, zonder dat het u iets kost.
 </div>
 <h6>Credit Card Test Info</h6>
-<dl class="row no-gutters">
+<dl class="row g-0">
   <dt class="col-sm-4">CC#</dt>
   <dd class="col-sm-8">4111111111111111</dd>
   <dt class="col-sm-4">Vervaldatum</dt>

@@ -13,7 +13,7 @@
   const MODULE_CONTENT_TESTIMONIALS_WRITE_TITLE        = 'Schrijf een aanbeveling';
   const MODULE_CONTENT_TESTIMONIALS_WRITE_DESCRIPTION  = 'Sta toe dat de klant een aanbeveling schrijft.';
 
-  const MODULE_CONTENT_TESTIMONIALS_WRITE_BUTTON_TEXT = '<i class="fas fa-pen mr-2 me-2"></i>Schrijf een Aanbeveling';
+  const MODULE_CONTENT_TESTIMONIALS_WRITE_BUTTON_TEXT = '<i class="fas fa-pen me-2 me-2"></i>Schrijf een Aanbeveling';
 
   const MODULE_CONTENT_TESTIMONIALS_WRITE_PUBLIC_TEXT = 'Vertel ons wat u ons wilt laten weten. Deze opmerkingen kunnen openbaar worden op deze pagina, dus u kunt beter een bijnaam gebruiken in plaats van uw echte naam.';
 
