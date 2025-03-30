@@ -16,7 +16,7 @@ const MODULE_CONTENT_FOOTER_CONTACT_US_DESCRIPTION = 'Voeg een Contact ons toe a
 const MODULE_CONTENT_FOOTER_CONTACT_US_HEADING_TITLE = 'Gegevens';
 const MODULE_CONTENT_FOOTER_CONTACT_US_EMAIL_LINK = 'Contact Ons';
   
-const MODULE_CONTENT_FOOTER_CONTACT_US_PHONE = '<i class="fas fa-phone fa-fw mr-1" title="Telefoon"></i>';
-const MODULE_CONTENT_FOOTER_CONTACT_US_EMAIL = '<i class="fas fa-at fa-fw mr-1" title="E-mail"></i>';
+const MODULE_CONTENT_FOOTER_CONTACT_US_PHONE = '<i class="fas fa-phone fa-fw me-1" title="Telefoon"></i>';
+const MODULE_CONTENT_FOOTER_CONTACT_US_EMAIL = '<i class="fas fa-at fa-fw me-1" title="E-mail"></i>';
 
 const MODULE_CONTENT_FOOTER_CONTACT_US_TAX_ID = 'BTW Nummer: %s';

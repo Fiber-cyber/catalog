@@ -12,7 +12,7 @@
   
   const MODULE_PAYMENT_2CHECKOUT_TEXT_TITLE = '2Checkout';
   const MODULE_PAYMENT_2CHECKOUT_TEXT_PUBLIC_TITLE = '2Checkout';
-  const MODULE_PAYMENT_2CHECKOUT_TEXT_PUBLIC_DESCRIPTION = 'CKredietkaarten en alternatieven';
+  const MODULE_PAYMENT_2CHECKOUT_TEXT_PUBLIC_DESCRIPTION = 'Kredietkaarten en alternatieven';
   const MODULE_PAYMENT_2CHECKOUT_TEXT_DESCRIPTION = <<<'EOT'
 <div class="alert alert-info">
   Als u nog geen 2checkout-account heeft, kunt u zich veilig aanmelden via <a class="alert-link" href="https://www.2checkout.com/referral?r=ffc78bd5c5" target="_blank" rel="noreferrer">deze link</a>.
@@ -20,7 +20,7 @@
   Als u deze link gebruikt, ontvangt Phoenix eenmalig een gratis voordeel, zonder dat het u iets kost.
 </div>
 <h6>Credit Card Test Info</h6>
-<dl class="row no-gutters">
+<dl class="row g-0">
   <dt class="col-sm-4">CC#</dt>
   <dd class="col-sm-8">4111111111111111</dd>
   <dt class="col-sm-4">Vervaldatum</dt>
