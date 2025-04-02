@@ -12,7 +12,7 @@
 
   const MODULE_CONTENT_FOOTER_EXTRA_ICONS_TITLE = 'Footer Icons';
   const MODULE_CONTENT_FOOTER_EXTRA_ICONS_DESCRIPTION = <<<'EOT'
-Voeg FontAwesome-pictogrammen toe aan de footer van uw shop.<div class="alert alert-info">Beschikbare pictogrammen worden hier weergegeven: https://fontawesome.com/search?o=r&m=free</div>
+Voeg FontAwesome-pictogrammen toe aan de footer van uw shop.<div class="alert alert-info">Beschikbare pictogrammen worden hier weergegeven: https://fontawesome.com/v5/search?o=r&ic=free&c=payments-shopping</div>
 EOT;
 
   const MODULE_CONTENT_FOOTER_EXTRA_ICONS_TEXT = '';
