@@ -24,6 +24,7 @@
   const MODULE_PAYMENT_STRIPE_SCA_TEXT_TITLE = 'Stripe SCA';
   const MODULE_PAYMENT_STRIPE_SCA_TEXT_PUBLIC_TITLE = 'Krediet Kaart (Stripe SCA)';
   const MODULE_PAYMENT_STRIPE_SCA_TEXT_DESCRIPTION = '<i class="fas fa-external-link-alt me-2"></i><a href="https://www.stripe.com" target="_blank" rel="noopener">Bezoek de Stripe Website</a>';
+  const MODULE_PAYMENT_STRIPE_SCA_TEXT_INSTRUCTIONS = '<p>Instructie(s):<br><i class="fas fa-external-link-alt"></i>&nbsp;<a href="https://phoenixcart.org/phoenixcartwiki/index.php?title=Payment#Stripe_SCA" target="_blank" rel="noopener" style="text-decoration: underline; font-weight: bold;">Webhook Setup</a></p>';
 
   const MODULE_PAYMENT_STRIPE_SCA_ERROR_ADMIN_CURL = 'Voor deze module moet cURL ingeschakeld zijn in de PHP configuratie. De module wordt pas geladen als cURL is ingeschakeld op deze webserver.';
   const MODULE_PAYMENT_STRIPE_SCA_ERROR_ADMIN_CONFIGURATION = 'Deze module wordt niet geladen totdat de Publiseerbare Key en Secret Key parameters zijn geconfigureerd. Bewerk en configureer de instellingen van deze module.';
