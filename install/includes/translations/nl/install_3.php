@@ -26,7 +26,7 @@ const TEXT_ADMIN_PASSWORD = 'Administrator wachtwoord';
 const TEXT_ADMIN_PASSWORD_EXPLANATION = '<small class="form-text"> Het wachtwoord dat moet worden gebruikt voor het beheerdersaccount.</small>';
 const TEXT_ADMIN_DIRECTORY = 'Naam administratiemap';
 const TEXT_ADMIN_DIRECTORY_EXPLANATION = '<small class="form-text"> Dit is de map waar het beheergedeelte wordt geïnstalleerd. U dient dit om veiligheidsredenen te wijzigen.</small>';
-const TEXT_ADMIN_DIRECTORY_ERROR = 'Om veiligheidsredenen moet u de directory \'admin\' wijzigen Om veiligheidsredenen.';
+const TEXT_ADMIN_DIRECTORY_ERROR = 'Om veiligheidsredenen moet u de directory \'admin\' wijzigen.';
 const TEXT_TIME_ZONE = 'Tijd Zone';
 const TEXT_TIME_ZONE_EXPLANATION = '<small class="form-text"> De tijdzone waarop de datum en tijd worden gebaseerd.</small>';
 const TEXT_CONTINUE_STEP_4 = 'Doorgaan naar stap 4';
