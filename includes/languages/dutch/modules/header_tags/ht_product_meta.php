@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_HEADER_TAGS_PRODUCT_META_TITLE', 'Artikel SEO');
-  define('MODULE_HEADER_TAGS_PRODUCT_META_DESCRIPTION', 'Voeg de SEO Meta elementen toe, gedefineerd bij het instellen van een artikel, naar de header van de artikelpagina');
+  const MODULE_HEADER_TAGS_PRODUCT_META_TITLE = 'Artikel SEO';
+  const MODULE_HEADER_TAGS_PRODUCT_META_DESCRIPTION = 'Voeg de SEO Meta elementen toe, gedefineerd bij het instellen van een artikel, naar de header van de artikelpagina';

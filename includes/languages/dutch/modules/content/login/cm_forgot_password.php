@@ -11,9 +11,9 @@
   
 */
 
-  define('MODULE_CONTENT_FORGOT_PASSWORD_TITLE', 'Wachtwoord vergeten');
-  define('MODULE_CONTENT_FORGOT_PASSWORD_DESCRIPTION', 'Toon een link waarmee de klant het wachtwoord kan resetten op de inlogpagina');
+  const MODULE_CONTENT_FORGOT_PASSWORD_TITLE = 'Wachtwoord vergeten';
+  const MODULE_CONTENT_FORGOT_PASSWORD_DESCRIPTION = 'Toon een link waarmee de klant het wachtwoord kan resetten op de inlogpagina';
 
-  define('MODULE_CONTENT_FORGOT_PASSWORD_INTRO_TEXT', 'Wachtwoord vergeten?  Geen probleem!');
-  define('MODULE_CONTENT_FORGOT_PASSWORD_BUTTON_TEXT', 'Wachtwoord opnieuw instellen');
+  const MODULE_CONTENT_FORGOT_PASSWORD_INTRO_TEXT = 'Wachtwoord vergeten?  Geen probleem!';
+  const MODULE_CONTENT_FORGOT_PASSWORD_BUTTON_TEXT = 'Wachtwoord opnieuw instellen';
   

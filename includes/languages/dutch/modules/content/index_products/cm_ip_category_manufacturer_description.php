@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_CONTENT_IP_CATEGORY_DESCRIPTION_TITLE', 'Categorie/fabrikant beschrijving');
-  define('MODULE_CONTENT_IP_CATEGORY_DESCRIPTION_DESCRIPTION', 'Toon de categorie/fabrikant beschrijving op product niveau in index.php');
+  const MODULE_CONTENT_IP_CATEGORY_DESCRIPTION_TITLE = 'Categorie/fabrikant beschrijving';
+  const MODULE_CONTENT_IP_CATEGORY_DESCRIPTION_DESCRIPTION = 'Toon de categorie/fabrikant beschrijving op product niveau in index.php';
