@@ -22,7 +22,7 @@ const TEXT_ALL_MANUFACTURERS = 'Alle Fabrikanten';
 
 // seo
 if ( ($category_depth == 'top') && (!isset($_GET['manufacturers_id'])) ) {
-  const META_SEO_TITLE = 'Index Pagina Titel';
-  const META_SEO_DESCRIPTION = 'Dit is de beschrijving van uw site die in het META-beschrijvingselement kan worden gebruikt';
+  define('META_SEO_TITLE', 'Welkom in onze Online Winkel');
+  define('META_SEO_DESCRIPTION','Ontdek onze ruime keuze van artikelen, en geniet van eenvoudig online winkelen met een geweldige klantenservice');
 }
 
