@@ -11,5 +11,5 @@ $Id$
   
 */
 
-  define('MODULE_CONTENT_IN_CATEGORY_LISTING_TITLE', 'Sub Categorie Lijst');
-  define('MODULE_CONTENT_IN_CATEGORY_LISTING_DESCRIPTION', 'Als de Categorie sub-categories heeft, laat ze zien.');
+  const MODULE_CONTENT_IN_CATEGORY_LISTING_TITLE = 'Sub Categorie Lijst';
+  const MODULE_CONTENT_IN_CATEGORY_LISTING_DESCRIPTION = 'Als de Categorie sub-categories heeft, laat ze zien.';

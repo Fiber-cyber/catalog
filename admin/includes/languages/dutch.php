@@ -9,7 +9,7 @@
 
   Released under the GNU General Public License
 
-  Vertaald door Fiber - Phoenix 1.1.0.1
+  Vertaald door Fiber - Phoenix 1.1.0.2
 
 */
 

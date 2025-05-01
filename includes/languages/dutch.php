@@ -8,7 +8,7 @@
 
   Released under the GNU General Public License
   
-  Vertaald door Fiber - Phoenix 1.1.0.1
+  Vertaald door Fiber - Phoenix 1.1.0.2
 */
 
 // look in your $PATH_LOCALE/locale directory for available locales
@@ -52,27 +52,16 @@ const ERROR_NO_PAYMENT_MODULE_SELECTED = 'Selecteer een betalingsmethode voor uw
 
 const IMAGE_BUTTON_ADD_ADDRESS = 'Voeg adres toe';
 const IMAGE_BUTTON_BACK = 'Terug';
-const IMAGE_BUTTON_BUY_NOW = 'Koop nu';
-const IMAGE_BUTTON_CHANGE_ADDRESS = 'Verander adres';
-const IMAGE_BUTTON_CHECKOUT = 'Afrekenen';
 const IMAGE_BUTTON_CLOSE = 'Sluiten';
-const IMAGE_BUTTON_CONFIRM_ORDER = 'Bevestig bestelling';
+const IMAGE_BUTTON_CONTACT_US = 'Contact Ons';
 const IMAGE_BUTTON_CONTINUE = 'Doorgaan';
 const IMAGE_BUTTON_DELETE = 'Verwijder';
-const IMAGE_BUTTON_LOGIN = 'Log In';
-const IMAGE_BUTTON_IN_CART = 'Voeg toe aan de winkelwagen';
 const IMAGE_BUTTON_SEARCH = 'Zoeken';
 const IMAGE_BUTTON_UPDATE = 'Update';
-const IMAGE_BUTTON_UPDATE_PREFERENCES = 'Voorkeuren bijwerken';
+const IMAGE_BUTTON_UPDATE_PREFERENCES = 'Update Voorkeuren';
 
-const SMALL_IMAGE_BUTTON_DELETE = 'Verwijder';
-const SMALL_IMAGE_BUTTON_EDIT = 'Bewerk';
-const SMALL_IMAGE_BUTTON_VIEW = 'bekijk';
-const SMALL_IMAGE_BUTTON_BUY = 'Koop';
-
-const TEXT_CCVAL_ERROR_INVALID_DATE = 'De opgegeven vervaldatum voor de creditcard is ongeldig. Controleer de datum en probeer het opnieuw.';
-const TEXT_CCVAL_ERROR_INVALID_NUMBER = 'Het opgegeven creditcardnummer is ongeldig. Controleer het nummer en probeer het opnieuw.';
-const TEXT_CCVAL_ERROR_UNKNOWN_CARD = 'De eerste vier cijfers van het ingevoerde nummer zijn: %s. Als dat nummer correct is, accepteren we dat type creditcard niet. Probeer het opnieuw als het fout is.';
+const SMALL_IMAGE_BUTTON_DELETE = 'Delete';
+const SMALL_IMAGE_BUTTON_EDIT = 'Edit';
 
 const TEXT_SEARCH_PLACEHOLDER = 'Zoeken';
 

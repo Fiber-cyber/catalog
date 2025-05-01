@@ -11,5 +11,5 @@
   
 */
 
-define('NAVBAR_TITLE', 'Klantbevindingen');
-define('HEADING_TITLE', 'Klantbevindingen');
+ const NAVBAR_TITLE = 'Klantbevindingen';
+ const HEADING_TITLE = 'Klantbevindingen';
