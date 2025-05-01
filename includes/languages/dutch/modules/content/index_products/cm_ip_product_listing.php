@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-  define('MODULE_CONTENT_IP_PRODUCT_LISTING_TITLE', 'Artikel vermelding');
-  define('MODULE_CONTENT_IP_PRODUCT_LISTING_DESCRIPTION', 'Toon de artikellijst voor categorie / fabrikant.');
+  const MODULE_CONTENT_IP_PRODUCT_LISTING_TITLE = 'Artikel vermelding';
+  const MODULE_CONTENT_IP_PRODUCT_LISTING_DESCRIPTION = 'Toon de artikellijst voor categorie / fabrikant.';
