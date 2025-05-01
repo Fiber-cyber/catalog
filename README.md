@@ -4,7 +4,7 @@ Vertaling door Fiber
 
 Als je de installatie in het Nederlands wilt doe dan het volgende zoals hieronder beschreven.
 Kopieër en/of knip en plak de map install uit deze download naar de root van je shop.
-(Locatie is install\includes\translations\)
+(Locatie is install\includes\translations)
  
 Installatie is nu in het Nederlands.
 
