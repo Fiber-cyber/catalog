@@ -1,10 +1,10 @@
-PhoenixCart 1.1.0.2
+
 
 Vertaling door Fiber
 
 Als je de installatie in het Nederlands wilt doe dan het volgende zoals hieronder beschreven.
 Kopieër en/of knip en plak de map install uit deze download naar de root van je shop.
-(Locatie is install\includes\translations\)
+(Locatie is install\includes\translations)
  
 Installatie is nu in het Nederlands.
 
@@ -25,7 +25,7 @@ Login in de Admin van je Shop.
 Toegevoegd zones-dutch.sql en zones-belgie.sql met alle zones van Nederland en België
 
 =======
-PhoenixCart 1.1.0.2
+
 
 Translated by Fiber
 
