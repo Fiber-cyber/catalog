@@ -30,3 +30,4 @@
   ';
 
  const MODULE_CONTENT_GDPR_NUKE_MESSAGESTACK_NUKED = 'Je profiel is verwijderd!';
+ const MODULE_CONTENT_GDPR_NUKE_MESSAGESTACK_PASSWORD_INCORRECT = 'Onjuist wachtwoord. Uw profiel is niet verwijderd.';
