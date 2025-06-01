@@ -20,7 +20,7 @@ const TABLE_HEADING_ACTION = 'Actie';
 
 const TEXT_DATE_ACCOUNT_CREATED = 'Account aangemaakt: %s';
 const TEXT_DATE_ACCOUNT_LAST_MODIFIED = 'Laatst gewijzigd: %s';
-const TEXT_INFO_DATE_LAST_LOGON = 'Laats ingelogd: %s';
+const TEXT_INFO_DATE_LAST_LOGON = 'Laatst ingelogd: %s';
 const TEXT_INFO_NUMBER_OF_LOGONS = 'Aantal aanmeldingen: %s';
 const TEXT_INFO_COUNTRY = 'Land: %s';
 const TEXT_INFO_NUMBER_OF_REVIEWS = 'Aantal beoordelingen: %s';
