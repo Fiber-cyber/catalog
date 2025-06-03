@@ -29,7 +29,7 @@ const TEXT_NEWSLETTER_DATE_SENT = 'Datum verzonden: %s';
 
 const TEXT_INFO_DELETE_INTRO = 'Weet u het zeker dat u deze nieuwsbrief wilt verwijderen?';
 
-const TEXT_PLEASE_WAIT = 'Even geduld ... e-mails verzenden ..<br /><br />Onderbreek dit proces niet AUB!';
+const TEXT_PLEASE_WAIT = 'Even geduld ... e-mails verzenden ..<br><br>Onderbreek dit proces niet AUB!';
 const TEXT_FINISHED_SENDING_EMAILS = 'Klaar met het verzenden van de e-mails!';
 
 const ERROR_NEWSLETTER_TITLE = '<strong>FOUT:</strong> Nieuwsbrief titel verplicht';

@@ -34,10 +34,10 @@ const HTPASSWD_INFO = <<<'EOT'
 <p>Door de htaccess / htpasswd-beveiligingslaag in te schakelen, worden de gebruikersnaam en wachtwoorden van de beheerder automatisch opgeslagen in een htpasswd-bestand bij het bijwerken van beheerderswachtwoordrecords.</p>
 <p><strong>Houd er rekening mee dat</strong>, als deze extra beveiligingslaag is ingeschakeld en u geen toegang meer hebt tot de Beheerders Tool,
 breng dan de volgende wijzigingen aan en raadpleeg uw hostingprovider om htaccess / htpasswd-bescherming in te schakelen:</p>
-<p><u><strong>1. Bewerk dit bestand:</strong></u><br /><br />%s</p>
+<p><u><strong>1. Bewerk dit bestand:</strong></u><br><br>%s</p>
 <p>Verwijder de volgende regels als ze er zijn:</p>
 <p><i>%s</i></p>
-<p><u><strong>2. Verwijder dit bestand:</strong></u><br /><br />%s</p>
+<p><u><strong>2. Verwijder dit bestand:</strong></u><br><br>%s</p>
 EOT;
 const HTPASSWD_SECURED = <<<'EOT'
 <strong>Extra bescherming met htaccess / htpasswd</strong>
