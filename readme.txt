@@ -1,5 +1,6 @@
 PhoenixCart Nederlands 1.1.0.5
 =======
+
 Vertaald door Fiber
 =======
 Als je de installatie in het Nederlands wilt doe dan het volgende zoals hieronder beschreven.
