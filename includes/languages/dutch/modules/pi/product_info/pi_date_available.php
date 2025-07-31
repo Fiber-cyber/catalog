@@ -13,4 +13,4 @@
   const PI_DATE_AVAILABLE_TITLE       = 'Datum Beschikbaar';
   const PI_DATE_AVAILABLE_DESCRIPTION = 'Geeft de toekomstige beschikbare datum weer (indien ingesteld) op de artikel-infopagina.';
 
-  const PI_DATE_AVAILABLE_TEXT        = 'Beschikbaar vanaf:<span class="badge badge-primary badge-pill text-bg-info">%s</span>';
+  const PI_DATE_AVAILABLE_TEXT        = 'Beschikbaar vanaf:<span class="badge bg-primary rounded-pill text-bg-info">%s</span>';

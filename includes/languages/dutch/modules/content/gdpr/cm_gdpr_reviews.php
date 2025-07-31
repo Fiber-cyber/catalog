@@ -21,7 +21,7 @@
   const MODULE_CONTENT_GDPR_REVIEWS_ANONYMIZE = '<i class="fas fa-user-secret text-white"></i>';
   const MODULE_CONTENT_GDPR_REVIEWS_DELETE = '<i class="fas fa-trash"></i>';
 
-  const MODULE_CONTENT_GDPR_REVIEWS_ANONYMIZED = ' <label class="badge badge-secondary">Geanonimiseerd!</label>';
+  const MODULE_CONTENT_GDPR_REVIEWS_ANONYMIZED = ' <label class="badge bg-secondary">Geanonimiseerd!</label>';
   const MODULE_CONTENT_GDPR_REVIEWS_ANONYMIZED_NAME = 'Anoniem [geverifieerde klant]';
 
   const MODULE_CONTENT_GDPR_REVIEWS_ANON = '<small>U kunt uw beoordelingen indien gewenst anonimiseren door op de blauwe knop te klikken.</small>';

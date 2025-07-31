@@ -14,3 +14,6 @@
   const PI_QTY_INPUT_DESCRIPTION = 'Geeft een hoeveelheid invoervak weer op de product_info pagina.<div class="alert alert-info">Dit is een child module voor gebruik met het &pi; systeem.</div>';
 
   const PI_QTY_INPUT_BUTTON_TEXT = 'Aantal:';
+  
+  const PI_QTY_INPUT_INCREASE = 'Aantal verhogen';
+  const PI_QTY_INPUT_DECREASE = 'Aantal verminderen';
