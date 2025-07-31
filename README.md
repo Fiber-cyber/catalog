@@ -1,4 +1,7 @@
+====
 PhoenixCart 1.1.0.4
+=======
+
 
 Vertaling door Fiber
 
@@ -26,6 +29,8 @@ Toegevoegd zones-dutch.sql en zones-belgie.sql met alle zones van Nederland en B
 
 =======
 PhoenixCart 1.1.0.4
+=======
+
 
 Translated by Fiber
 
