@@ -32,7 +32,7 @@ const MISSING_SLUGS = '<div class="alert alert-danger d-flex justify-content-bet
 <span>%s</span>
 </div>';
 
-const TEXT_HEADING_NEW_OUTGOING_EMAIL = 'Nieuwe e-mail templatetoevoegen';
+const TEXT_HEADING_NEW_OUTGOING_EMAIL = 'Nieuwe e-mail template toevoegen';
 const TEXT_HEADING_EDIT_OUTGOING_EMAIL = 'Bewerk E-mail Template';
 const TEXT_HEADING_DELETE_OUTGOING_EMAIL = 'Verwijder E-mail uit de wachtrij';
 
