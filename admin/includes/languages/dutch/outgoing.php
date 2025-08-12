@@ -23,6 +23,7 @@ const TEXT_HEADING_EDIT_OUTGOING_EMAIL = 'Bewerk wachrij E-mail';
 const TEXT_OUTGOING_DATE = 'Verzenden op:';
 const TEXT_OUTGOING_SLUG = 'Slug:';
 const TEXT_OUTGOING_EMAIL = 'E-mail Adres:';
+const TEXT_OUTGOING_i18n = 'Taal:';
 
 const TEXT_HEADING_NEW_OUTGOING_EMAIL = 'E-mail toevoegen aan de wachtrij';
 const TEXT_OUTGOING_CUSTOMER = 'Klant:';
