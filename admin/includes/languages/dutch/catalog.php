@@ -89,7 +89,7 @@ const TEXT_PRODUCTS_LARGE_IMAGE_FILE = 'Bestand';
 const TEXT_PRODUCTS_LARGE_IMAGE_SORT = 'Sorteer';
 const TEXT_PRODUCTS_LARGE_IMAGE_ACTION = 'Actie';
 const TEXT_PRODUCTS_ADD_LARGE_IMAGE = '<i class="fas fa-plus me-2"></i>Nieuwe galerijafbeelding toevoegen';
-const TEXT_PRODUCTS_DELETE_LARGE_IMAGES = '<i class="fas fa-trash me-2"></i>Verwijder alles</a>';
+const TEXT_PRODUCTS_DELETE_LARGE_IMAGES = '<i class="fas fa-trash me-2"></i>Verwijder alles';
 const TEXT_PRODUCTS_URL = 'Artikel URL';
 const TEXT_PRODUCTS_URL_WITHOUT_HTTP = 'Zorg ervoor dat de URL begint met http:// or https://';
 const TEXT_PRODUCTS_PRICE_NET = 'Artikel Prijs (netto)';
