@@ -23,11 +23,12 @@ const TEXT_HEADING_EDIT_OUTGOING_EMAIL = 'Bewerk wachrij E-mail';
 const TEXT_OUTGOING_DATE = 'Verzenden op:';
 const TEXT_OUTGOING_SLUG = 'Slug:';
 const TEXT_OUTGOING_EMAIL = 'E-mail Adres:';
+const TEXT_OUTGOING_i18n = 'Taal:';
 
 const TEXT_HEADING_NEW_OUTGOING_EMAIL = 'E-mail toevoegen aan de wachtrij';
 const TEXT_OUTGOING_CUSTOMER = 'Klant:';
 
-const TEXT_HEADING_DELETE_OUTGOING_EMAIL = 'Verwidjer E-mail uit de wachtrij';
+const TEXT_HEADING_DELETE_OUTGOING_EMAIL = 'Verwijder E-mail uit de wachtrij';
 
 const TEXT_NEW_INTRO = 'Vul de volgende gegevens in voor het nieuwe e-mailbericht';
 const TEXT_EDIT_INTRO = 'Breng de nodige wijzigingen aan';
@@ -44,8 +45,8 @@ const TEXT_DISPLAY_NUMBER_OF_OUTGOING = 'Weergeven van <b>%s</b> tot <b>%s</b> v
 const HEADING_SEARCH = 'Filter: ';
 const BUTTON_SEARCH = 'Gaan';
 
-const SLUG_SELECT = '--- By Slug ---';
-const CUSTOMER_SELECT = '--- By Klant ---';
+const SLUG_SELECT = '--- Bij Slug ---';
+const CUSTOMER_SELECT = '--- Bij Klant ---';
 
 const READY_EMAILS_SENT = 'SUCCES: Klaar E-mails Verzonden';
 

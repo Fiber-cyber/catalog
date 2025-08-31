@@ -1,6 +1,6 @@
-
-PhoenixCart Nederlands 1.1.0.4
+PhoenixCart Nederlands 1.1.0.5
 =======
+
 Vertaald door Fiber
 =======
 Als je de installatie in het Nederlands wilt doe dan het volgende zoals hieronder beschreven.
@@ -24,8 +24,9 @@ Login in de Admin van je Shop..
 
 ===
 Toegevoegd zones_dutch.sql en zones_belgie.sql met alle zones van Nederland en België
-PhoenixCart 1.1.0.4
-
+===
+PhoenixCart 1.1.0.5
+=======
 Translated by Fiber
 =====
 If you want the installation in Dutch, do the following as described below.
