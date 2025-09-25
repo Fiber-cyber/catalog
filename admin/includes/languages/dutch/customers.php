@@ -16,6 +16,7 @@ const HEADING_TITLE_SEARCH = 'Zoeken:';
 const TABLE_HEADING_ID = 'ID';
 const TABLE_HEADING_NAME = 'Naam';
 const TABLE_HEADING_ACCOUNT_CREATED = 'Account aangemaakt';
+const TABLE_HEADING_STATUS = 'Status';
 const TABLE_HEADING_ACTION = 'Actie';
 
 const TEXT_DATE_ACCOUNT_CREATED = 'Account aangemaakt: %s';
