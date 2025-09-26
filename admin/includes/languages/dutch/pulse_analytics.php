@@ -1,4 +1,4 @@
-<?php/*  $Id$  CE Phoenix, E-Commerce made Easy  https://phoenixcart.org  Copyright (c) 2025 Phoenix Cart  Released under the GNU General Public License*/
+<?php/*  $Id$  CE Phoenix, E-Commerce made Easy  https://phoenixcart.org  Copyright (c) 2025 Phoenix Cart  Released under the GNU General Public License*/
 const HEADING_TITLE = 'Pulse';
 const TEXT_DISPLAY_NUMBER_OF_EVENTS = 'Weergave van <b>%s</b> tot <b>%s</b> van <b>%s</b> evenementen';
 const TABLE_HEADING_EVENT_TYPE = 'Event Type';const TABLE_HEADING_PRODUCT_ID = 'Artikel ID';const TABLE_HEADING_CUSTOMER_ID = 'Klant ID';const TABLE_HEADING_CREATED_AT = 'Tijd';const TABLE_HEADING_ACTION = 'Actie';
