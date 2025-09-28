@@ -7,6 +7,7 @@
   https://phoenixcart.org
 
   Copyright (c) 2025 Phoenix Cart
+  
   Released under the GNU General Public License
 */
 
