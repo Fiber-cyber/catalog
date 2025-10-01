@@ -1,6 +1,6 @@
 # PhoenixCart 1.1.0.7 Nederlandse vertaling
 
-Deze repository bevat een volledige Nederlandse vertaling van PhoenixCart 1.1.0.6, samengesteld door **Fiber**.
+Deze repository bevat een volledige Nederlandse vertaling van PhoenixCart 1.1.0.7, samengesteld door **Fiber**.
 
 ## Installatie
 
