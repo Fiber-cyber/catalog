@@ -23,7 +23,7 @@ const TABLE_HEADING_CREATED_AT = 'Tijd';
 const TABLE_HEADING_ACTION = 'Actie';
 
 const TEXT_INFO_HEADING_DELETE_EVENT = 'Verwijder Evenement';
-const TEXT_INFO_DELETE_INTRO = 'Het verwijderen van dit evenement is definitief. Weet je het zeker?....';
+const TEXT_INFO_DELETE_INTRO = 'Het verwijderen van dit evenement is definitief. Weet je het zeker?';
 
 const BUTTON_PRODUCT_VIEW = 'Artikel Weergave';
 
