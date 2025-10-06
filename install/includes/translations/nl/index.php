@@ -15,6 +15,7 @@ const TEXT_MINIMUM_VERSION = 'De versie van PHP moet minimaal <strong>%s</strong
 const TEXT_MAXIMUM_VERSION = 'Prestaties op versies <strong>%s en hoger zijn niet getest</strong>.  De versie hier is %s.';
 const TEXT_FOPEN_WRAPPERS_REQUIRED = 'Fopen Wrappers moet ingeschakeld zijn.  Dit is een <em>hosting</em> instelling welke je aan moet zetten, of vraag dit aan je Hosting.';
 const TEXT_CURL_REQUIRED = 'cURL moet ingeschakeld zijn.  Dit is een <em>hosting</em> instelling welke je aan moet zetten, of vraag dit aan je Hosting.';
+const TEXT_INTL_PREFERRED = 'intl moet ingeschakeld zijn, anders werkt de internationalisering van datumnamen mogelijk niet correct. Dit is een <em>hosting</em> instelling die jij of je hostingprovider kunt inschakelen.';
 const TEXT_WELCOME_TO = 'Welkom bij CE Phoenix Cart';
 const TEXT_HELPS_YOU_SELL = <<<'EOT'
 <p>CE Phoenix Cart helpt u artikelen wereldwijd te verkopen met uw eigen online winkel.
