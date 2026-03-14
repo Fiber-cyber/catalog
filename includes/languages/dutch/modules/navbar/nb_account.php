@@ -28,7 +28,7 @@ LI;
 LI;
   
 const MODULE_NAVBAR_ACCOUNT_LOGIN = 'Inloggen';
-const MODULE_NAVBAR_ACCOUNT_LOGOFF = '< Uitloggen';
+const MODULE_NAVBAR_ACCOUNT_LOGOFF = 'Uitloggen';
 const MODULE_NAVBAR_ACCOUNT = 'Instellingen';
 const MODULE_NAVBAR_ACCOUNT_HISTORY = 'Orders';
 const MODULE_NAVBAR_ACCOUNT_EDIT = 'Gegevens';
