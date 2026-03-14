@@ -13,4 +13,4 @@
   const MODULE_CONTENT_ACCOUNT_TITLE_TITLE        = 'Pagina Titel';
   const MODULE_CONTENT_ACCOUNT_TITLE_DESCRIPTION  = 'Toon de Pagina Titel.';
   
-  const MODULE_CONTENT_ACCOUNT_TITLE_PUBLIC_TITLE = 'Mijn Profiel Informatie';
+  const MODULE_CONTENT_ACCOUNT_TITLE_PUBLIC_TITLE = 'Account';

@@ -11,15 +11,15 @@
 */
 
   const MODULE_CONTENT_GDPR_SITE_DETAILS_TITLE = 'GDPR Site Details';
-  const MODULE_CONTENT_GDPR_SITE_DETAILS_DESCRIPTION = 'toon klanten site gegevens op de GDPR pagina.';
+  const MODULE_CONTENT_GDPR_SITE_DETAILS_DESCRIPTION = 'Toon klanten site gegevens op de GDPR pagina.';
   
-  const MODULE_CONTENT_GDPR_SITE_DETAILS_PUBLIC_TITLE = 'uw site gegevens';
+  const MODULE_CONTENT_GDPR_SITE_DETAILS_PUBLIC_TITLE = 'Uw site gegevens';
   
   const MODULE_CONTENT_GDPR_SITE_DETAILS_NEWSLETTER_SUB = 'Nieuwsbrief abonnee';
   const MODULE_CONTENT_GDPR_SITE_DETAILS_NEWSLETTER_SUB_YES = 'Ja';
   const MODULE_CONTENT_GDPR_SITE_DETAILS_NEWSLETTER_SUB_NO = 'Nee';
   
-  const MODULE_CONTENT_GDPR_SITE_DETAILS_ACCOUNT_CREATED = 'Profiel aangemaakt';
+  const MODULE_CONTENT_GDPR_SITE_DETAILS_ACCOUNT_CREATED = 'Account aangemaakt';
   
   const MODULE_CONTENT_GDPR_SITE_DETAILS_NUMBER_LOGON = 'Aantal aanmeldingen';
   const MODULE_CONTENT_GDPR_SITE_DETAILS_RECENT_LOGON = 'Meest recente aanmelding';

@@ -10,14 +10,14 @@
   Released under the GNU General Public License
 */
 
-const NAVBAR_TITLE_1 = 'Mijn Profiel';
+const NAVBAR_TITLE_1 = 'Account';
 const NAVBAR_TITLE_2 = 'Adres Boek';
 
-const HEADING_TITLE = 'Mijn persoonlijk adresboek';
+const HEADING_TITLE = 'Adresboek';
 
 const PRIMARY_ADDRESS_TITLE = 'Hoofdadres';
 const PRIMARY_ADDRESS_DESCRIPTION = <<<'EOT'
-Dit adres wordt gebruikt als vooraf geselecteerd levering- en factuuradres voor bestellingen die in deze winkel worden geplaatst en als adres voor de berekening van artikel- en de bijbehorende BTW Tarieven.
+Dit adres is het vooraf geselecteerde aflever- en factuuradres voor geplaatste bestellingen en dient tevens als adres voor de berekening van product- en servicebelastingen.
 EOT;
 const ADDRESS_BOOK_TITLE = 'Adres boekvermeldingen';
 

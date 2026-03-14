@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-const NAVBAR_TITLE_1 = 'Mijn Profiel';
-const NAVBAR_TITLE_2 = 'Data Privacy';
+const NAVBAR_TITLE_1 = 'Account';
+const NAVBAR_TITLE_2 = 'Data';
 
-const HEADING_TITLE = 'Wat we van u weten...';
+const HEADING_TITLE = 'Gegevensoverzicht';

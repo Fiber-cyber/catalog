@@ -10,15 +10,15 @@
   Released under the GNU General Public License
 */
 
-const NAVBAR_TITLE = 'Mijn Account';
+const NAVBAR_TITLE = 'Account';
 
 const OVERVIEW_TITLE = 'Overzicht';
 const OVERVIEW_SHOW_ALL_ORDERS = '(Toon alle Orders)';
 const OVERVIEW_PREVIOUS_ORDERS = 'Vorige Orders';
 
 const MY_ACCOUNT_TITLE = 'Account';
-const MY_ACCOUNT_INFORMATION = 'Account informatie';
-const MY_ACCOUNT_ADDRESS_BOOK = 'Adres boek';
+const MY_ACCOUNT_INFORMATION = 'Account details';
+const MY_ACCOUNT_ADDRESS_BOOK = 'Adressen';
 const MY_ACCOUNT_PASSWORD = 'Account wachtwoord';
 
 const MY_ORDERS_TITLE = 'Orders';
