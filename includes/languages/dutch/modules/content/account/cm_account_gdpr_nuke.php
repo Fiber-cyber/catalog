@@ -18,7 +18,7 @@
  const MODULE_CONTENT_ACCOUNT_GDPR_NUKE_NAVBAR_TITLE_1 = 'Account';
  const MODULE_CONTENT_ACCOUNT_GDPR_NUKE_NAVBAR_TITLE_2 = 'Verwijder Account';
 
- const MODULE_CONTENT_ACCOUNT_GDPR_NUKE_HEADING_TITLE = 'Verwidjer Account';
+ const MODULE_CONTENT_ACCOUNT_GDPR_NUKE_HEADING_TITLE = 'Verwijder Account';
 
  const MODULE_CONTENT_ACCOUNT_GDPR_NUKE_TEXT = '<p class="lead">Het verwijderen van je account kan niet ongedaan worden gemaakt. Zorg ervoor dat je zeker weet dat je dit wilt!</p>';
 
