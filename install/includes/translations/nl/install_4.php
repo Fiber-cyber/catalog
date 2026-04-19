@@ -16,7 +16,7 @@ const TEXT_STORE = 'Winkel';
 const TEXT_FORUM = 'Phoenix Forum';
 const TEXT_STEP_4 = 'Stap 4';
 const TEXT_STEP_4_EXPLANATION = <<<'EOT'
-<p><div class="alert alert-success">Gefeliciteerd met het installeren en configureren van CE Phoenix Cart als uw online winkeloplossing!</p></div>
+<p><div class="alert alert-success">Gefeliciteerd met het installeren en configureren van Phoenix Cart als uw online winkeloplossing!</p></div>
 <p><div class="alert alert-info">Wij wensen u het allerbeste met het succes van uw online winkel. Word lid en neem deel aan onze community.</p></div>
 EOT;
 const TEXT_TEAM = 'Het Phoenix-team';

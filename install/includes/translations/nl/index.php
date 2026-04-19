@@ -16,13 +16,13 @@ const TEXT_MAXIMUM_VERSION = 'Prestaties op versies <strong>%s en hoger zijn nie
 const TEXT_FOPEN_WRAPPERS_REQUIRED = 'Fopen Wrappers moet ingeschakeld zijn.  Dit is een <em>hosting</em> instelling welke je aan moet zetten, of vraag dit aan je Hosting.';
 const TEXT_CURL_REQUIRED = 'cURL moet ingeschakeld zijn.  Dit is een <em>hosting</em> instelling welke je aan moet zetten, of vraag dit aan je Hosting.';
 const TEXT_INTL_PREFERRED = 'intl moet ingeschakeld zijn, anders werkt de internationalisering van datumnamen mogelijk niet correct. Dit is een <em>hosting</em> instelling die jij of je hostingprovider kunt inschakelen.';
-const TEXT_WELCOME_TO = 'Welkom bij CE Phoenix Cart';
+const TEXT_WELCOME_TO = 'Welkom bij Phoenix Cart';
 const TEXT_HELPS_YOU_SELL = <<<'EOT'
-<p>CE Phoenix Cart helpt u artikelen wereldwijd te verkopen met uw eigen online winkel.
+<p>Phoenix Cart helpt u artikelen wereldwijd te verkopen met uw eigen online winkel.
 De Administratie Tool beheert artikelen, klanten, bestellingen, aanbiedingen en meer om uw online bedrijf succesvol op te bouwen.</p>
-<p>CE Phoenix Cart heeft een gemeenschap van winkeleigenaren en ontwikkelaars die elkaar ondersteunen en hebben veel <span class="badge rounded-pill text-bg-success">gratis en betaalde add-ons</span> geleverd die de functies en het potentieel van uw online winkel zullen uitbreiden.</p>
+<p>Phoenix Cart heeft een gemeenschap van winkeleigenaren en ontwikkelaars die elkaar ondersteunen en hebben veel <span class="badge rounded-pill text-bg-success">gratis en betaalde add-ons</span> geleverd die de functies en het potentieel van uw online winkel zullen uitbreiden.</p>
 EOT;
-const TEXT_NEW_INSTALLATION_OF = 'Nieuwe CE Phoenix Cart v%s Installatie';
+const TEXT_NEW_INSTALLATION_OF = 'Nieuwe Phoenix Cart v%s Installatie';
 const TEXT_CONFIGURATION_NOT_WRITABLE = <<<'EOT'
 <p>De webserver kan de installatieparameters niet opslaan in de configuratiebestanden.</p>
 <p>Voor de volgende bestanden moeten de bestandsrechten zijn ingesteld op beschrijfbaar (chmod 777 werkt altijd):</p>
