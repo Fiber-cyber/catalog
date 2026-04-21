@@ -43,7 +43,7 @@ const HEADER_TITLE_MY_ACCOUNT = 'Account';
 // checkout procedure text
 const CHECKOUT_BAR_DELIVERY = 'Leverings Informatie<br><small class="text-muted">Vervolgens kies je de betaalmethode.</small>';
 const CHECKOUT_BAR_PAYMENT = 'Betalings informatie<br><small class="text-muted">Controleer deze bestelling - er zijn nog geen kosten in rekening gebracht.</small>';
-const CHECKOUT_BAR_CONFIRMATION = 'Controleer uw bestelling<br><small class="text-muted">Vervolgens rondt je de aankoop veilig af.</small>';
+const CHECKOUT_BAR_CONFIRMATION = 'Controleer uw bestelling<br><small class="text-muted">Vervolgens rond je de aankoop veilig af.</small>';
 
 // pull down default text
 const PULL_DOWN_DEFAULT = 'Selecteer';
