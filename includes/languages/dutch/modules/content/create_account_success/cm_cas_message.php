@@ -11,7 +11,7 @@
 */
 
   const MODULE_CONTENT_CAS_MESSAGE_TITLE        = 'Dank u wel bericht';
-  const MODULE_CONTENT_CAS_MESSAGE_DESCRIPTION  = 'Toont een bericht aan de klant die hem bedankt voor het aanmaken van zijn of haar profiel.';
+  const MODULE_CONTENT_CAS_MESSAGE_DESCRIPTION  = 'Toont een bericht aan de klant die hem bedankt voor het aanmaken van zijn of haar account.';
   
   const MODULE_CONTENT_CAS_MESSAGE_PUBLIC_TITLE = <<<'EOT'
 <p class="lead">Welkom! Je account is klaar.</p>
