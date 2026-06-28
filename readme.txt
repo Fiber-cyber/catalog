@@ -1,39 +1,14 @@
-PhoenixCart 1.1.0.8 Nederlandse vertaling
+# PhoenixCart 1.1.0.8 Nederlandse vertaling
 
+Deze repository bevat een volledige Nederlandse vertaling van PhoenixCart 1.1.0.8, samengesteld door **Fiber**.
 
-Vertaald door Fiber
-=======
-Als je de installatie in het Nederlands wilt doe dan het volgende zoals hieronder beschreven.
-Kopieër en/of knip en plak de map install uit deze download naar de root van je shop.
-(Locatie is install\includes\translations\)
+## Installatie
 
-Installatie is nu in het Nederlands.
-====
+LET OP:
+1. De installatiewizard volgt de ingestelde taal van je browser. Wil je de installatie in het Nederlands uitvoeren? Zorg er dan voor dat je browsertaal op Nederlands staat!
+2. Kopieer de map `install` uit deze download naar de root van je shop (`/install`).
+3. Doorloop het installatieproces — alles is nu in het Nederlands (mits je browsertaal Nederlands is).
 
-Login in de Admin van je Shop..
-- Ga naar Localization 
-- Klik op Languages
-- Klik op New Language
-- Vul de waarden in:
-  Name: Netherlands of Nederlands net waar je zelf de voorkeur aan geeft.
-  Code: nl
-  Image: icon.gif
-  Directory: dutch
-  Sorteervolgorde: (bepaal zelf).
-- Klik op Save
-
-===
-Toegevoegd zones_dutch.sql en zones_belgie.sql met alle zones van Nederland en België
-===
-=======
-Translated by Fiber
-=====
-If you want the installation in Dutch, do the following as described below.
-Copy and/or cut and paste the install folder from this download to the root of your shop.
-(Location is install\includes\translations\)
-Installation is now in Dutch.
-=====
-=======
 ## Taal toevoegen in Admin
 
 1. Login in de Admin van je shop.
@@ -56,7 +31,8 @@ Met de bestanden `zones-dutch.sql` en `zones-belgie.sql` kun je alle provincies 
 Dit project valt onder de GNU General Public License (GPL).
 Zie LICENSE.txt voor de volledige licentievoorwaarden.
 Vertaling: © Fiber — gebaseerd op PhoenixCart.
-====
+
+---
 
 # PhoenixCart 1.1.0.8 Dutch Translation
 
@@ -92,19 +68,4 @@ You can import all provinces of the Netherlands and Belgium to your shop with th
 This project is licensed under the GNU General Public License (GPL).
 See LICENSE.txt for the full license text.
 Translation © Fiber — based on PhoenixCart.
->>>>>>> Stashed changes
 
-Login to the Admin of your Shop ..
-- Go to Localization
-- Click on Languages
-- Click on  New Languages
-- Enter the values:
-  Name Dutch or Netherlands just what you prefer yourself.
-  Code: nl
-  Image: icon.gif
-  Directory: dutch
-  Sort order: (determine yourself).
-- Click on Save 
-===
-Added zones_dutch.sql en zones_belgie.sql with all zones from Dutch and Belgium
-===
