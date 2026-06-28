@@ -9,7 +9,7 @@
 
   Released under the GNU General Public License
 
-  Vertaald door Fiber - Phoenix 1.1.0.6
+  Vertaald door Fiber - Phoenix 1.1.0.7
 
 */
 
@@ -31,7 +31,7 @@ const HTML_PARAMS = ' dir="ltr" lang="nl"';
 const CHARSET = 'utf-8';
 
 // page title
-const TITLE = 'CE Phoenix Cart - Beheer';
+const TITLE = 'Phoenix Cart - Beheer';
 
 // header text in includes/hooks/admin/siteWide/hMenu.php
 const HEADER_TITLE_ONLINE_CATALOG = '<i class="fas fa-shopping-cart me-1 text-primary" aria-hidden="true" title="Uw Shop"></i><span class="border-bottom border-primary">Uw Shop</span>';

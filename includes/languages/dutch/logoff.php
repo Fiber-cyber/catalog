@@ -13,6 +13,6 @@
 const HEADING_TITLE = 'Afmelden';
 const NAVBAR_TITLE = 'Afmelden';
 const TEXT_MAIN = <<<'EOT'
-U bent succesvol afgemeld van uw profiel. Het is nu veilig om de shop te verlaten.<br><br>
-Uw winkelwagentje is opgeslagen, de artikelen erin worden hersteld wanneer u zich opnieuw aanmeld bij uw profiel.
+Je bent nu uitgelogd.
+Je winkelmandje is opgeslagen. Je kunt op elk gewenst moment inloggen om je bestelling af te ronden.
 EOT;

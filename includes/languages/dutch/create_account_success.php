@@ -10,5 +10,5 @@
   Released under the GNU General Public License
 */
 
-const NAVBAR_TITLE_1 = 'Maak uw profiel aan';
+const NAVBAR_TITLE_1 = 'Maak uw account';
 const NAVBAR_TITLE_2 = 'Succes';
