@@ -144,3 +144,10 @@ const GET_ADDONS = '<img alt="" src="images/icon_phoenix.png" class="me-2">Addon
 const ADDONS_FREE = 'Gratis';
 const ADDONS_COMMERCIAL = 'Betaald';
 const ADDONS_PRO = 'PRO';
+
+// command palette
+const CP_AVAILABLE_VERBS = 'Beschikbare commando\'s';
+const CP_VERB_SUBJECTS = 'Commando\'s: %s';
+const CP_VERB_SUBJECT_NOT_FOUND = 'Commando niet gevonden: %s %s';
+const CP_INCOMPLETE_COMMAND = 'Commando niet kompleet: %s';
+const CP_INVALID_COMMAND = 'Ongeldige commando';
