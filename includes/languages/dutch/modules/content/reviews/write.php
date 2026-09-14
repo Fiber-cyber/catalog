@@ -11,13 +11,13 @@
   Released under the GNU General Public License
 */
 
-const NAVBAR_TITLE = 'Schrijf een recensie';
+const NAVBAR_TITLE = 'Schrijf een beoordeling';
 
 const SUB_TITLE_FROM = 'Van';
-const SUB_TITLE_REVIEW = 'Uw recensie';
+const SUB_TITLE_REVIEW = 'Uw beoordeling';
 
 const SUB_TITLE_RATING = 'Beoordeling';
-const SUB_TITLE_REVIEW_TEXT = 'Uw recensie...';
+const SUB_TITLE_REVIEW_TEXT = 'Uw beoordeling...';
 const SUB_TITLE_REVIEW_NICKNAME = 'Uw naam of bijnaam.';
 
 const VERIFIED_BUYER = '%s [Geverifieerde koper]';
