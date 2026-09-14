@@ -62,8 +62,8 @@ const IMAGE_BUTTON_SEARCH = 'Zoeken';
 const IMAGE_BUTTON_UPDATE = 'Update';
 const IMAGE_BUTTON_UPDATE_PREFERENCES = 'Update Voorkeuren';
 
-const SMALL_IMAGE_BUTTON_DELETE = 'Delete';
-const SMALL_IMAGE_BUTTON_EDIT = 'Edit';
+const SMALL_IMAGE_BUTTON_DELETE = 'Verwijder';
+const SMALL_IMAGE_BUTTON_EDIT = 'Bewerk';
 
 const TEXT_SEARCH_PLACEHOLDER = 'Zoeken';
 
