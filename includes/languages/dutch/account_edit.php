@@ -10,9 +10,9 @@
   Released under the GNU General Public License
 */
 
-const NAVBAR_TITLE_1 = 'Mijn Profiel';
-const NAVBAR_TITLE_2 = 'Bewerk Profiel';
+const NAVBAR_TITLE_1 = 'Account';
+const NAVBAR_TITLE_2 = 'Bewerk account';
 
-const HEADING_TITLE = 'Mijn Profiel Informatie';
+const HEADING_TITLE = 'Account';
 
-const SUCCESS_ACCOUNT_UPDATED = 'Uw profiel is succesvol bijgewerkt.';
+const SUCCESS_ACCOUNT_UPDATED = 'Uw account is succesvol bijgewerkt.';

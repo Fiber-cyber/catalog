@@ -15,11 +15,11 @@ const NAVBAR_TITLE_2 = 'Wachtwoord vergeten';
 
 const HEADING_TITLE = 'Ik ben mijn wachtwoord vergeten!';
 
-const TEXT_MAIN = 'Als u uw wachtwoord bent vergeten, vul hieronder uw e-mailadres in en we sturen u instructies over hoe u uw wachtwoord veilig kunt wijzigen.';
+const TEXT_MAIN = 'Voer hieronder uw e-mailadres in. We sturen u een link om uw wachtwoord opnieuw in te stellen.';
 
-const TEXT_PASSWORD_RESET_INITIATED = 'Controleer uw e-mail voor instructies over hoe u uw wachtwoord kunt wijzigen. De instructies bevatten een link die slechts 24 uur geldig is of totdat uw wachtwoord is bijgewerkt.';
+const TEXT_PASSWORD_RESET_INITIATED = 'Controleer je e-mail voor een link om je wachtwoord opnieuw in te stellen. De link is 24 uur geldig.';
 
-const TEXT_NO_EMAIL_ADDRESS_FOUND = 'Fout: het e-mailadres is niet gevonden in onze database, probeer het opnieuw.';
+const TEXT_NO_EMAIL_ADDRESS_FOUND = 'Er is geen account gevonden met dat e-mailadres. Controleer dit alstublieft.';
 
 const ERROR_ACTION_RECORDER = 'Fout: er is al een link voor het opnieuw instellen van het wachtwoord verzonden. Probeer het over %s minuten opnieuw.';
 

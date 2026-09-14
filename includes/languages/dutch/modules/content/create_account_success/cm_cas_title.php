@@ -13,4 +13,4 @@
   const MODULE_CONTENT_CAS_TITLE_TITLE        = 'Pagina Titel';
   const MODULE_CONTENT_CAS_TITLE_DESCRIPTION  = 'Toon de Pagina Titel.';
   
-  const MODULE_CONTENT_CAS_TITLE_PUBLIC_TITLE = 'Bedankt voor het instellen van uw profiel!';
+  const MODULE_CONTENT_CAS_TITLE_PUBLIC_TITLE = 'Bedankt voor het instellen van uw Account!';

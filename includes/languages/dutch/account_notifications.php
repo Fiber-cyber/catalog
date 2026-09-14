@@ -10,12 +10,12 @@
   Released under the GNU General Public License
 */
 
-const NAVBAR_TITLE_1 = 'Mijn Profiel';
+const NAVBAR_TITLE_1 = 'Acount';
 const NAVBAR_TITLE_2 = 'Artikel Notificaties';
 
 const HEADING_TITLE = 'Artikel Notificaties';
 
-const MY_NOTIFICATIONS_TITLE = 'Mijn Artikel Notificaties';
+const MY_NOTIFICATIONS_TITLE = 'Artikel Notificaties';
 const MY_NOTIFICATIONS_DESCRIPTION = <<<'EOT'
 Met de artikelmeldingslijst kunt u op de hoogte blijven van artikelen die u interessant vindt.<br><br>
 Als u op de hoogte wilt blijven van alle artikelwijzigingen, selecteert u <strong>Algemene Artikel Notificaties</strong> en klik op Voorkeuren bijwerken.

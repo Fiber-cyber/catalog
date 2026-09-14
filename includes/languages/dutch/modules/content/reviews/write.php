@@ -1,4 +1,5 @@
 <?php
+
 /*
   $Id$
 
@@ -32,5 +33,5 @@ const TEXT_REVIEW_RECEIVED = 'Bedankt voor uw recensie van %s! Het is ter goedke
 
 const TEXT_REVIEW_WRITING = '<p class="lead">%s, laat ons alstublieft uw mening en beoordeling weten over %s - dank u wel!</p><p>Nadat u op de knop "Verzenden" hebt gedrukt, gaat deze ter goedkeuring naar de winkeleigenaar en zou deze binnenkort op de site moeten verschijnen. Bedankt voor uw tijd...</p>';
 
-const TEXT_NOT_PURCHASED = '%s er lijkt een conflict te zijn!  U heeft dit artikel niet gekocht!';
-const TEXT_ALREADY_REVIEWED = '%s er lijkt een conflict te zijn!  U heeft dit artikel al beoordeeld!';
+const TEXT_NOT_PURCHASED = '%s Bedankt voor je interesse! Reviews zijn momenteel alleen zichtbaar voor geverifieerde kopers om de authenticiteit te waarborgen.<br>Als je dit artikel recent hebt gekocht, kan het 24-48 uur duren voordat je review is verwerkt.';
+const TEXT_ALREADY_REVIEWED = '%s We zien dat je al een review voor dit product hebt achtergelaten.<br>Bedankt dat je de tijd hebt genomen om je ervaring te delen!';

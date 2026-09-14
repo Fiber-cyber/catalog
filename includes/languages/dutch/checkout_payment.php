@@ -21,4 +21,4 @@ const TABLE_HEADING_PAYMENT_METHOD = 'Betaalmethode';
 
 const TEXT_ENTER_PAYMENT_INFORMATION = 'Dit is momenteel de enige betalingsmethode die beschikbaar is voor deze bestelling.';
 
-const BUTTON_CONTINUE_CHECKOUT_PROCEDURE = 'Ga door met afrekenen';
+const BUTTON_CONTINUE_CHECKOUT_PROCEDURE = 'Ga verder met het controleren van uw bestelling.';

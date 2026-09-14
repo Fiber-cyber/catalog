@@ -12,4 +12,4 @@
 
 const MODULE_ADMIN_DASHBOARD_SECURITY_CHECKS_TITLE = 'Beveiligingscontroles';
 const MODULE_ADMIN_DASHBOARD_SECURITY_CHECKS_DESCRIPTION = 'Voer beveiligingscontroles uit';
-const MODULE_ADMIN_DASHBOARD_SECURITY_CHECKS_SUCCESS = 'Dit is een correct geconfigureerde installatie van CE Phoenix!';
+const MODULE_ADMIN_DASHBOARD_SECURITY_CHECKS_SUCCESS = 'Dit is een correct geconfigureerde installatie van Phoenix.';

@@ -11,11 +11,11 @@
 */
 
 // main_page.php
-const TITLE = 'Uw online bedrijf starten met CE Phoenix Cart';
-const TEXT_SOFTWARE_NAME = 'CE Phoenix Cart';
+const TITLE = 'Uw online bedrijf starten met Phoenix Cart';
+const TEXT_SOFTWARE_NAME = 'Phoenix Cart';
 const TEXT_WEBSITE = '<img src="images/icon_phoenix.png" alt="Phoenix Icon" class="me-1">Website';
 const TEXT_SUPPORT = '<i class="fas fa-question-circle me-1 text-dark" aria-hidden="true"></i>Support';
-const TEXT_COPYRIGHT = 'CE Phoenix Cart &copy; 2000-%d';
+const TEXT_COPYRIGHT = 'Phoenix Cart &copy; 2000-%d';
 const TEXT_USER_GUIDE = '<i class="fas fa-school me-1 text-dark" aria-hidden="true"></i>Gebruikers Handleiding';
 
 // common
@@ -34,7 +34,7 @@ const TITLE_REQUIRED_INFORMATION = '';
 
 const TEXT_NEW_INSTALLATION = 'Nieuwe Installatie';
 const TEXT_WEB_INSTALL = <<<'EOT'
-<p>Deze webgebaseerde installatie zal <strong>CE Phoenix Cart v%s</strong> installeren en configureren om op deze server te draaien.</p>
+<p>Deze webgebaseerde installatie zal <strong>Phoenix Cart v%s</strong> installeren en configureren om op deze server te draaien.</p>
 <p>Volg de instructies op het scherm die u door de configuratie-opties van de databaseserver, webserver en winkel leiden.
 Als er in welk stadium dan ook hulp nodig is, raadpleeg dan de documentatie of zoek hulp in het <a class="alert-link" href="https://phoenixcart.org/forum/index.php">Phoenix Forum</a>.</p>
 EOT;

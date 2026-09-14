@@ -14,6 +14,7 @@ const HEADING_TITLE = 'Actie Recorder';
 
 const TABLE_HEADING_MODULE = 'Module';
 const TABLE_HEADING_CUSTOMER = 'Klant';
+const TABLE_HEADING_IDENTIFIER = 'Identificatie';
 const TABLE_HEADING_SUCCESS = 'Resultaat';
 const TABLE_HEADING_DATE_ADDED = 'Datum';
 const TABLE_HEADING_ACTION = 'Actie';

@@ -10,7 +10,7 @@
   Released under the GNU General Public License
 */
 
-const NAVBAR_TITLE_1 = 'Mijn Profiel';
+const NAVBAR_TITLE_1 = 'Account';
 const NAVBAR_TITLE_2 = 'Adres Boek';
 
 const NAVBAR_TITLE_ADD_ENTRY = 'Nieuwe invoer';
@@ -22,7 +22,7 @@ const HEADING_TITLE_MODIFY_ENTRY = 'Adres boekvermelding bijwerken';
 const HEADING_TITLE_DELETE_ENTRY = 'Adres boekvermelding verwijderen';
 
 const DELETE_ADDRESS_TITLE = 'Verwijder Adres';
-const DELETE_ADDRESS_DESCRIPTION = 'Weet u zeker dat u het geselecteerde adres uit uw adresboek wilt verwijderen?';
+const DELETE_ADDRESS_DESCRIPTION = 'Weet u het zeker dat je dit adres wilt verwijderen?';
 
 const NEW_ADDRESS_TITLE = 'Nieuwe adres boekvermelding';
 

@@ -10,10 +10,10 @@
   Released under the GNU General Public License
 */
 
-const NAVBAR_TITLE_1 = 'Mijn Profiel';
+const NAVBAR_TITLE_1 = 'Account';
 const NAVBAR_TITLE_2 = 'Historie';
 
-const HEADING_TITLE = 'Mijn Order Historie';
+const HEADING_TITLE = 'Order Historie';
 
 const TEXT_ORDER_NUMBER = 'Order';
 const TEXT_ORDER_STATUS = 'Status';

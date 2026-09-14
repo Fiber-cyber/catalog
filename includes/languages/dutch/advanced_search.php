@@ -37,17 +37,24 @@ const TEXT_ALL_MANUFACTURERS = 'Alle Fabrikanten';
 
 const HEADING_SEARCH_HELP = 'Zoek hulp';
 const TEXT_SEARCH_HELP = <<<'EOT'
-Sleutelwoorden kunnen worden gescheiden door  en/of instructies voor meer controle over de zoekresultaten.<br>
+<b>Zoekhulp – Zo werkt het zoeken</b><br>
 <br>
-Als voorbeeld, <u>Fiacre EN Peer</u> genereert bijvoorbeeld een resultatenset die beide woorden bevat, echter voor <u>sinaasappel OF citroen</u>, de resultaatset die dan wordt geretourneerd, bevat beide of één van beide woorden.<br>
+<b>Meerdere zoekwoorden combineren:</b><br>
+Typ meerdere woorden om op alle woorden tegelijk te zoeken.<br>
+Gebruik het woord <b>EN</b> om precies aan te geven dat beide woorden moeten voorkomen.<br>
+Bijvoorbeeld: <u>Peer EN Appel</u> zoekt resultaten waar beide woorden staan.<br>
 <br>
-Naar exacte overeenkomsten kan worden gezocht door trefwoorden tussen dubbele aanhalingstekens te plaatsen.<br>
+<b>Kiezen tussen zoekwoorden:</b><br>
+Wil je dat het resultaat één van beide woorden bevat? Zet <b>OF</b> tussen de woorden.<br>
+Bijvoorbeeld: <u>sinaasappel OF citroen</u> zoekt naar alles waar 'sinaasappel', 'citroen' of beide woorden staan.<br>
 <br>
-Als voorbeeld, <u>"groene appels"</u> genereert als zoekopdracht de exacte benaming van hetgeen wat tussen de aanhalingstekens werd ingevuld.<br>
+<b>Zoek naar een exacte zin:</b><br>
+Stop je zoekopdracht tussen dubbele aanhalingstekens (" ") als je precies die woordcombinatie zoekt.<br>
+Bijvoorbeeld: <u>"groene appels"</u> laat alleen resultaten zien waar deze woorden precies zo achter elkaar staan.<br>
 <br>
-Haakjes kunnen worden gebruikt voor verdere controle over de zoekresultaten<br>
-<br>
-Als voorbeeld, <u> Pixabay en (limoen of rood of "groene appel") </u>.
+<b>Gebruik haakjes voor complexe zoekopdrachten:</b><br>
+Haakjes maken je zoekopdracht flexibeler. Combineer EN en OF voor meer opties.<br>
+Bijvoorbeeld: <u>Pixabay EN (limoen OF rood OF "groene appel")</u> zoekt naar resultaten met 'Pixabay' en één (of meer) van de woorden/woordgroepen in de haakjes.<br>
 EOT;
 const TEXT_CLOSE_WINDOW = '<u>Sluit venster</u> [x]';
 

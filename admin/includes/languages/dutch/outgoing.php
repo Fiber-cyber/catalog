@@ -32,7 +32,7 @@ const TEXT_HEADING_DELETE_OUTGOING_EMAIL = 'Verwijder E-mail uit de wachtrij';
 
 const TEXT_NEW_INTRO = 'Vul de volgende gegevens in voor het nieuwe e-mailbericht';
 const TEXT_EDIT_INTRO = 'Breng de nodige wijzigingen aan';
-const TEXT_DELETE_INTRO = 'Weet u zeker dat u dit e-mailbericht wilt verwijderen??';
+const TEXT_DELETE_INTRO = 'Weet je het zeker dat je deze template <i>en alle bijbehorende e-mails in de wachtrij</i> wilt verwijderen?</i>';
 
 const TEXT_DATE_ADDED = 'Datum toegevoegd: %s';
 const TEXT_LAST_MODIFIED = 'Laatst gewijzigd: %s';

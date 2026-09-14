@@ -13,4 +13,4 @@
   const MODULE_NAVBAR_SPECIAL_OFFERS_TITLE = 'Aanbiedingen';
   const MODULE_NAVBAR_SPECIAL_OFFERS_DESCRIPTION = 'Toon aanbiedingen in de Navbar.';
   
-  const MODULE_NAVBAR_SPECIAL_OFFERS_PUBLIC_TEXT = '<i title="Speciale aanbiedingen" class="fas fa-fire fa-fw fa-xl"></i><span class="d-inline d-sm-none d-md-inline"> Aanbiedingen</span>';
+  const MODULE_NAVBAR_SPECIAL_OFFERS_PUBLIC_TEXT = '<i title="Speciale aanbiedingen" class="fas fa-fire fa-fw fa-xl me-2"></i>Aanbiedingen';

@@ -10,12 +10,12 @@
   Released under the GNU General Public License
 */
 
-const NAVBAR_TITLE_1 = 'Mijn Profiel';
-const NAVBAR_TITLE_2 = 'Verander Wachtwoord';
+const NAVBAR_TITLE_1 = 'Account';
+const NAVBAR_TITLE_2 = 'Wachtwoord';
 
-const HEADING_TITLE = 'Mijn Wachtwoord';
+const HEADING_TITLE = 'Wachtwoord';
 
-const MY_PASSWORD_TITLE = 'Mijn Wachtwoord';
+const MY_PASSWORD_TITLE = 'Wachtwoord';
 
 const SUCCESS_PASSWORD_UPDATED = 'Uw wachtwoord is succesvol Geüpdatet.';
 const ERROR_CURRENT_PASSWORD_NOT_MATCHING = 'Uw huidige wachtwoord kwam niet overeen met het wachtwoord in onze database. Probeer het alstublieft opnieuw.';
