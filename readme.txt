@@ -1,6 +1,6 @@
-# PhoenixCart 1.1.0.7 Nederlandse vertaling
+# PhoenixCart 1.1.0.8 Nederlandse vertaling
 
-Deze repository bevat een volledige Nederlandse vertaling van PhoenixCart 1.1.0.6, samengesteld door **Fiber**.
+Deze repository bevat een volledige Nederlandse vertaling van PhoenixCart 1.1.0.8, samengesteld door **Fiber**.
 
 ## Installatie
 
@@ -34,9 +34,9 @@ Vertaling: © Fiber — gebaseerd op PhoenixCart.
 
 ---
 
-# PhoenixCart 1.1.0.7 Dutch Translation
+# PhoenixCart 1.1.0.8 Dutch Translation
 
-This repository contains a full Dutch translation of PhoenixCart 1.1.0.6, compiled by **Fiber**.
+This repository contains a full Dutch translation of PhoenixCart 1.1.0.8, compiled by **Fiber**.
 
 ## Installation
 

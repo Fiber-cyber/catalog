@@ -21,9 +21,6 @@ const TEXT_PASSWORD_RESET_INITIATED = 'Controleer je e-mail voor een link om je 
 
 const TEXT_NO_EMAIL_ADDRESS_FOUND = 'Er is geen account gevonden met dat e-mailadres. Controleer dit alstublieft.';
 
-const EMAIL_PASSWORD_RESET_SUBJECT = STORE_NAME . ' - Wachtwoord opnieuw instellen';
-const EMAIL_PASSWORD_RESET_BODY = 'We hebben een verzoek ontvangen om uw wachtwoord voor uw account opnieuw in te stellen. ' . STORE_NAME . '.' . "\n\n" . 'Klik op de onderstaande link om een ​​nieuw wachtwoord te kiezen:'. "\n\n%s\n\n" . 'Deze link verloopt na 24 uur.' . "\n\n" . 'Hulp nodig? Contact ons op: ' . STORE_OWNER_EMAIL_ADDRESS . '.' . "\n\n";
-
 const ERROR_ACTION_RECORDER = 'Fout: er is al een link voor het opnieuw instellen van het wachtwoord verzonden. Probeer het over %s minuten opnieuw.';
 
 const IMAGE_BUTTON_RESET_PASSWORD = 'Reset mijn wachtwoord';
