@@ -25,7 +25,8 @@ $short_date_formatter = new IntlDateFormatter('nl', IntlDateFormatter::SHORT, In
 $date_time_formatter = new IntlDateFormatter('nl', IntlDateFormatter::SHORT, IntlDateFormatter::LONG);
 
 // Global entries for the <html> tag
-const HTML_PARAMS = ' dir="ltr" lang="nl"';
+const HTML_PARAMS = 'dir="ltr" lang="nl" data-bs-theme="system"';
+
 
 // charset for web pages and emails
 const CHARSET = 'utf-8';
