@@ -35,6 +35,8 @@ const TABLE_HEADING_PRICE_EXCLUDING_TAX = 'Prijs (ex)';
 const TABLE_HEADING_PRICE_INCLUDING_TAX = 'Prijs (inc)';
 const TABLE_HEADING_TOTAL_EXCLUDING_TAX = 'Totaal (ex)';
 const TABLE_HEADING_TOTAL_INCLUDING_TAX = 'Totaal (inc)';
+const TABLE_HEADING_QTY = 'Aantal';
+
 
 const TABLE_HEADING_CUSTOMER_NOTIFIED = 'Klant ingelicht';
 const TABLE_HEADING_DATE_ADDED = 'Datum toegevoegd';
