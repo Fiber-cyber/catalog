@@ -29,7 +29,7 @@ const TEXT_RATED = 'Beoordeel dit product een %s';
 
 const IMAGE_BUTTON_ADD_REVIEW = 'Verzend uw recensie naar de winkeleigenaar';
 
-const TEXT_REVIEW_RECEIVED = 'Bedankt voor uw recensie van %s! Het is ter goedkeuring naar de winkeleigenaar gestuurd en zou binnenkort op de site moeten verschijnen.';
+const TEXT_REVIEW_RECEIVED = 'Bedankt voor uw recensie, %s! Uw recensie is ter goedkeuring naar de winkeleigenaar gestuurd en verschijnt na goedkeuring op de website.';
 
 const TEXT_REVIEW_WRITING = '<p class="lead">%s, laat ons alstublieft uw mening en beoordeling weten over %s - dank u wel!</p><p>Nadat u op de knop "Verzenden" hebt gedrukt, gaat deze ter goedkeuring naar de winkeleigenaar en zou deze binnenkort op de site moeten verschijnen. Bedankt voor uw tijd...</p>';
 
